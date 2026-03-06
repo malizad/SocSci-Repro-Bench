@@ -2,7 +2,7 @@
 
 A benchmark for evaluating AI coding agents on computational reproducibility of social science research.
 
-**Paper:** [Alizadeh et al. (2025)](https://malizad.github.io/Alizadeh_et_al_Agents_Reproducibility.pdf)
+**Paper:** [Alizadeh, Mosleh, Gilardi, and Tucker (2026)](https://malizad.github.io/Alizadeh_et_al_Agents_Reproducibility.pdf)
 
 ## Overview
 
@@ -80,10 +80,10 @@ Tasks with gold answers of `"No Data"` or `"No Code or Data"` represent non-repr
 If you use this benchmark, please cite:
 
 ```
-@article{alizadeh2025socscireprobench,
-  title={SocSci-Repro-Bench: Evaluating AI Coding Agents on Computational Reproducibility of Social Science Research},
-  author={Alizadeh, Meysam and others},
-  year={2025},
+@article{alizadeh2026socscireprobench,
+  title={Evaluating AI Coding Agents in Social Science Reproducibility},
+  author={Alizadeh, Meysam and Mosleh, Mohsen and Gilardi, Fabrizio and Tucker, Joshua},
+  year={2026},
   url={https://malizad.github.io/Alizadeh_et_al_Agents_Reproducibility.pdf}
 }
 ```
