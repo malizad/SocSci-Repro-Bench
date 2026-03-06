@@ -15,13 +15,9 @@ Papers are selected such that their results are either **fully reproducible** wi
 ```
 SocSci-Repro-Bench/
 ├── benchmark/                    # Benchmark data and gold standards
-│   ├── Papers_Tasks_Gold.json    # Gold-standard answers for all 221 tasks
-│   ├── CSS_Bench_3Tasks.json     # Full benchmark (3 tasks per paper)
-│   ├── CSS_Bench_1Task_WithoutAnswers.json  # Single-task version (no answers)
-│   ├── CSS_Bench_Ideation.json   # Research question identification tasks
-│   ├── SocSci-Bench_RQ_Gold.json # Gold-standard research questions
-│   ├── papers_tasks/             # Per-paper task definitions (1–54)
-│   └── original/                 # Original benchmark versions
+│   ├── SocSci_Repro_Bench.json   # Gold-standard answers for all 221 tasks
+│   ├── SocSci_Repro_Bench_RQ.json # Gold-standard research questions
+│   └── papers_tasks/             # Per-paper task definitions (1–54)
 ├── results/                      # Evaluation results
 │   ├── general/                  # Main accuracy and failure results
 │   │   ├── cc/                   # Claude Code results (3 runs + PDF + sycophancy)
@@ -60,7 +56,7 @@ Tasks cover analyses implemented in **R**, **Python**, and **Stata** across poli
 
 ## Data Format
 
-Each entry in `Papers_Tasks_Gold.json` contains:
+Each entry in `SocSci_Repro_Bench.json` contains:
 
 ```json
 {
