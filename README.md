@@ -17,6 +17,7 @@ SocSci-Repro-Bench/
 ├── benchmark/                    # Benchmark data and gold standards
 │   ├── SocSci_Repro_Bench.json   # Gold-standard answers for all 221 tasks
 │   ├── SocSci_Repro_Bench_RQ.json # Gold-standard research questions
+│   ├── SocSci_Repro_Bench_Metadata.json # Paper metadata (language, year, journal, etc.)
 │   └── papers_tasks/             # Per-paper task definitions (1–54)
 ├── analysis/                     # R scripts for plots and statistical analysis
 ├── LICENSE                       # CC BY 4.0
