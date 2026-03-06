@@ -63,6 +63,10 @@ Each entry in `SocSci_Repro_Bench.json` contains:
 
 Tasks with gold answers of `"No Data"` or `"No Code or Data"` represent non-reproducible papers included to test whether agents correctly identify infeasible reproduction tasks.
 
+## Replication Materials
+
+The anonymized replication materials for all 54 papers (data files and analysis scripts) are available on the [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/meysam_alizadeh).
+
 ## Citation
 
 If you use this benchmark, please cite:
