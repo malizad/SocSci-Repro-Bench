@@ -18,15 +18,6 @@ SocSci-Repro-Bench/
 │   ├── SocSci_Repro_Bench.json   # Gold-standard answers for all 221 tasks
 │   ├── SocSci_Repro_Bench_RQ.json # Gold-standard research questions
 │   └── papers_tasks/             # Per-paper task definitions (1–54)
-├── results/                      # Evaluation results
-│   ├── general/                  # Main accuracy and failure results
-│   │   ├── cc/                   # Claude Code results (3 runs + PDF + sycophancy)
-│   │   ├── cx/                   # Codex results (3 runs + PDF + sycophancy)
-│   │   ├── stratify/             # Stratified analysis (by language, time cutoff)
-│   │   ├── pdf_plots/            # PDF-condition comparison plots
-│   │   └── syco_plots/           # Sycophancy-condition comparison plots
-│   ├── paper_metadata/           # Metadata identification results
-│   └── paper_rq/                 # Research question identification results
 ├── analysis/                     # R scripts for plots and statistical analysis
 ├── LICENSE                       # CC BY 4.0
 └── README.md
