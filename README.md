@@ -2,6 +2,8 @@
 
 A benchmark for evaluating AI coding agents on computational reproducibility of social science research.
 
+**Paper:** [Alizadeh et al. (2025)](https://malizad.github.io/Alizadeh_et_al_Agents_Reproducibility.pdf)
+
 ## Overview
 
 SocSci-Repro-Bench consists of **221 reproduction tasks** drawn from **54 published social science papers** spanning four disciplines and twelve substantive domains. The benchmark is designed to evaluate whether AI coding agents can execute original research code and reproduce published findings when provided with data and replication materials.
@@ -80,8 +82,9 @@ If you use this benchmark, please cite:
 ```
 @article{alizadeh2025socscireprobench,
   title={SocSci-Repro-Bench: Evaluating AI Coding Agents on Computational Reproducibility of Social Science Research},
-  author={Alizadeh, Meysam},
-  year={2025}
+  author={Alizadeh, Meysam and others},
+  year={2025},
+  url={https://malizad.github.io/Alizadeh_et_al_Agents_Reproducibility.pdf}
 }
 ```
 
