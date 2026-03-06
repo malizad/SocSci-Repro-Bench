@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run Analysis.Rmd",
+  "tasks": [
+    "Based on results from figure 2, what is the p-value of the observed variations of social preferences within school classes compared to those of the permuted null networks at the second observation (wave 2)? Report only the number rounded to three decimal places.",
+    "Based on results from figure 2, is the within-clique variation in social preferences significantly different from the permuted null at p < 0.05 level for the first observation? Report only Yes or No.",
+    "Based on the Figure 2B results for wave 2, is the correlation in social preferences between dyads with relationship strength (5,6] significantly different from the permuted null at p < 0.05 level? Report only Yes or No.",
+    "From the Figure 3 logistic regression results, what is the p-value for the DC (defector to cooperator) coefficient? Report only the number rounded to two decimal places."
+  ]
+}

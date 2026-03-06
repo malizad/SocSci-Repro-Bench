@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Run dataverse_code.R",
+  "tasks": [
+    "From the fig1_any_app_effects.pdf plot, report the mean effect of cross-party interaction on an anonymous chat platform on Depolarization Index. Only report the number rounded to three decimal places.",
+    "From the fig3_party_effects.pdf plot results, is the depolarization effect larger for Republicans than Democrats? Only report Yes or No.",
+    "From the fig2_label_condition_effects.pdf plot results, what is the point estimate for the Incorrect Labels group on the Issue Index? Only report the number rounded to three decimal places.",
+    "From the fig3_party_effects.pdf plot results, is the effect on Affect Index statistically significant for Democrats? Report only Yes or No.",
+    "From fig3_party_effects.pdf results, what is the CACE estimate for Issue Index for Republicans? Only report the number rounded to three decimal places."
+  ]
+}

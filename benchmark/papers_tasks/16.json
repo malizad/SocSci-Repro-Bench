@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run codes in the preprocessing folder, then run codes in RQ0_Prevalence, then run codes in RQ1, RQ2, and RQ3 folders.",
+  "tasks": [
+    "What date (in DD-MM-YYYY format) had the highest percentage of fake news shared by supersharers as a proportion of all political tweets?",
+    "On an average day, what proportion of all political news shared by the panel of 664,391 individuals were linked to fake news sources? Report only the number rounded to three decimal places.",
+    "Based on the RQ2 results, what proportion of supersharers are White? Report only the number rounded to three decimal places.",
+    "Based on the RQ3 results, what proportion of supesharers are bots? Report only the number rounded to three decimal places."
+  ]
+}

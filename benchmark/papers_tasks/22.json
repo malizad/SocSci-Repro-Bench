@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Run 01-main-text.R, then run func_model_permute.R",
+  "tasks": [
+    "Based on results in Figure 1a, what proportion of respondents in the German sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.",
+    "Based on the replication data, what proportion of respondents in the US sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.",
+    "Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Item type: Elite Visual' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.",
+    "Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Education: High' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.",
+    "Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Gender: Female' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run the Replication_Code_FigTab.Rmd file",
+  "tasks": [
+    "From FIGURE_2.pdf plot results, report the measure with highest mean Percentage Change due to Multimodal Labeling. Report only the name from (Delta T, Delta Tv, Delta R, Delta I, Delta P).",
+    "From FIGURE_2.pdf plot results, report the mean Percentage Change due to Multimodal Labeling for Delta I. Report only the number rounded to three decimal places.",
+    "From FIGURE_2.pdf plot results, report whether Multimodal Labeling increases the Classifier predictive power. Report only Yes or No."
+  ]
+}

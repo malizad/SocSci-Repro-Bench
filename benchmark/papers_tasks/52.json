@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Convert all .do files into Python/R and run them",
+  "tasks": [
+    "From Study 1 results, what is the total sample size? Report only the number",
+    "In Study 1 (Figure 1), by how many percentage points did bipartisan criticism reduce strong support for relying on COVID-19 models in the full sample? Report only the number rounded to one decimal place.",
+    "In Study 2 (Figure 2), by how many percentage points did the Cuomo treatment decrease support for using models to guide reopening policies among all subjects? Report only the number rounded to one decimal place."
+  ]
+}

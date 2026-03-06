@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run AnalysisScript1.R, then Run AnalysisScript2.R, then Run AnalysisScript3.R",
+  "tasks": [
+    "From the Fig2.pdf plot results, report the president name with largest science- and research-related budget appropriations at his term",
+    "From Fig3.pdf results, which coefficient (Rep House, Rep Senate, Rep President) has the largest positive point estimate in the 'With Controls' model?",
+    "From Fig3.pdf results, report only the numeric value (in millions of dollars) of the Rep House coefficient in the 'Without Controls' model. Report only the number rounded to one decimal place."
+  ]
+}

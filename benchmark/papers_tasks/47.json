@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all R scripts except 01_attrition.R, 02_balance.R, and 08a_pate_raking.R",
+  "tasks": [
+    "Based on replication materials and results, how many participants are in the main analytic sample? Report only the number.",
+    "From the main polarization plot (Figure 2), what is the post-experiment treatment effect estimate for the reduced exposure experiment? Report only the number rounded to two decimal places.",
+    "From the main polarization plot (Figure 2), what is the lower bound of the 95% confidence interval for the post-experiment treatment effect in the increased exposure experiment? Report only the number rounded to two decimal places."
+  ]
+}

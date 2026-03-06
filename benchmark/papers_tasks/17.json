@@ -1,0 +1,13 @@
+{
+  "task_prompt": "Convert all .do files to R and run them.",
+  "tasks": [
+    "Based on Table 1 results in Study 1, how much higher are prevention intentions in the public threat condition compared to the control condition? Only report the number rounded to two decimal places.",
+    "Based on Table 1 results in Study 1, what is the Cohen's d for the effect of the public threat treatment on prevention intentions among participants who answered the dependent variables first? Report only the number rounded to two decimal places.",
+    "Based on results in Table 2, among participants who answered the dependent variables first, how much lower are prevention intentions in the personal treatment compared to the public treatment?. Report only the number rounded to two decimal places.",
+    "Based on results in Table 3 for Study 2, what is the standardized coefficient of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to three decimal places.",
+    "In Table 3 for Study 1, what is the standard error of the effect of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to four decimal places.",
+    "Based on Study 3 results in Table 6, what is the standardized coefficient of public threat on prevention intentions in the multiple regression model using pre-treatment (baseline) prevention intentions as the outcome? Report only the number rounded to three decimal places.",
+    "Based on Study 3 results in Table 6, what is the standard error of the effect of public threat on post-treatment prevention intentions in the multiple regression model? Report only the number rounded to three decimal places.",
+    "Based on Study 3 results in Table 6, is the effect of public threat on post-treatment prevention intentions statistically significant (p < 0.05) in the multiple regression model? Report only Yes or No."
+  ]
+}

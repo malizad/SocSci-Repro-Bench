@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Translate the '230412 CR.do' file into R and run it.",
+  "tasks": [
+    "From the figure2_perceived_accuracy.png plot, report the name of a country with highest mean Perceived accuracy for true headlines. Ignore the confidence interval.",
+    "From the figure3_individual_predictors.png plot, report the 'individual difference measure' with highest 'coefficient of the interaction between headline veracity and the z-scored individual difference when predicting perceived accuracy'. Ignore the confidence interval.",
+    "From the figure5_interventions.png plot, report the country name with highest 'Disconnect between accuracy and sharing'. Only report the name.",
+    "From the figure5_interventions.png plot, report the correlation between the magnitude of the prompt effect across countries and the disconnect between truth and sharing discernment. Only report the number rounded to two decimal places."
+  ]
+}

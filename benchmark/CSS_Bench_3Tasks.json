@@ -1,0 +1,1471 @@
+[
+  {
+    "domain": "Method",
+    "language": "R",
+    "paper_title": "Measuring Distances in High Dimensional Spaces, Why Average Group Vector Comparisons Exhibit Bias, And What to Do about it",
+    "Repo": "CodeOcean",
+    "task_prompt": "Run main_run_scripts.R",
+    "results": [
+      {
+        "From the fig_1_bottom_embedding_regression_estimates_constant_ratios_r_and_r.pdf plot, report the y-axis label.": "Squared Euclidean norm of differences in means",
+        "From the fig_3_embedding_regression_tweets_containing_people.pdf plot, report only the 'N Users' with the largest gap between 'Corrected' and 'Uncorrected'. Report only the number.": 400
+      },
+      {
+        "From the fig_1_bottom_embedding_regression_estimates_constant_ratios_r_and_r.pdf plot, report the y-axis label.": "Squared Euclidean norm of differences in means",
+        "From the fig_3_embedding_regression_tweets_containing_people.pdf plot, report only the 'N Users' with the largest gap between 'Corrected' and 'Uncorrected'. Report only the number.": 400
+      },
+      {
+        "From the fig_1_bottom_embedding_regression_estimates_constant_ratios_r_and_r.pdf plot, report the y-axis label.": "Squared Euclidean norm of differences in means",
+        "From the fig_3_embedding_regression_tweets_containing_people.pdf plot, report only the 'N Users' with the largest gap between 'Corrected' and 'Uncorrected'. Report only the number.": 400
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "R",
+    "paper_title": "Scaling up fact-checking using the wisdom of crowds",
+    "Repo": "OSF",
+    "task_prompt": "Run CreateDataForPlots.R to generate intermediate data, then Run Python OptimalCutoffs notebook, then Run RMarkdown files to generate final plots.",
+    "results": [
+      {
+        "From the turk_auc_source.png plot, report the y-axis label": "AUC predicting modal fact-checker rating",
+        "From the comp_groups_points_corr.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the least mean correlation. Ignore the confidence interval": "Republican only",
+	"From the comp_groups_points_auc.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the highest mean AUC. Ignore the confidence interval": "Democrats only"
+      },
+      {
+        "From the turk_auc_source.png plot, report the y-axis label": "AUC predicting modal fact-checker rating",
+        "From the comp_groups_points_corr.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the least mean correlation. Ignore the confidence interval": "Republican only",
+	"From the comp_groups_points_auc.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the highest mean AUC. Ignore the confidence interval": "Democrats only"
+      },
+      {
+        "From the turk_auc_source.png plot, report the y-axis label": "AUC predicting modal fact-checker rating",
+        "From the comp_groups_points_corr.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the least mean correlation. Ignore the confidence interval": "Republican only",
+	"From the comp_groups_points_auc.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the highest mean AUC. Ignore the confidence interval": "Democrats only"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "R",
+    "paper_title": "Quantifying the impact of misinformation and vaccine-skeptical content on Facebook",
+    "Repo": "OSF",
+    "task_prompt": "Run run_analysis_generate_figs.sh",
+    "results": [
+      {
+        "From the figure1.pdf plot, report the y-axis label. If it was not reproducible due to lack of data, only report 'No Data'.": "Treatment Effect on Vaccination Intentions",
+        "From the figure2.pdf plot, report the estimated 'Total Views' of 'Sent, but Not Rated' news. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"From the figure2.pdf plot, report the news category with the least estimated 'Total Views'. Ignore the confidence interval. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"From Study 1, report the main effect (ATE) of exposure to misinformation on vaccination intentions (Vaccination Index). Report only the number rounded to two decimal places. If it was not reproducible due to lack of data, only report 'No Data'.": -1.49
+      },
+      {
+        "From the figure1.pdf plot, report the y-axis label. If it was not reproducible due to lack of data, only report 'No Data'.": "Treatment Effect on Vaccination Intentions",
+        "From the figure2.pdf plot, report the estimated 'Total Views' of 'Sent, but Not Rated' news. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"From the figure2.pdf plot, report the news category with the least estimated 'Total Views'. Ignore the confidence interval. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"From Study 1, report the main effect (ATE) of exposure to misinformation on vaccination intentions (Vaccination Index). Report only the number rounded to two decimal places. If it was not reproducible due to lack of data, only report 'No Data'.": -1.49
+      },
+      {
+        "From the figure1.pdf plot, report the y-axis label. If it was not reproducible due to lack of data, only report 'No Data'.": "Treatment Effect on Vaccination Intentions",
+        "From the figure2.pdf plot, report the estimated 'Total Views' of 'Sent, but Not Rated' news. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"From the figure2.pdf plot, report the news category with the least estimated 'Total Views'. Ignore the confidence interval. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"From Study 1, report the main effect (ATE) of exposure to misinformation on vaccination intentions (Vaccination Index). Report only the number rounded to two decimal places. If it was not reproducible due to lack of data, only report 'No Data'.": -1.49
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata/R",
+    "paper_title": "Understanding and combatting misinformation across 16 countries on six continents",
+    "Repo": "OSF",
+    "task_prompt": "Translate the '230412 CR.do' file into R and run it.",
+    "results": [
+      {
+        "From the figure2_perceived_accuracy.png plot, report the name of a country with highest mean Perceived accuracy for true headlines. Ignore the confidence interval.": "India",
+        "From the figure3_individual_predictors.png plot, report the 'individual difference measure' with highest 'coefficient of the interaction between headline veracity and the z-scored individual difference when predicting perceived accuracy'. Ignore the confidence interval.": "Importance of accuracy",
+	"From the figure5_interventions.png plot, report the country name with highest 'Disconnect between accuracy and sharing'. Only report the name.": "United Kingdom",
+	"From the figure5_interventions.png plot, report the correlation between the magnitude of the prompt effect across countries and the disconnect between truth and sharing discernment. Only report the number rounded to two decimal places.": 0.76
+      },
+      {
+        "From the figure2_perceived_accuracy.png plot, report the name of a country with highest mean Perceived accuracy for true headlines. Ignore the confidence interval.": "India",
+        "From the figure3_individual_predictors.png plot, report the 'individual difference measure' with highest 'coefficient of the interaction between headline veracity and the z-scored individual difference when predicting perceived accuracy'. Ignore the confidence interval.": "Importance of accuracy",
+	"From the figure5_interventions.png plot, report the country name with highest 'Disconnect between accuracy and sharing'. Only report the name.": "United Kingdom",
+	"From the figure5_interventions.png plot, report the correlation between the magnitude of the prompt effect across countries and the disconnect between truth and sharing discernment. Only report the number rounded to two decimal places.": 0.76
+      },
+      {
+        "From the figure2_perceived_accuracy.png plot, report the name of a country with highest mean Perceived accuracy for true headlines. Ignore the confidence interval.": "India",
+        "From the figure3_individual_predictors.png plot, report the 'individual difference measure' with highest 'coefficient of the interaction between headline veracity and the z-scored individual difference when predicting perceived accuracy'. Ignore the confidence interval.": "Importance of accuracy",
+	"From the figure5_interventions.png plot, report the country name with highest 'Disconnect between accuracy and sharing'. Only report the name.": "United Kingdom",
+	"From the figure5_interventions.png plot, report the correlation between the magnitude of the prompt effect across countries and the disconnect between truth and sharing discernment. Only report the number rounded to two decimal places.": 0.76
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R/Python",
+    "paper_title": "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale",
+    "Repo": "OSF",
+    "task_prompt": "Run Data_Clean_Variable_Creation.R, then Analysis_MainText.R, then Analysis_Appendix.R, then main.py in PythonScripts.",
+    "results": [
+      {
+        "From the Figure2.pdf plot results, report the 'politeness package feature' with highest 'Marginal Effects of GPT-3 Rephrasings'. Report only the name.": "First Person Single",
+        "From the Figure3_topic_proportions.pdf plot results, report the topic name with largest gap between 'Untreated messages' and 'Treated messages after rephrasing'.": "Stricter gun control and background checks",
+	"From the Figure4.pdf plot results, report the percentage-point effect of receiving one or more AI rephrasings on partners’ Conversation Quality Index. Report only the number rounded to one decimal place.": 4.0,
+	"From Figure4.pdf results, report whether the effect of receiving AI rephrasings on the Democratic Reciprocity Index is larger for recipients than for their partners. Report only Yes or No.": "No"
+      },
+      {
+        "From the Figure2.pdf plot results, report the 'politeness package feature' with highest 'Marginal Effects of GPT-3 Rephrasings'. Report only the name.": "First Person Single",
+        "From the Figure3_topic_proportions.pdf plot results, report the topic name with largest gap between 'Untreated messages' and 'Treated messages after rephrasing'.": "Stricter gun control and background checks",
+	"From the Figure4.pdf plot results, report the percentage-point effect of receiving one or more AI rephrasings on partners’ Conversation Quality Index. Report only the number rounded to one decimal place.": 4.0,
+	"From Figure4.pdf results, report whether the effect of receiving AI rephrasings on the Democratic Reciprocity Index is larger for recipients than for their partners. Report only Yes or No.": "No"
+      },
+      {
+        "From the Figure2.pdf plot results, report the 'politeness package feature' with highest 'Marginal Effects of GPT-3 Rephrasings'. Report only the name.": "First Person Single",
+        "From the Figure3_topic_proportions.pdf plot results, report the topic name with largest gap between 'Untreated messages' and 'Treated messages after rephrasing'.": "Stricter gun control and background checks",
+	"From the Figure4.pdf plot results, report the percentage-point effect of receiving one or more AI rephrasings on partners’ Conversation Quality Index. Report only the number rounded to one decimal place.": 4.0,
+	"From Figure4.pdf results, report whether the effect of receiving AI rephrasings on the Democratic Reciprocity Index is larger for recipients than for their partners. Report only Yes or No.": "No"
+      }
+    ]
+  },
+  {
+    "domain": "Method",
+    "language": "R",
+    "paper_title": "Measuring and Explaining Political Sophistication through Textual Complexity",
+    "Repo": "Dataverse",
+    "task_prompt": "Run run_replication.R",
+    "results": [
+      {
+        "Report the coefficient estimate (to two decimal places) for the meanSentenceChars variable in the 'Best Model' setting from Table 2. Report only the number rounded to two decimal places.": -0.01,
+        "From figure1.pdf plot, report the y-axis label.": "Rescaled Best BT Model",
+	"From figure3.pdf plot results, report the SOTU Address name with the largest 'Probability That Spoken SOTU Was Easier Than Written'. Only report the name.": "Carter-1978"
+      },
+      {
+        "Report the coefficient estimate (to two decimal places) for the meanSentenceChars variable in the 'Best Model' setting from Table 2. Report only the number rounded to two decimal places.": -0.01,
+        "From figure1.pdf plot, report the y-axis label.": "Rescaled Best BT Model",
+	"From figure3.pdf plot results, report the SOTU Address name with the largest 'Probability That Spoken SOTU Was Easier Than Written'. Only report the name.": "Carter-1978"
+      },
+      {
+        "Report the coefficient estimate (to two decimal places) for the meanSentenceChars variable in the 'Best Model' setting from Table 2. Report only the number rounded to two decimal places.": -0.01,
+        "From figure1.pdf plot, report the y-axis label.": "Rescaled Best BT Model",
+	"From figure3.pdf plot results, report the SOTU Address name with the largest 'Probability That Spoken SOTU Was Easier Than Written'. Only report the name.": "Carter-1978"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Timing matters when correcting fake news",
+    "Repo": "OSF",
+    "task_prompt": "Translate the Code for Analyses.do file into R and run it",
+    "results": [
+      {
+        "From the descriptive statistics, what is the relative reduction in misclassification for the After condition compared to Control? Report only the number (not a percentage) rounded to three decimal places.": 0.253,
+        "From the regression tables, what is the effect of the Before correction timing condition on belief in false headlines (both studies combined)? Report only the number rounded to three decimal places.": 0.042,
+	"From the regression tables, what is the effect of the During correction timing condition on discernment (the differential accuracy for true vs. false headlines) one week later? Only report the number rounded to three decimal places.": 0.148,
+	"Based on the regression results, which correction timing condition produced the largest improvement in discernment?": "After"
+      },
+      {
+        "From the descriptive statistics, what is the relative reduction in misclassification for the After condition compared to Control? Report only the number (not a percentage) rounded to three decimal places.": 0.253,
+        "From the regression tables, what is the effect of the Before correction timing condition on belief in false headlines (both studies combined)? Report only the number rounded to three decimal places.": 0.042,
+	"From the regression tables, what is the effect of the During correction timing condition on discernment (the differential accuracy for true vs. false headlines) one week later? Only report the number rounded to three decimal places.": 0.148,
+	"Based on the regression results, which correction timing condition produced the largest improvement in discernment?": "After"
+      },
+      {
+        "From the descriptive statistics, what is the relative reduction in misclassification for the After condition compared to Control? Report only the number (not a percentage) rounded to three decimal places.": 0.253,
+        "From the regression tables, what is the effect of the Before correction timing condition on belief in false headlines (both studies combined)? Report only the number rounded to three decimal places.": 0.042,
+	"From the regression tables, what is the effect of the During correction timing condition on discernment (the differential accuracy for true vs. false headlines) one week later? Only report the number rounded to three decimal places.": 0.148,
+	"Based on the regression results, which correction timing condition produced the largest improvement in discernment?": "After"
+      }
+    ]
+  },
+  {
+    "domain": "Method",
+    "language": "R/Python",
+    "paper_title": "Labeling social media posts: does showing coders multimodal content produce better human annotation, and a better machine classifier?",
+    "Repo": "Dataverse",
+    "task_prompt": "Run the Replication_Code_FigTab.Rmd file",
+    "results": [
+      {
+        "From FIGURE_2.pdf plot results, report the measure with highest mean Percentage Change due to Multimodal Labeling. Report only the name from (Delta T, Delta Tv, Delta R, Delta I, Delta P).": "Delta T",
+        "From FIGURE_2.pdf plot results, report the mean Percentage Change due to Multimodal Labeling for Delta I. Report only the number rounded to three decimal places.": 0.094,
+	"From FIGURE_2.pdf plot results, report whether Multimodal Labeling increases the Classifier predictive power. Report only Yes or No.": "No"
+      },
+      {
+        "From FIGURE_2.pdf plot results, report the measure with highest mean Percentage Change due to Multimodal Labeling. Report only the name from (Delta T, Delta Tv, Delta R, Delta I, Delta P).": "Delta T",
+        "From FIGURE_2.pdf plot results, report the mean Percentage Change due to Multimodal Labeling for Delta I. Report only the number rounded to three decimal places.": 0.094,
+	"From FIGURE_2.pdf plot results, report whether Multimodal Labeling increases the Classifier predictive power. Report only Yes or No.": "No"
+      },
+      {
+        "From FIGURE_2.pdf plot results, report the measure with highest mean Percentage Change due to Multimodal Labeling. Report only the name from (Delta T, Delta Tv, Delta R, Delta I, Delta P).": "Delta T",
+        "From FIGURE_2.pdf plot results, report the mean Percentage Change due to Multimodal Labeling for Delta I. Report only the number rounded to three decimal places.": 0.094,
+	"From FIGURE_2.pdf plot results, report whether Multimodal Labeling increases the Classifier predictive power. Report only Yes or No.": "No"
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R",
+    "paper_title": "Reducing political polarization in the United States with a mobile chat platform",
+    "Repo": "Dataverse",
+    "task_prompt": "Run dataverse_code.R",
+    "results": [
+      {
+        "From the fig1_any_app_effects.pdf plot, report the mean effect of cross-party interaction on an anonymous chat platform on Depolarization Index. Only report the number rounded to three decimal places.": 0.227,
+        "From the fig3_party_effects.pdf plot results, is the depolarization effect larger for Republicans than Democrats? Only report Yes or No.": "Yes",
+	"From the fig2_label_condition_effects.pdf plot results, what is the point estimate for the Incorrect Labels group on the Issue Index? Only report the number rounded to three decimal places.": 0.240,
+	"From the fig3_party_effects.pdf plot results, is the effect on Affect Index statistically significant for Democrats? Report only Yes or No.": "No",
+	"From fig3_party_effects.pdf results, what is the CACE estimate for Issue Index for Republicans? Only report the number rounded to three decimal places.": 0.393
+      },
+      {
+        "From the fig1_any_app_effects.pdf plot, report the mean effect of cross-party interaction on an anonymous chat platform on Depolarization Index. Only report the number rounded to three decimal places.": 0.227,
+        "From the fig3_party_effects.pdf plot results, is the depolarization effect larger for Republicans than Democrats? Only report Yes or No.": "Yes",
+	"From the fig2_label_condition_effects.pdf plot results, what is the point estimate for the Incorrect Labels group on the Issue Index? Only report the number rounded to three decimal places.": 0.240,
+	"From the fig3_party_effects.pdf plot results, is the effect on Affect Index statistically significant for Democrats? Report only Yes or No.": "No",
+	"From fig3_party_effects.pdf results, what is the CACE estimate for Issue Index for Republicans? Only report the number rounded to three decimal places.": 0.393
+      },
+      {
+        "From the fig1_any_app_effects.pdf plot, report the mean effect of cross-party interaction on an anonymous chat platform on Depolarization Index. Only report the number rounded to three decimal places.": 0.227,
+        "From the fig3_party_effects.pdf plot results, is the depolarization effect larger for Republicans than Democrats? Only report Yes or No.": "Yes",
+	"From the fig2_label_condition_effects.pdf plot results, what is the point estimate for the Incorrect Labels group on the Issue Index? Only report the number rounded to three decimal places.": 0.240,
+	"From the fig3_party_effects.pdf plot results, is the effect on Affect Index statistically significant for Democrats? Report only Yes or No.": "No",
+	"From fig3_party_effects.pdf results, what is the CACE estimate for Issue Index for Republicans? Only report the number rounded to three decimal places.": 0.393
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "Perceived gender and political persuasion: a social media field experiment during the 2020 US Democratic presidential primary election",
+    "Repo": "Dataverse",
+    "task_prompt": "Run main_paper_replication.R",
+    "results": [
+      {
+        "From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Ranking for the Mislabeled Woman condition. Only report the number rounded to three decimal places.": 0.407,
+        "From the figure2_gap_means_and_stars.png regression results, in the Correctly Labeled condition, are men more influential than women on all metrics? Report only Yes or No.": "Yes",
+	"From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Thermometer for the Mislabeled Man condition. Only report the number rounded to three decimal places.": -0.059,
+	"From the figure3_convergence_twopanel.png results, what is the point estimate of Thermometer Rating Gap (relative to control) for Mislabeling the Man's Gender condition? Only report the number rounded to three decimal places.": 4.186
+      },
+      {
+        "From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Ranking for the Mislabeled Woman condition. Only report the number rounded to three decimal places.": 0.407,
+        "From the figure2_gap_means_and_stars.png regression results, in the Correctly Labeled condition, are men more influential than women on all metrics? Report only Yes or No.": "Yes",
+	"From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Thermometer for the Mislabeled Man condition. Only report the number rounded to three decimal places.": -0.059,
+	"From the figure3_convergence_twopanel.png results, what is the point estimate of Thermometer Rating Gap (relative to control) for Mislabeling the Man's Gender condition? Only report the number rounded to three decimal places.": 4.186
+      },
+      {
+        "From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Ranking for the Mislabeled Woman condition. Only report the number rounded to three decimal places.": 0.407,
+        "From the figure2_gap_means_and_stars.png regression results, in the Correctly Labeled condition, are men more influential than women on all metrics? Report only Yes or No.": "Yes",
+	"From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Thermometer for the Mislabeled Man condition. Only report the number rounded to three decimal places.": -0.059,
+	"From the figure3_convergence_twopanel.png results, what is the point estimate of Thermometer Rating Gap (relative to control) for Mislabeling the Man's Gender condition? Only report the number rounded to three decimal places.": 4.186
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Python/R",
+    "paper_title": "Fact-checking information from large language models can decrease headline discernment",
+    "Repo": "Github",
+    "task_prompt": "Run run_pipeline.sh. If RStudio was required, use R instead. Convert the results to HTML wherever required.",
+    "results": [
+      {
+        "From the main_effects.pdf plot results, is it true that neither the Forced nor the Optional LLM fact-check condition produced a statistically significant change in discernment relative to Control, in both the Belief and Share groups? Report only Yes or No.": "Yes",
+        "From the main_effects.pdf plot results, what is the difference in overall mean sharing rate between the Forced and Control conditions in the Share group? Report only the number rounded to three decimal places.": 0.068,
+	"From the five_way.pdf plot results, is it true that LLM fact-checks decreased belief in true headlines that ChatGPT incorrectly judged as false, in the Forced condition relative to Control? Report only Yes or No.": "Yes",
+	"From the five_way.pdf plot results, what is the absolute difference in mean sharing rate between the Forced and Control conditions for false headlines where ChatGPT expressed uncertainty? Report only the number rounded to three decimal places.": 0.098,
+	"From the opt-in_vs_opt-out_by_annotation.pdf plot results, what is the percentage point difference in mean endorsement rate of false headlines that ChatGPT judged as false, between opt-in and opt-out participants in the Belief group? Report only the number rounded to two decimal places.": 29.35,
+	"From the opt-in_vs_opt-out_by_annotation.pdf plot results, was the difference in endorsement rate of true headlines that ChatGPT judged as unsure, between opt-in and opt-out participants in the Belief group, statistically significant after Bonferroni correction? Report only Yes or No.": "Yes"
+      },
+      {
+        "From the main_effects.pdf plot results, is it true that neither the Forced nor the Optional LLM fact-check condition produced a statistically significant change in discernment relative to Control, in both the Belief and Share groups? Report only Yes or No.": "Yes",
+        "From the main_effects.pdf plot results, what is the difference in overall mean sharing rate between the Forced and Control conditions in the Share group? Report only the number rounded to three decimal places.": 0.068,
+	"From the five_way.pdf plot results, is it true that LLM fact-checks decreased belief in true headlines that ChatGPT incorrectly judged as false, in the Forced condition relative to Control? Report only Yes or No.": "Yes",
+	"From the five_way.pdf plot results, what is the absolute difference in mean sharing rate between the Forced and Control conditions for false headlines where ChatGPT expressed uncertainty? Report only the number rounded to three decimal places.": 0.098,
+	"From the opt-in_vs_opt-out_by_annotation.pdf plot results, what is the percentage point difference in mean endorsement rate of false headlines that ChatGPT judged as false, between opt-in and opt-out participants in the Belief group? Report only the number rounded to two decimal places.": 29.35,
+	"From the opt-in_vs_opt-out_by_annotation.pdf plot results, was the difference in endorsement rate of true headlines that ChatGPT judged as unsure, between opt-in and opt-out participants in the Belief group, statistically significant after Bonferroni correction? Report only Yes or No.": "Yes"
+      },
+      {
+        "From the main_effects.pdf plot results, is it true that neither the Forced nor the Optional LLM fact-check condition produced a statistically significant change in discernment relative to Control, in both the Belief and Share groups? Report only Yes or No.": "Yes",
+        "From the main_effects.pdf plot results, what is the difference in overall mean sharing rate between the Forced and Control conditions in the Share group? Report only the number rounded to three decimal places.": 0.068,
+	"From the five_way.pdf plot results, is it true that LLM fact-checks decreased belief in true headlines that ChatGPT incorrectly judged as false, in the Forced condition relative to Control? Report only Yes or No.": "Yes",
+	"From the five_way.pdf plot results, what is the absolute difference in mean sharing rate between the Forced and Control conditions for false headlines where ChatGPT expressed uncertainty? Report only the number rounded to three decimal places.": 0.098,
+	"From the opt-in_vs_opt-out_by_annotation.pdf plot results, what is the percentage point difference in mean endorsement rate of false headlines that ChatGPT judged as false, between opt-in and opt-out participants in the Belief group? Report only the number rounded to two decimal places.": 29.35,
+	"From the opt-in_vs_opt-out_by_annotation.pdf plot results, was the difference in endorsement rate of true headlines that ChatGPT judged as unsure, between opt-in and opt-out participants in the Belief group, statistically significant after Bonferroni correction? Report only Yes or No.": "Yes"
+      }
+    ]
+  },
+  {
+    "domain": "Science of Science",
+    "language": "R",
+    "paper_title": "Partisan disparities in the funding of science in the United States",
+    "Repo": "Dataverse",
+    "task_prompt": "Run AnalysisScript1.R, then Run AnalysisScript2.R, then Run AnalysisScript3.R",
+    "results": [
+      {
+        "From the Fig2.pdf plot results, report the president name with largest science- and research-related budget appropriations at his term": "George W. Bush",
+        "From Fig3.pdf results, which coefficient (Rep House, Rep Senate, Rep President) has the largest positive point estimate in the 'With Controls' model?": "Rep President",
+	"From Fig3.pdf results, report only the numeric value (in millions of dollars) of the Rep House coefficient in the 'Without Controls' model. Report only the number rounded to one decimal place.": 153.6
+      },
+      {
+        "From the Fig2.pdf plot results, report the president name with largest science- and research-related budget appropriations at his term": "George W. Bush",
+        "From Fig3.pdf results, which coefficient (Rep House, Rep Senate, Rep President) has the largest positive point estimate in the 'With Controls' model?": "Rep President",
+	"From Fig3.pdf results, report only the numeric value (in millions of dollars) of the Rep House coefficient in the 'Without Controls' model. Report only the number rounded to one decimal place.": 153.6
+      },
+      {
+        "From the Fig2.pdf plot results, report the president name with largest science- and research-related budget appropriations at his term": "George W. Bush",
+        "From Fig3.pdf results, which coefficient (Rep House, Rep Senate, Rep President) has the largest positive point estimate in the 'With Controls' model?": "Rep President",
+	"From Fig3.pdf results, report only the numeric value (in millions of dollars) of the Rep House coefficient in the 'Without Controls' model. Report only the number rounded to one decimal place.": 153.6
+      }
+    ]
+  },
+  {
+    "domain": "Science of Science",
+    "language": "R",
+    "paper_title": "Partisan disparities in the use of science in policy",
+    "Repo": "Dataverse",
+    "task_prompt": "Run all R scripts in the Code folder.",
+    "results": [
+      {
+        "From the Fig1B.pdf plot results, what is the y-axis label?": "Probability that a committee document cites science",
+        "From the fixed-effects logistic regression results in TableS9, what is the odds ratio for Democrat vs. Republican committee control on science citation? Report only the number rounded to three decimal places.": 1.790,
+	"From the permutation null model results in Fig2A (Congress), what is the expected bipartisan share of all papers with policy citations? Report as a proportion and only the number rounded to three decimal places.": 0.119
+      },
+      {
+        "From the Fig1B.pdf plot results, what is the y-axis label?": "Probability that a committee document cites science",
+        "From the fixed-effects logistic regression results in TableS9, what is the odds ratio for Democrat vs. Republican committee control on science citation? Report only the number rounded to three decimal places.": 1.790,
+	"From the permutation null model results in Fig2A (Congress), what is the expected bipartisan share of all papers with policy citations? Report as a proportion and only the number rounded to three decimal places.": 0.119
+      },
+      {
+        "From the Fig1B.pdf plot results, what is the y-axis label?": "Probability that a committee document cites science",
+        "From the fixed-effects logistic regression results in TableS9, what is the odds ratio for Democrat vs. Republican committee control on science citation? Report only the number rounded to three decimal places.": 1.790,
+	"From the permutation null model results in Fig2A (Congress), what is the expected bipartisan share of all papers with policy citations? Report as a proportion and only the number rounded to three decimal places.": 0.119
+      }
+    ]
+  },
+  {
+    "domain": "Science of Science",
+    "language": "Python",
+    "paper_title": "Quantifying the use and potential benefits of artificial intelligence in scientific research",
+    "Repo": "Github",
+    "task_prompt": "Run the Main_Figures.ipynb file",
+    "results": [
+      {
+        "From Fig1E.pdf plot results, what is the mean value of the AI-to-non-AI citation hit rate ratio across all 19 disciplines? Report only the number rounded to two decimal places.": 1.82,
+        "From the Fig1F.pdf plot results, what is the mean value of received citations for AI-to-non-AI papers across all 19 disciplines? Report only the number rounded to two decimal places.": 1.07,
+	"From Fig2E.pdf plot results, what is the Pearson correlation coefficient between x-axis and y-axis? Report only the number rounded to three decimal places.": 0.891,
+	"From Fig3AB.pdf plot results, what is the p-value of the Pearson correlation between direct AI use and AI education level, excluding the top three computational disciplines? Report only the number rounded to three decimal places.": 0.074,
+	"From Fig3F.pdf plot results, what is the OLS slope of the engineering collaboration share trend from 1990 to 2019? Report only the number rounded to four decimal places.": 0.0057,
+	"From Fig4AC.pdf plot results, what is the lower bound of the 95% CI for the Pearson r between share of female scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places.": -0.831,
+	"From Fig4EG.pdf plot results, what is the upper bound of the 95% CI for the Pearson r between share of URM scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places.": -0.355
+      },
+      {
+        "From Fig1E.pdf plot results, what is the mean value of the AI-to-non-AI citation hit rate ratio across all 19 disciplines? Report only the number rounded to two decimal places.": 1.82,
+        "From the Fig1F.pdf plot results, what is the mean value of received citations for AI-to-non-AI papers across all 19 disciplines? Report only the number rounded to two decimal places.": 1.07,
+	"From Fig2E.pdf plot results, what is the Pearson correlation coefficient between x-axis and y-axis? Report only the number rounded to three decimal places.": 0.891,
+	"From Fig3AB.pdf plot results, what is the p-value of the Pearson correlation between direct AI use and AI education level, excluding the top three computational disciplines? Report only the number rounded to three decimal places.": 0.074,
+	"From Fig3F.pdf plot results, what is the OLS slope of the engineering collaboration share trend from 1990 to 2019? Report only the number rounded to four decimal places.": 0.0057,
+	"From Fig4AC.pdf plot results, what is the lower bound of the 95% CI for the Pearson r between share of female scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places.": -0.831,
+	"From Fig4EG.pdf plot results, what is the upper bound of the 95% CI for the Pearson r between share of URM scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places.": -0.355
+      },
+      {
+        "From Fig1E.pdf plot results, what is the mean value of the AI-to-non-AI citation hit rate ratio across all 19 disciplines? Report only the number rounded to two decimal places.": 1.82,
+        "From the Fig1F.pdf plot results, what is the mean value of received citations for AI-to-non-AI papers across all 19 disciplines? Report only the number rounded to two decimal places.": 1.07,
+	"From Fig2E.pdf plot results, what is the Pearson correlation coefficient between x-axis and y-axis? Report only the number rounded to three decimal places.": 0.891,
+	"From Fig3AB.pdf plot results, what is the p-value of the Pearson correlation between direct AI use and AI education level, excluding the top three computational disciplines? Report only the number rounded to three decimal places.": 0.074,
+	"From Fig3F.pdf plot results, what is the OLS slope of the engineering collaboration share trend from 1990 to 2019? Report only the number rounded to four decimal places.": 0.0057,
+	"From Fig4AC.pdf plot results, what is the lower bound of the 95% CI for the Pearson r between share of female scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places.": -0.831,
+	"From Fig4EG.pdf plot results, what is the upper bound of the 95% CI for the Pearson r between share of URM scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places.": -0.355
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "R",
+    "paper_title": "Current engagement with unreliable sites from web search driven by navigational search",
+    "Repo": "Dataverse",
+    "task_prompt": "Run the run.sh file.",
+    "results": [
+      {
+        "What is the average percentage of reliable sites across Sample 1 and Sample 2 from the total_info plots? Report only the number rounded to one decimal place.": 34.3,
+        "From total_info_sample_1.pdf plot, what is the y-axis label?": "Percentage of total search results",
+	"From the lq_ranks_sample_1.pdf plot, which rank has the highest percentage of unreliable sites? Return only the rank number.": 1,
+	"From the nav_values_NG.tex table, what is the average '% Engagement from Nav.' across both samples? Return only the percentage number (without percentage sign) rounded to two decimal places.": 82.12
+      },
+      {
+        "What is the average percentage of reliable sites across Sample 1 and Sample 2 from the total_info plots? Report only the number rounded to one decimal place.": 34.3,
+        "From total_info_sample_1.pdf plot, what is the y-axis label?": "Percentage of total search results",
+	"From the lq_ranks_sample_1.pdf plot, which rank has the highest percentage of unreliable sites? Return only the rank number.": 1,
+	"From the nav_values_NG.tex table, what is the average '% Engagement from Nav.' across both samples? Return only the percentage number (without percentage sign) rounded to two decimal places.": 82.12
+      },
+      {
+        "What is the average percentage of reliable sites across Sample 1 and Sample 2 from the total_info plots? Report only the number rounded to one decimal place.": 34.3,
+        "From total_info_sample_1.pdf plot, what is the y-axis label?": "Percentage of total search results",
+	"From the lq_ranks_sample_1.pdf plot, which rank has the highest percentage of unreliable sites? Return only the rank number.": 1,
+	"From the nav_values_NG.tex table, what is the average '% Engagement from Nav.' across both samples? Return only the percentage number (without percentage sign) rounded to two decimal places.": 82.12
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Python/R",
+    "paper_title": "Supersharers of fake news on Twitter",
+    "Repo": "Dryad",
+    "task_prompt": "Run codes in the preprocessing folder, then run codes in RQ0_Prevalence, then run codes in RQ1, RQ2, and RQ3 folders.",
+    "results": [
+      {
+        "What date (in DD-MM-YYYY format) had the highest percentage of fake news shared by supersharers as a proportion of all political tweets?": "27-11-2020",
+        "On an average day, what proportion of all political news shared by the panel of 664,391 individuals were linked to fake news sources? Report only the number rounded to three decimal places.": 0.059,
+	"Based on the RQ2 results, what proportion of supersharers are White? Report only the number rounded to three decimal places.": 0.939,
+	"Based on the RQ3 results, what proportion of supesharers are bots? Report only the number rounded to three decimal places.": 0.071
+      },
+      {
+        "What date (in DD-MM-YYYY format) had the highest percentage of fake news shared by supersharers as a proportion of all political tweets?": "27-11-2020",
+        "On an average day, what proportion of all political news shared by the panel of 664,391 individuals were linked to fake news sources? Report only the number rounded to three decimal places.": 0.059,
+	"Based on the RQ2 results, what proportion of supersharers are White? Report only the number rounded to three decimal places.": 0.939,
+	"Based on the RQ3 results, what proportion of supesharers are bots? Report only the number rounded to three decimal places.": 0.071
+      },
+      {
+        "What date (in DD-MM-YYYY format) had the highest percentage of fake news shared by supersharers as a proportion of all political tweets?": "27-11-2020",
+        "On an average day, what proportion of all political news shared by the panel of 664,391 individuals were linked to fake news sources? Report only the number rounded to three decimal places.": 0.059,
+	"Based on the RQ2 results, what proportion of supersharers are White? Report only the number rounded to three decimal places.": 0.939,
+	"Based on the RQ3 results, what proportion of supesharers are bots? Report only the number rounded to three decimal places.": 0.071
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "Stata",
+    "paper_title": "Don’t get it or don’t spread it: comparing self‑interested versus prosocial motivations for COVID‑19 prevention behaviors",
+    "Repo": "Dataverse",
+    "task_prompt": "Convert all .do files to R and run them.",
+    "results": [
+      {
+        "Based on Table 1 results in Study 1, how much higher are prevention intentions in the public threat condition compared to the control condition? Only report the number rounded to two decimal places.": 5.47,
+	"Based on Table 1 results in Study 1, what is the Cohen's d for the effect of the public threat treatment on prevention intentions among participants who answered the dependent variables first? Report only the number rounded to two decimal places.": 0.48,
+        "Based on results in Table 2, among participants who answered the dependent variables first, how much lower are prevention intentions in the personal treatment compared to the public treatment?. Report only the number rounded to two decimal places.": 3.80,
+	"Based on results in Table 3 for Study 2, what is the standardized coefficient of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to three decimal places.": 0.084,
+	"In Table 3 for Study 1, what is the standard error of the effect of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to four decimal places.": 0.0398,
+	"Based on Study 3 results in Table 6, what is the standardized coefficient of public threat on prevention intentions in the multiple regression model using pre-treatment (baseline) prevention intentions as the outcome? Report only the number rounded to three decimal places.": 0.435,
+	"Based on Study 3 results in Table 6, what is the standard error of the effect of public threat on post-treatment prevention intentions in the multiple regression model? Report only the number rounded to three decimal places.": 0.019,
+	"Based on Study 3 results in Table 6, is the effect of public threat on post-treatment prevention intentions statistically significant (p < 0.05) in the multiple regression model? Report only Yes or No.": "Yes"
+      },
+      {
+        "Based on Table 1 results in Study 1, how much higher are prevention intentions in the public threat condition compared to the control condition? Only report the number rounded to two decimal places.": 5.47,
+	"Based on Table 1 results in Study 1, what is the Cohen's d for the effect of the public threat treatment on prevention intentions among participants who answered the dependent variables first? Report only the number rounded to two decimal places.": 0.48,
+        "Based on results in Table 2, among participants who answered the dependent variables first, how much lower are prevention intentions in the personal treatment compared to the public treatment?. Report only the number rounded to two decimal places.": 3.80,
+	"Based on results in Table 3 for Study 2, what is the standardized coefficient of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to three decimal places.": 0.084,
+	"In Table 3 for Study 1, what is the standard error of the effect of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to four decimal places.": 0.0398,
+	"Based on Study 3 results in Table 6, what is the standardized coefficient of public threat on prevention intentions in the multiple regression model using pre-treatment (baseline) prevention intentions as the outcome? Report only the number rounded to three decimal places.": 0.435,
+	"Based on Study 3 results in Table 6, what is the standard error of the effect of public threat on post-treatment prevention intentions in the multiple regression model? Report only the number rounded to three decimal places.": 0.019,
+	"Based on Study 3 results in Table 6, is the effect of public threat on post-treatment prevention intentions statistically significant (p < 0.05) in the multiple regression model? Report only Yes or No.": "Yes"
+      },
+      {
+        "Based on Table 1 results in Study 1, how much higher are prevention intentions in the public threat condition compared to the control condition? Only report the number rounded to two decimal places.": 5.47,
+	"Based on Table 1 results in Study 1, what is the Cohen's d for the effect of the public threat treatment on prevention intentions among participants who answered the dependent variables first? Report only the number rounded to two decimal places.": 0.48,
+        "Based on results in Table 2, among participants who answered the dependent variables first, how much lower are prevention intentions in the personal treatment compared to the public treatment?. Report only the number rounded to two decimal places.": 3.80,
+	"Based on results in Table 3 for Study 2, what is the standardized coefficient of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to three decimal places.": 0.084,
+	"In Table 3 for Study 1, what is the standard error of the effect of personal threat on prevention intentions in the multiple regression with controls? Report only the number rounded to four decimal places.": 0.0398,
+	"Based on Study 3 results in Table 6, what is the standardized coefficient of public threat on prevention intentions in the multiple regression model using pre-treatment (baseline) prevention intentions as the outcome? Report only the number rounded to three decimal places.": 0.435,
+	"Based on Study 3 results in Table 6, what is the standard error of the effect of public threat on post-treatment prevention intentions in the multiple regression model? Report only the number rounded to three decimal places.": 0.019,
+	"Based on Study 3 results in Table 6, is the effect of public threat on post-treatment prevention intentions statistically significant (p < 0.05) in the multiple regression model? Report only Yes or No.": "Yes"
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R/Python",
+    "paper_title": "Short-term exposure to filter-bubble recommendation systems has limited polarization effects: Naturalistic experiments on YouTube",
+    "Repo": "Dataverse",
+    "task_prompt": "Read the run file and run scripts accordingly. Do NOT run supplemental analyses.",
+    "results": [
+      {
+        "Based on coefplot_third1_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.007,
+        "Based on coefplot_third1_basecontrol_3studies.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on Perceived Intelligence in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": 0.024,
+	"Based on coefplot_third3_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among conservative ideologues on the Policy Index outcome in the Minimum Wage (YouGOV) study? Report only the number rounding to three decimal places.": 0.31,
+	"Based on coefplot_third2_pro_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned liberal seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.019,
+	"Based on coefplot_third2_anti_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned conservative seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.005 
+      },
+      {
+        "Based on coefplot_third1_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.007,
+        "Based on coefplot_third1_basecontrol_3studies.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on Perceived Intelligence in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": 0.024,
+	"Based on coefplot_third3_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among conservative ideologues on the Policy Index outcome in the Minimum Wage (YouGOV) study? Report only the number rounding to three decimal places.": 0.31,
+	"Based on coefplot_third2_pro_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned liberal seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.019,
+	"Based on coefplot_third2_anti_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned conservative seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.005 
+      },
+      {
+        "Based on coefplot_third1_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.007,
+        "Based on coefplot_third1_basecontrol_3studies.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on Perceived Intelligence in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": 0.024,
+	"Based on coefplot_third3_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among conservative ideologues on the Policy Index outcome in the Minimum Wage (YouGOV) study? Report only the number rounding to three decimal places.": 0.31,
+	"Based on coefplot_third2_pro_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned liberal seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.019,
+	"Based on coefplot_third2_anti_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned conservative seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.": -0.005 
+      }
+    ]
+  },
+  {
+    "domain": "Partisanship",
+    "language": "R",
+    "paper_title": "Divergent patterns of engagement with partisan and low-quality news across seven social media platforms",
+    "Repo": "OSF",
+    "task_prompt": "Read and Run the Analysis.Rmd file",
+    "results": [
+      {
+        "From the correlation test between average news quality and average political lean across the seven platforms fig1a.png results, report the P-value, truncated to 3 decimal places. Report only the number": 0.002,
+        "From the top domains table results, what is the news quality score of breitbart.com?": 0.25,
+	"Based on the forest plot results of engagement and political lean in fig2a.png, what is the point estimate for Gab after controlling for news quality? Report only the number rounding to three decimal places.": 0.026,
+	"Based on overall results, is it true that there is no significant overall relationship between political lean and engagement? Report only Yes or No.": "Yes",
+	"Based on the meta-analysis of engagement and political lean, what is the p-value of the overall effect after controlling for news quality? Report only the number rounding to three decimal places.": 0.827
+      },
+      {
+        "From the correlation test between average news quality and average political lean across the seven platforms fig1a.png results, report the P-value, truncated to 3 decimal places. Report only the number": 0.002,
+        "From the top domains table results, what is the news quality score of breitbart.com?": 0.25,
+	"Based on the forest plot results of engagement and political lean in fig2a.png, what is the point estimate for Gab after controlling for news quality? Report only the number rounding to three decimal places.": 0.026,
+	"Based on overall results, is it true that there is no significant overall relationship between political lean and engagement? Report only Yes or No.": "Yes",
+	"Based on the meta-analysis of engagement and political lean, what is the p-value of the overall effect after controlling for news quality? Report only the number rounding to three decimal places.": 0.827
+      },
+      {
+        "From the correlation test between average news quality and average political lean across the seven platforms fig1a.png results, report the P-value, truncated to 3 decimal places. Report only the number": 0.002,
+        "From the top domains table results, what is the news quality score of breitbart.com?": 0.25,
+	"Based on the forest plot results of engagement and political lean in fig2a.png, what is the point estimate for Gab after controlling for news quality? Report only the number rounding to three decimal places.": 0.026,
+	"Based on overall results, is it true that there is no significant overall relationship between political lean and engagement? Report only Yes or No.": "Yes",
+	"Based on the meta-analysis of engagement and political lean, what is the p-value of the overall effect after controlling for news quality? Report only the number rounding to three decimal places.": 0.827
+      }
+    ]
+  },
+  {
+    "domain": "Partisanship",
+    "language": "R",
+    "paper_title": "Shared partisanship dramatically increases social tie formation in a Twitter field experiment",
+    "Repo": "OSF",
+    "task_prompt": "Run Analysis_pubs.R",
+    "results": [
+      {
+        "From Model 1 (Binary partisanship) results, what is the point estimate of shared partisanship on follow-back? Give only the number rounded to three decimal places.": 0.093,
+        "From Model 1 results in Fig2.pdf, what is the p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places.": 0.465,
+	"From Model 1 results in Fig2.pdf, what is the FIR p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places.": 0.469
+      },
+      {
+        "From Model 1 (Binary partisanship) results, what is the point estimate of shared partisanship on follow-back? Give only the number rounded to three decimal places.": 0.093,
+        "From Model 1 results in Fig2.pdf, what is the p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places.": 0.465,
+	"From Model 1 results in Fig2.pdf, what is the FIR p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places.": 0.469
+      },
+      {
+        "From Model 1 (Binary partisanship) results, what is the point estimate of shared partisanship on follow-back? Give only the number rounded to three decimal places.": 0.093,
+        "From Model 1 results in Fig2.pdf, what is the p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places.": 0.465,
+	"From Model 1 results in Fig2.pdf, what is the FIR p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places.": 0.469
+      }
+    ]
+  },
+  {
+    "domain": "Hate Speech",
+    "language": "R",
+    "paper_title": "Citizen preferences for online hate speech regulation",
+    "Repo": "OSF",
+    "task_prompt": "Run all R files in the 'scripts' folder.",
+    "results": [
+      {
+        "Based on overall results, what is the Pearson correlation between perceived offensiveness and hatefulness for the German sample? Report only the number rounding to two decimal places.": 0.79,
+        "What is the AMCE point estimate (in scale points) for 'Violence (extreme)' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.42,
+	"What is the AMCE point estimate (in scale points) for 'Muslim immigrants' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.07,
+	"What is the AMCE point estimate (in scale points) for 'Women' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.04,
+	"What is the AMCE point estimate (in scale points) for 'Female Muslim' on hatefulness score from the United States sample model in Figure 4? Report only the number rounding to two decimal places.": 0.01
+      },
+      {
+        "Based on overall results, what is the Pearson correlation between perceived offensiveness and hatefulness for the German sample? Report only the number rounding to two decimal places.": 0.79,
+        "What is the AMCE point estimate (in scale points) for 'Violence (extreme)' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.42,
+	"What is the AMCE point estimate (in scale points) for 'Muslim immigrants' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.07,
+	"What is the AMCE point estimate (in scale points) for 'Women' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.04,
+	"What is the AMCE point estimate (in scale points) for 'Female Muslim' on hatefulness score from the United States sample model in Figure 4? Report only the number rounding to two decimal places.": 0.01
+      },
+      {
+        "Based on overall results, what is the Pearson correlation between perceived offensiveness and hatefulness for the German sample? Report only the number rounding to two decimal places.": 0.79,
+        "What is the AMCE point estimate (in scale points) for 'Violence (extreme)' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.42,
+	"What is the AMCE point estimate (in scale points) for 'Muslim immigrants' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.07,
+	"What is the AMCE point estimate (in scale points) for 'Women' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.": 0.04,
+	"What is the AMCE point estimate (in scale points) for 'Female Muslim' on hatefulness score from the United States sample model in Figure 4? Report only the number rounding to two decimal places.": 0.01
+      }
+    ]
+  },
+  {
+    "domain": "Method",
+    "language": "R",
+    "paper_title": "Who’s cheating on your survey? A detection approach with digital trace data",
+    "Repo": "Dataverse",
+    "task_prompt": "Run 01-main-text.R, then run func_model_permute.R",
+    "results": [
+      {
+        "Based on results in Figure 1a, what proportion of respondents in the German sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.": 0.236,
+	"Based on the replication data, what proportion of respondents in the US sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Item type: Elite Visual' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 1.14,
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Education: High' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 1.65,
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Gender: Female' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 0.56
+      },
+      {
+        "Based on results in Figure 1a, what proportion of respondents in the German sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.": 0.236,
+	"Based on the replication data, what proportion of respondents in the US sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Item type: Elite Visual' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 1.14,
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Education: High' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 1.65,
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Gender: Female' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 0.56
+      },
+      {
+        "Based on results in Figure 1a, what proportion of respondents in the German sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.": 0.236,
+	"Based on the replication data, what proportion of respondents in the US sample cheated on at least one survey item? Report only the number rounded to three decimal places. If it was not reproducible due to lack of data, report only 'No Data'.": "No Data",
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Item type: Elite Visual' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 1.14,
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Education: High' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 1.65,
+	"Based on fig-02a-response_stan_habitual_ci.pdf results, what is the point estimate of the effect of 'Gender: Female' (relative to Event baseline) on response-level cheating incidence? Report only the number rounding to two decimal places.": 0.56
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "Python",
+    "paper_title": "Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb",
+    "Repo": "OSF",
+    "task_prompt": "Run all python files in the figs_main folder",
+    "results": [
+      {
+        "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with White hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.": 2.75, 
+        "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to three decimal places.": -4.648,
+        "From the Figure 1 permutation test, by how many percentage points are Black guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.": 5.24,
+	"Based on all results, is the impact of same-race endorsements smaller than the impact of same-race host? Answer only Yes or No.": "No",
+	"From the Figure 2a permutation test, by how many percentage points are Asian guests more likely to book with racially ambiguous hosts when all 5 front-page reviews are from same-race guests, compared to what would be expected by chance? Report only the number rounding to two decimal places.": 18.90
+      },
+      {
+        "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with White hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.": 2.75, 
+        "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to three decimal places.": -4.648,
+        "From the Figure 1 permutation test, by how many percentage points are Black guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.": 5.24,
+	"Based on all results, is the impact of same-race endorsements smaller than the impact of same-race host? Answer only Yes or No.": "No",
+	"From the Figure 2a permutation test, by how many percentage points are Asian guests more likely to book with racially ambiguous hosts when all 5 front-page reviews are from same-race guests, compared to what would be expected by chance? Report only the number rounding to two decimal places.": 18.90
+      },
+      {
+        "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with White hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.": 2.75, 
+        "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to three decimal places.": -4.648,
+        "From the Figure 1 permutation test, by how many percentage points are Black guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.": 5.24,
+	"Based on all results, is the impact of same-race endorsements smaller than the impact of same-race host? Answer only Yes or No.": "No",
+	"From the Figure 2a permutation test, by how many percentage points are Asian guests more likely to book with racially ambiguous hosts when all 5 front-page reviews are from same-race guests, compared to what would be expected by chance? Report only the number rounding to two decimal places.": 18.90
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Accuracy prompts are a replicable and generalizable approach for reducing the spread of misinformation",
+    "Repo": "OSF",
+    "task_prompt": "Convert the meta_code.do file to R or Python (your choice) and run it",
+    "results": [
+      {
+        "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing discernment across all 20 experiments? Report only the number rounding to three decimal places.": 0.038,
+        "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for false news across all 20 experiments? Report only the number rounding to three decimal places.": -0.034,
+	"Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments? Report only the number rounding to three decimal places.": 0.006,
+	"Based on the results in Figure 1, is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments statistically significant at p < 0.05? Report only Yes or No.": "No",
+	"Based on the results for the evaluation treatment only, what is the percentage increase in sharing discernment due to the treatment relative to baseline sharing discernment in the control condition? Report only the result rounding to one decimal place.": 59.6,
+	"Based on the results for the evaluation treatment only, what is the z-value for the pooled effect of the treatment on sharing intentions for false news? Report only the number rounding to three decimal places.": -5.548
+      },
+      {
+        "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing discernment across all 20 experiments? Report only the number rounding to three decimal places.": 0.038,
+        "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for false news across all 20 experiments? Report only the number rounding to three decimal places.": -0.034,
+	"Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments? Report only the number rounding to three decimal places.": 0.006,
+	"Based on the results in Figure 1, is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments statistically significant at p < 0.05? Report only Yes or No.": "No",
+	"Based on the results for the evaluation treatment only, what is the percentage increase in sharing discernment due to the treatment relative to baseline sharing discernment in the control condition? Report only the result rounding to one decimal place.": 59.6,
+	"Based on the results for the evaluation treatment only, what is the z-value for the pooled effect of the treatment on sharing intentions for false news? Report only the number rounding to three decimal places.": -5.548
+      },
+      {
+        "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing discernment across all 20 experiments? Report only the number rounding to three decimal places.": 0.038,
+        "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for false news across all 20 experiments? Report only the number rounding to three decimal places.": -0.034,
+	"Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments? Report only the number rounding to three decimal places.": 0.006,
+	"Based on the results in Figure 1, is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments statistically significant at p < 0.05? Report only Yes or No.": "No",
+	"Based on the results for the evaluation treatment only, what is the percentage increase in sharing discernment due to the treatment relative to baseline sharing discernment in the control condition? Report only the result rounding to one decimal place.": 59.6,
+	"Based on the results for the evaluation treatment only, what is the z-value for the pooled effect of the treatment on sharing intentions for false news? Report only the number rounding to three decimal places.": -5.548
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Fighting misinformation on social media using crowdsourced judgments of news source quality",
+    "Repo": "OSF",
+    "task_prompt": "Convert Study 1.do and Study 2.do files to Python or R (your choice) and run them",
+    "results": [
+      {
+        "Based on results from Study 1, what is the coefficient on the Republican dummy in the main regression of trust on party × source type? Report only the number rounding to three decimal places.": -0.115,
+        "Based on results from Study 1, how much less do Republicans trust mainstream news compared to Democrats? Report only the number rounding to three decimal places.": -0.115,
+	"Based on results from Study 1, how much lower do Democrats rate fake news sources compared to mainstream news? Report only the number rounding to two decimal places.": -0.39,
+	"Across the 60 sources in study 2, what is the correlations between the average trust ratings of fact-checkers and laypeople Democrats? Report only the number rounding to two decimal places.": 0.92,
+	"In Study 1, what is the standardized beta coefficient for CRT predicting media discernment (Table S7, Model 1)? Report to two decimal places.": 0.16
+      },
+      {
+        "Based on results from Study 1, what is the coefficient on the Republican dummy in the main regression of trust on party × source type? Report only the number rounding to three decimal places.": -0.115,
+        "Based on results from Study 1, how much less do Republicans trust mainstream news compared to Democrats? Report only the number rounding to three decimal places.": -0.115,
+	"Based on results from Study 1, how much lower do Democrats rate fake news sources compared to mainstream news? Report only the number rounding to two decimal places.": -0.39,
+	"Across the 60 sources in study 2, what is the correlations between the average trust ratings of fact-checkers and laypeople Democrats? Report only the number rounding to two decimal places.": 0.92,
+	"In Study 1, what is the standardized beta coefficient for CRT predicting media discernment (Table S7, Model 1)? Report to two decimal places.": 0.16
+      },
+      {
+        "Based on results from Study 1, what is the coefficient on the Republican dummy in the main regression of trust on party × source type? Report only the number rounding to three decimal places.": -0.115,
+        "Based on results from Study 1, how much less do Republicans trust mainstream news compared to Democrats? Report only the number rounding to three decimal places.": -0.115,
+	"Based on results from Study 1, how much lower do Democrats rate fake news sources compared to mainstream news? Report only the number rounding to two decimal places.": -0.39,
+	"Across the 60 sources in study 2, what is the correlations between the average trust ratings of fact-checkers and laypeople Democrats? Report only the number rounding to two decimal places.": 0.92,
+	"In Study 1, what is the standardized beta coefficient for CRT predicting media discernment (Table S7, Model 1)? Report to two decimal places.": 0.16
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Shifting attention to accuracy can reduce misinformation online",
+    "Repo": "OSF",
+    "task_prompt": "Convert all .do files to R or Python (your choice) and run them",
+    "results": [
+      {
+        "Based on results in Study 1 (Figure 1), what is the percentage point difference in accuracy ratings between true and false headlines in the accuracy condition? Report only the number rounding to one decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 55.9,
+        "Based on Study 1 (Figure 1), what is the simple effect of political concordance on ratings in the sharing condition? Report in percentage points rounded to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'.": 19.3,
+	"Based on results in Study 3 (Figure 2), what is the regression coefficient for the condition × veracity interaction on sharing intentions (among social media sharers)? Report to three decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 0.053,
+	"Based on results in Study 5 (Figure 3), what is the headline-level correlation between treatment effect on sharing and pre-tested perceived accuracy? Report only the r value rounded to two decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 0.61,
+	"Based on the replication of Study 2, how many participants were in the sample? Report only the number.": 402,
+	"Based on the replication of Study 4, is the headline-level correlation between treatment effect on sharing and perceived accuracy significant at p < 0.05? Answer yes or no. If it cannot be computed due to data not in repository, only report 'No Data'.": "Yes",
+	"Based on Study 7 (the Twitter field experiment), what is the percentage change in the quality of news shared by users in the treatment group compared to the control group? Report to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'.": "No Data"
+      },
+      {
+        "Based on results in Study 1 (Figure 1), what is the percentage point difference in accuracy ratings between true and false headlines in the accuracy condition? Report only the number rounding to one decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 55.9,
+        "Based on Study 1 (Figure 1), what is the simple effect of political concordance on ratings in the sharing condition? Report in percentage points rounded to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'.": 19.3,
+	"Based on results in Study 3 (Figure 2), what is the regression coefficient for the condition × veracity interaction on sharing intentions (among social media sharers)? Report to three decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 0.053,
+	"Based on results in Study 5 (Figure 3), what is the headline-level correlation between treatment effect on sharing and pre-tested perceived accuracy? Report only the r value rounded to two decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 0.61,
+	"Based on the replication of Study 2, how many participants were in the sample? Report only the number.": 402,
+	"Based on the replication of Study 4, is the headline-level correlation between treatment effect on sharing and perceived accuracy significant at p < 0.05? Answer yes or no. If it cannot be computed due to data not in repository, only report 'No Data'.": "Yes",
+	"Based on Study 7 (the Twitter field experiment), what is the percentage change in the quality of news shared by users in the treatment group compared to the control group? Report to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'.": "No Data"
+      },
+      {
+        "Based on results in Study 1 (Figure 1), what is the percentage point difference in accuracy ratings between true and false headlines in the accuracy condition? Report only the number rounding to one decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 55.9,
+        "Based on Study 1 (Figure 1), what is the simple effect of political concordance on ratings in the sharing condition? Report in percentage points rounded to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'.": 19.3,
+	"Based on results in Study 3 (Figure 2), what is the regression coefficient for the condition × veracity interaction on sharing intentions (among social media sharers)? Report to three decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 0.053,
+	"Based on results in Study 5 (Figure 3), what is the headline-level correlation between treatment effect on sharing and pre-tested perceived accuracy? Report only the r value rounded to two decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.": 0.61,
+	"Based on the replication of Study 2, how many participants were in the sample? Report only the number.": 402,
+	"Based on the replication of Study 4, is the headline-level correlation between treatment effect on sharing and perceived accuracy significant at p < 0.05? Answer yes or no. If it cannot be computed due to data not in repository, only report 'No Data'.": "Yes",
+	"Based on Study 7 (the Twitter field experiment), what is the percentage change in the quality of news shared by users in the treatment group compared to the control group? Report to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'.": "No Data"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "Elite party cues increase vaccination intentions among Republicans",
+    "Repo": "OSF",
+    "task_prompt": "Run elite_cues_analysis_code.R",
+    "results": [
+      {
+        "What is the analytic sample size after applying the exclusion criteria? Only report the number.": 1480,
+        "Based on results in Figure 2, what is the p-value for the effect of the Republican endorse condition on vaccination intentions among unvaccinated participants, compared to the Democratic endorse condition? Report only the number rounded to three decimal places": 0.002,
+	"Based on results in Figure 2, what is the regression coefficient for the effect of the Democratic endorse condition on willingness to encourage others to vaccinate (all Republicans), compared to the Republican endorse condition? Report only the number rounded to three decimal places.": -0.054,
+	"Among unvaccinated Republicans, is the effect of the Democratic endorse condition on encouragement intentions significantly different from the neutral control condition at p < .05? Report only Yes or No.": "No"
+      },
+      {
+        "What is the analytic sample size after applying the exclusion criteria? Only report the number.": 1480,
+        "Based on results in Figure 2, what is the p-value for the effect of the Republican endorse condition on vaccination intentions among unvaccinated participants, compared to the Democratic endorse condition? Report only the number rounded to three decimal places": 0.002,
+	"Based on results in Figure 2, what is the regression coefficient for the effect of the Democratic endorse condition on willingness to encourage others to vaccinate (all Republicans), compared to the Republican endorse condition? Report only the number rounded to three decimal places.": -0.054,
+	"Among unvaccinated Republicans, is the effect of the Democratic endorse condition on encouragement intentions significantly different from the neutral control condition at p < .05? Report only Yes or No.": "No"
+      },
+      {
+        "What is the analytic sample size after applying the exclusion criteria? Only report the number.": 1480,
+        "Based on results in Figure 2, what is the p-value for the effect of the Republican endorse condition on vaccination intentions among unvaccinated participants, compared to the Democratic endorse condition? Report only the number rounded to three decimal places": 0.002,
+	"Based on results in Figure 2, what is the regression coefficient for the effect of the Democratic endorse condition on willingness to encourage others to vaccinate (all Republicans), compared to the Republican endorse condition? Report only the number rounded to three decimal places.": -0.054,
+	"Among unvaccinated Republicans, is the effect of the Democratic endorse condition on encouragement intentions significantly different from the neutral control condition at p < .05? Report only Yes or No.": "No"
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Emergence and collapse of reciprocity in semiautomatic driving coordination experiments with humans",
+    "Repo": "OSF",
+    "task_prompt": "Run all R scripts in the 'code' folder",
+    "results": [
+      {
+        "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the effect of auto-braking assistance on unilateral turns relative to bilateral turns for the control group? Report only the number rounded to three decimal places.": 0.013,
+        "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the main effect of messaging on unilateral turns relative to bilateral turns? Report only the number rounded to four decimal places.": 0.018,
+	"From the replicated OLS regression predicting satisfaction with the counterpart (Figure 5), what is the p-value for the effect of the number of times the counterpart went straight? Report only the number rounded to three decimal places.": 0.034
+      },
+      {
+        "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the effect of auto-braking assistance on unilateral turns relative to bilateral turns for the control group? Report only the number rounded to three decimal places.": 0.013,
+        "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the main effect of messaging on unilateral turns relative to bilateral turns? Report only the number rounded to four decimal places.": 0.018,
+	"From the replicated OLS regression predicting satisfaction with the counterpart (Figure 5), what is the p-value for the effect of the number of times the counterpart went straight? Report only the number rounded to three decimal places.": 0.034
+      },
+      {
+        "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the effect of auto-braking assistance on unilateral turns relative to bilateral turns for the control group? Report only the number rounded to three decimal places.": 0.013,
+        "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the main effect of messaging on unilateral turns relative to bilateral turns? Report only the number rounded to four decimal places.": 0.018,
+	"From the replicated OLS regression predicting satisfaction with the counterpart (Figure 5), what is the p-value for the effect of the number of times the counterpart went straight? Report only the number rounded to three decimal places.": 0.034
+      }
+    ]
+  },
+  {
+    "domain": "Collective Action",
+    "language": "R",
+    "paper_title": "Protest movements involving limited violence can sometimes be effective: Evidence from the 2020 BlackLivesMatter protests",
+    "Repo": "OSF",
+    "task_prompt": "Read the README.md file and run the code files mentioned there",
+    "results": [
+      {
+        "How many participants are in the final sample? Report NA if you cannot get the results for data restriction.": 503,
+        "In Study 2B, what is the simple slope coefficient for the effect of nonviolent protests (vs. no protests) on prejudice among conservatives? Report NA if you cannot get the results for data restriction.": "NA"
+      },
+      {
+        "How many participants are in the final sample? Report NA if you cannot get the results for data restriction.": 503,
+        "In Study 2B, what is the simple slope coefficient for the effect of nonviolent protests (vs. no protests) on prejudice among conservatives? Report NA if you cannot get the results for data restriction.": "NA"
+      },
+      {
+        "How many participants are in the final sample? Report NA if you cannot get the results for data restriction.": 503,
+        "In Study 2B, what is the simple slope coefficient for the effect of nonviolent protests (vs. no protests) on prejudice among conservatives? Report NA if you cannot get the results for data restriction.": "NA"
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "R",
+    "paper_title": "Can Exposure to Celebrities Reduce Prejudice? The Effect of Mohamed Salah on Islamophobic Behaviors and Attitudes",
+    "Repo": "Dataverse",
+    "task_prompt": "Read the -README.md file and run the codes accordingly",
+    "results": [
+      {
+        "Based on Figure 2 results, what is the average treatment effect (ATT) from the hate crime matrix completion analysis? Report only the number rounded to three decimal places.": -0.275,
+        "From the Twitter analysis replication, what is the average treatment effect on anti-Muslim tweets for Liverpool fans after Salah joined? Return only the number rounded to three decimal places.": -0.035,
+	"From the survey experiment replication, what is the treatment effect of the religion condition on the principal component outcome? Return only the number rounded to two decimal places.": 0.08,
+	"From the hate crime placebo analysis using Sadio Mane's arrival, what is the two-sided p-value for the average treatment effect? Return only the number.": 0.56,
+	"From the crime placebo analysis, how many different crime categories were compared against hate crimes? Return only the number.": 15
+      },
+      {
+        "Based on Figure 2 results, what is the average treatment effect (ATT) from the hate crime matrix completion analysis? Report only the number rounded to three decimal places.": -0.275,
+        "From the Twitter analysis replication, what is the average treatment effect on anti-Muslim tweets for Liverpool fans after Salah joined? Return only the number rounded to three decimal places.": -0.035,
+	"From the survey experiment replication, what is the treatment effect of the religion condition on the principal component outcome? Return only the number rounded to two decimal places.": 0.08,
+	"From the hate crime placebo analysis using Sadio Mane's arrival, what is the two-sided p-value for the average treatment effect? Return only the number.": 0.56,
+	"From the crime placebo analysis, how many different crime categories were compared against hate crimes? Return only the number.": 15
+      },
+      {
+        "Based on Figure 2 results, what is the average treatment effect (ATT) from the hate crime matrix completion analysis? Report only the number rounded to three decimal places.": -0.275,
+        "From the Twitter analysis replication, what is the average treatment effect on anti-Muslim tweets for Liverpool fans after Salah joined? Return only the number rounded to three decimal places.": -0.035,
+	"From the survey experiment replication, what is the treatment effect of the religion condition on the principal component outcome? Return only the number rounded to two decimal places.": 0.08,
+	"From the hate crime placebo analysis using Sadio Mane's arrival, what is the two-sided p-value for the average treatment effect? Return only the number.": 0.56,
+	"From the crime placebo analysis, how many different crime categories were compared against hate crimes? Return only the number.": 15
+      }
+    ]
+  },
+  {
+    "domain": "Collective Action",
+    "language": "R",
+    "paper_title": "Simple autonomous agents can enhance creative semantic discovery by human groups",
+    "Repo": "OSF",
+    "task_prompt": "Run analysis.Rmd file in the analysis data_and_code/code/folder",
+    "results": [
+      {
+        "Based on Model 1 (the no-decoy target similarity model), what is the estimated regression coefficient for the solo condition relative to the no-bot reference group? Return only the number rounded to two decimal places.": -0.70,
+        "From the bot answer analysis model, what is the posterior mean of the interaction coefficient between the least-similar bot condition and the no-decoy landscape? Return only the number rounded to two decimal places.": -0.86,
+	"What is the estimated coefficient for βSolo in the semantic alignment model where the no-bot condition is the reference? Return only the number rounded to two decimal places.": -0.33,
+	"In the semantic alignment model, what is the reference category for the bot condition variable? Choose one from Most, Least, Random, Solo, and No Bot and report it.": "No Bot"
+      },
+      {
+        "Based on Model 1 (the no-decoy target similarity model), what is the estimated regression coefficient for the solo condition relative to the no-bot reference group? Return only the number rounded to two decimal places.": -0.70,
+        "From the bot answer analysis model, what is the posterior mean of the interaction coefficient between the least-similar bot condition and the no-decoy landscape? Return only the number rounded to two decimal places.": -0.86,
+	"What is the estimated coefficient for βSolo in the semantic alignment model where the no-bot condition is the reference? Return only the number rounded to two decimal places.": -0.33,
+	"In the semantic alignment model, what is the reference category for the bot condition variable? Choose one from Most, Least, Random, Solo, and No Bot and report it.": "No Bot"
+      },
+      {
+        "Based on Model 1 (the no-decoy target similarity model), what is the estimated regression coefficient for the solo condition relative to the no-bot reference group? Return only the number rounded to two decimal places.": -0.70,
+        "From the bot answer analysis model, what is the posterior mean of the interaction coefficient between the least-similar bot condition and the no-decoy landscape? Return only the number rounded to two decimal places.": -0.86,
+	"What is the estimated coefficient for βSolo in the semantic alignment model where the no-bot condition is the reference? Return only the number rounded to two decimal places.": -0.33,
+	"In the semantic alignment model, what is the reference category for the bot condition variable? Choose one from Most, Least, Random, Solo, and No Bot and report it.": "No Bot"
+      }
+    ]
+  },
+  {
+    "domain": "Collective Action",
+    "language": "Python/R",
+    "paper_title": "Characterizing Population-level Changes in Human Behavior during the COVID-19 Pandemic in the United States",
+    "task_prompt": "Run all ipython and R scripts in the code folder",
+    "results": [
+      {
+	"According to results from the temporal relationships between state-level behavior and national-level mortality (Table 1), which US state has the highest Correlation with Mortality at Lag 1?": "Delaware",
+	"From Table 2 results, what is the Avg. slope of risk-averting behaviors in swing states? Report only the number rounded to three decimal places.": -1.320,
+      },
+      {
+        "According to results from the temporal relationships between state-level behavior and national-level mortality (Table 1), which US state has the highest Correlation with Mortality at Lag 1?": "Delaware",
+	"From Table 2 results, what is the Avg. slope of risk-averting behaviors in swing states? Report only the number rounded to three decimal places.": -1.320,
+      },
+      {
+        "According to results from the temporal relationships between state-level behavior and national-level mortality (Table 1), which US state has the highest Correlation with Mortality at Lag 1?": "Delaware",
+	"From Table 2 results, what is the Avg. slope of risk-averting behaviors in swing states? Report only the number rounded to three decimal places.": -1.320,
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Social identity shapes antecedents and functional outcomes of moral emotion expression",
+    "Repo": "OSF",
+    "task_prompt": "Run all R scripts in the 'Analysis Scripts' folder",
+    "results": [
+      {
+        "What is the total of number experiments in this paper? Only report the number.": 5,
+        "What is the sample size of Study 2? Only report the number.": 786,
+	"From Study 1 results, what is the odds ratio for choosing to share a moral-emotional political message over a neutral political message across all trials (intercept-only model)? Only report the number rounded to two decimal places.": 1.29,
+	"From Study 2 results, what is the p-value for the interaction between political identity strength and political party on moral-emotional message selection? Only report the number rounded to two decimal places.": 0.51,
+	"From Study 3 results, what is the intercept odds ratio for choosing a moral-emotional message from the model that includes PID strength, affirmation, threat, and their interactions with PID? Only report the number rounded to two decimal places.": 4.10,
+      },
+      {
+        "What is the total of number experiments in this paper? Only report the number.": 5,
+        "What is the sample size of Study 2? Only report the number.": 786,
+	"From Study 1 results, what is the odds ratio for choosing to share a moral-emotional political message over a neutral political message across all trials (intercept-only model)? Only report the number rounded to two decimal places.": 1.29,
+	"From Study 2 results, what is the p-value for the interaction between political identity strength and political party on moral-emotional message selection? Only report the number rounded to two decimal places.": 0.51,
+	"From Study 3 results, what is the intercept odds ratio for choosing a moral-emotional message from the model that includes PID strength, affirmation, threat, and their interactions with PID? Only report the number rounded to two decimal places.": 4.10,
+      },
+      {
+        "What is the total of number experiments in this paper? Only report the number.": 5,
+        "What is the sample size of Study 2? Only report the number.": 786,
+	"From Study 1 results, what is the odds ratio for choosing to share a moral-emotional political message over a neutral political message across all trials (intercept-only model)? Only report the number rounded to two decimal places.": 1.29,
+	"From Study 2 results, what is the p-value for the interaction between political identity strength and political party on moral-emotional message selection? Only report the number rounded to two decimal places.": 0.51,
+	"From Study 3 results, what is the intercept odds ratio for choosing a moral-emotional message from the model that includes PID strength, affirmation, threat, and their interactions with PID? Only report the number rounded to two decimal places.": 4.10,
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Sexism in teams: Exposure to sexist comments increases emotional synchrony but eliminates its benefits for team performance",
+    "Repo": "OSF",
+    "task_prompt": "Run '1. Cross correlation analysis.R', then run '2. Summary of ccf analyses.R' files",
+    "results": [
+      {
+        "Based on results from the effect of Sexism on Emotional Synchrony, what is the mean difference between facial expressive synchrony in the sexism condition than in the control condition? If it cannot be computed due to lack of data, only report 'No Data'.": "No Data",
+        "What is the mean lag-averaged cross-correlation coefficient for Joy across all dyads and experimental stages? Only report the number rounded to three decimal places. If it cannot be computed due to lack of data, only report 'No Data'.": 0.133,
+	"Based on results for the analysis of the effect of sexism on the relationship between emotional synchrony and team performance, what is the mean difference between those who exposed to verbal sexism and those in the control condition. Only report the absolute difference rounded to two decimal places. If it cannot be computed due to lack of data, say 'No Data'.": "No Data"
+      },
+      {
+        "Based on results from the effect of Sexism on Emotional Synchrony, what is the mean difference between facial expressive synchrony in the sexism condition than in the control condition? If it cannot be computed due to lack of data, only report 'No Data'.": "No Data",
+        "What is the mean lag-averaged cross-correlation coefficient for Joy across all dyads and experimental stages? Only report the number rounded to three decimal places. If it cannot be computed due to lack of data, only report 'No Data'.": 0.133,
+	"Based on results for the analysis of the effect of sexism on the relationship between emotional synchrony and team performance, what is the mean difference between those who exposed to verbal sexism and those in the control condition. Only report the absolute difference rounded to two decimal places. If it cannot be computed due to lack of data, say 'No Data'.": "No Data"
+      },
+      {
+        "Based on results from the effect of Sexism on Emotional Synchrony, what is the mean difference between facial expressive synchrony in the sexism condition than in the control condition? If it cannot be computed due to lack of data, only report 'No Data'.": "No Data",
+        "What is the mean lag-averaged cross-correlation coefficient for Joy across all dyads and experimental stages? Only report the number rounded to three decimal places. If it cannot be computed due to lack of data, only report 'No Data'.": 0.133,
+	"Based on results for the analysis of the effect of sexism on the relationship between emotional synchrony and team performance, what is the mean difference between those who exposed to verbal sexism and those in the control condition. Only report the absolute difference rounded to two decimal places. If it cannot be computed due to lack of data, say 'No Data'.": "No Data"
+      }
+    ]
+  },
+  {
+    "domain": "Public Opinion",
+    "language": "R",
+    "paper_title": "Trust in scientists and their role in society across 68 countries",
+    "Repo": "OSF",
+    "task_prompt": "Run all R scripts in the 01_code folder",
+    "results": [
+      {
+        "What is the weighted grand mean of trust in scientists across all countries? Report only the number rounded to two decimal places. If the data or code is not provided, only report 'No data or code'.": 3.62,
+        "How many countries have trust in scientists below 3? Report only the number. If the data or code is not provided, only report 'No data or code'.": 0,
+	"From the blockwise multilevel regression of trust in scientists on demographic, ideological, and attitudinal predictors with random intercepts by country, report the standardized estimate. Report only the number rounded to three decimal places. If the data or code is not provided, only report 'No data or code'.": "No data or code"
+      },
+      {
+        "What is the weighted grand mean of trust in scientists across all countries? Report only the number rounded to two decimal places. If the data or code is not provided, only report 'No data or code'.": 3.62,
+        "How many countries have trust in scientists below 3? Report only the number. If the data or code is not provided, only report 'No data or code'.": 0,
+	"From the blockwise multilevel regression of trust in scientists on demographic, ideological, and attitudinal predictors with random intercepts by country, report the standardized estimate. Report only the number rounded to three decimal places. If the data or code is not provided, only report 'No data or code'.": "No data or code"
+      },
+      {
+        "What is the weighted grand mean of trust in scientists across all countries? Report only the number rounded to two decimal places. If the data or code is not provided, only report 'No data or code'.": 3.62,
+        "How many countries have trust in scientists below 3? Report only the number. If the data or code is not provided, only report 'No data or code'.": 0,
+	"From the blockwise multilevel regression of trust in scientists on demographic, ideological, and attitudinal predictors with random intercepts by country, report the standardized estimate. Report only the number rounded to three decimal places. If the data or code is not provided, only report 'No data or code'.": "No data or code"
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Human social preferences cluster and spread in the field",
+    "Repo": "OSF",
+    "task_prompt": "Run Analysis.Rmd",
+    "results": [
+      {
+        "Based on results from figure 2, what is the p-value of the observed variations of social preferences within school classes compared to those of the permuted null networks at the second observation (wave 2)? Report only the number rounded to three decimal places.": 0.016,
+        "Based on results from figure 2, is the within-clique variation in social preferences significantly different from the permuted null at p < 0.05 level for the first observation? Report only Yes or No.": "No",
+	"Based on the Figure 2B results for wave 2, is the correlation in social preferences between dyads with relationship strength (5,6] significantly different from the permuted null at p < 0.05 level? Report only Yes or No.": "Yes",
+	"From the Figure 3 logistic regression results, what is the p-value for the DC (defector to cooperator) coefficient? Report only the number rounded to two decimal places.": 0.07
+      },
+      {
+        "Based on results from figure 2, what is the p-value of the observed variations of social preferences within school classes compared to those of the permuted null networks at the second observation (wave 2)? Report only the number rounded to three decimal places.": 0.016,
+        "Based on results from figure 2, is the within-clique variation in social preferences significantly different from the permuted null at p < 0.05 level for the first observation? Report only Yes or No.": "No",
+	"Based on the Figure 2B results for wave 2, is the correlation in social preferences between dyads with relationship strength (5,6] significantly different from the permuted null at p < 0.05 level? Report only Yes or No.": "Yes",
+	"From the Figure 3 logistic regression results, what is the p-value for the DC (defector to cooperator) coefficient? Report only the number rounded to two decimal places.": 0.07
+      },
+      {
+        "Based on results from figure 2, what is the p-value of the observed variations of social preferences within school classes compared to those of the permuted null networks at the second observation (wave 2)? Report only the number rounded to three decimal places.": 0.016,
+        "Based on results from figure 2, is the within-clique variation in social preferences significantly different from the permuted null at p < 0.05 level for the first observation? Report only Yes or No.": "No",
+	"Based on the Figure 2B results for wave 2, is the correlation in social preferences between dyads with relationship strength (5,6] significantly different from the permuted null at p < 0.05 level? Report only Yes or No.": "Yes",
+	"From the Figure 3 logistic regression results, what is the p-value for the DC (defector to cooperator) coefficient? Report only the number rounded to two decimal places.": 0.07
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "R",
+    "paper_title": "The impact of marriage equality campaigns on stress: Did a Swiss public vote get under the skin?",
+    "Repo": "OSF",
+    "task_prompt": "Run the OSF_Short.R file in the Syntax folder",
+    "results": [
+      {
+        "From Figure 1 results, what is the intercept coefficient (b) from the intercept-only regression model predicting the stress difference score T1-T2? Report only the number rounded to two decimal places.": -0.05,
+        "From the full model (Model 5) of the campaign effect stress regression (Table 1), what is the coefficient for the LGBT group variable? Report only the number rounded to two decimal places.": -0.17,
+	"What is the intercept coefficient from the intercept-only model predicting the cortisol difference score T1-T2 (winsorized)? Report only the number rounded to two decimal places.": -2.13,
+	"Is the LGBT group coefficient significant at p < .05 in the model predicting cortisol difference T1-T2 from LGBT group only? Report only yes or no.": "No",
+	"What is the p-value for the NCE × LGBT interaction in the full cortisol campaign effect model (Figure 3, T1-T2)? Report only the number rounded to two decimal places.": 0.01
+      },
+      {
+        "From Figure 1 results, what is the intercept coefficient (b) from the intercept-only regression model predicting the stress difference score T1-T2? Report only the number rounded to two decimal places.": -0.05,
+        "From the full model (Model 5) of the campaign effect stress regression (Table 1), what is the coefficient for the LGBT group variable? Report only the number rounded to two decimal places.": -0.17,
+	"What is the intercept coefficient from the intercept-only model predicting the cortisol difference score T1-T2 (winsorized)? Report only the number rounded to two decimal places.": -2.13,
+	"Is the LGBT group coefficient significant at p < .05 in the model predicting cortisol difference T1-T2 from LGBT group only? Report only yes or no.": "No",
+	"What is the p-value for the NCE × LGBT interaction in the full cortisol campaign effect model (Figure 3, T1-T2)? Report only the number rounded to two decimal places.": 0.01
+      },
+      {
+        "From Figure 1 results, what is the intercept coefficient (b) from the intercept-only regression model predicting the stress difference score T1-T2? Report only the number rounded to two decimal places.": -0.05,
+        "From the full model (Model 5) of the campaign effect stress regression (Table 1), what is the coefficient for the LGBT group variable? Report only the number rounded to two decimal places.": -0.17,
+	"What is the intercept coefficient from the intercept-only model predicting the cortisol difference score T1-T2 (winsorized)? Report only the number rounded to two decimal places.": -2.13,
+	"Is the LGBT group coefficient significant at p < .05 in the model predicting cortisol difference T1-T2 from LGBT group only? Report only yes or no.": "No",
+	"What is the p-value for the NCE × LGBT interaction in the full cortisol campaign effect model (Figure 3, T1-T2)? Report only the number rounded to two decimal places.": 0.01
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Valence Biases and Emergence in the Stereotype Content of Intersecting Social Categories",
+    "Repo": "OSF",
+    "task_prompt": "Run all Rmd files",
+    "results": [
+      {
+        "What is the combined total sample size across the two pretests and three main studies?": 1116,
+        "In Study 1, what is the exact p-value for the Warmth relative value × Familiarity interaction? Report only the number rounded to three decimal places.": 0.004,
+	"In Study 2, what is the unstandardized coefficient (b) for the extremity predictor in the differential similarity model using general valence? Report only the number rounded to two decimal places.": 0.12,
+	"In Study 3, what are the model-estimated means of emergent traits for Novel vs. Not Novel familiarity groups? Report only the number rounded to one decimal places.": 0.4
+      },
+      {
+        "What is the combined total sample size across the two pretests and three main studies?": 1116,
+        "In Study 1, what is the exact p-value for the Warmth relative value × Familiarity interaction? Report only the number rounded to three decimal places.": 0.004,
+	"In Study 2, what is the unstandardized coefficient (b) for the extremity predictor in the differential similarity model using general valence? Report only the number rounded to two decimal places.": 0.12,
+	"In Study 3, what are the model-estimated means of emergent traits for Novel vs. Not Novel familiarity groups? Report only the number rounded to one decimal places.": 0.4
+      },
+      {
+        "What is the combined total sample size across the two pretests and three main studies?": 1116,
+        "In Study 1, what is the exact p-value for the Warmth relative value × Familiarity interaction? Report only the number rounded to three decimal places.": 0.004,
+	"In Study 2, what is the unstandardized coefficient (b) for the extremity predictor in the differential similarity model using general valence? Report only the number rounded to two decimal places.": 0.12,
+	"In Study 3, what are the model-estimated means of emergent traits for Novel vs. Not Novel familiarity groups? Report only the number rounded to one decimal places.": 0.4
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "R",
+    "paper_title": "A summer bridge program for first generation low-income students stretches academic ambitions with no adverse impacts on first-year GPA",
+    "Repo": "OSF",
+    "task_prompt": "Run all R scripts",
+    "results": [
+      {
+        "From the analytic sample, what percentage of students reported food insecurity? Reply with only the numeric value rounded to one decimal place, nothing else.": 12.4,
+        "Based on the results, what is the percentage increase in total units taken (including summer bridge) caused by attendance at the in-person version of the SB Program, relative to the control group baseline? Reply with only the numeric value rounded to the nearest integer, nothing else.": 13,
+	"Based on the replication results, does a Kolmogorov-Smirnov test show that the distribution of summer grades differs significantly from school year grades at P < 0.001? Reply with only Yes or No.": "Yes"
+      },
+      {
+        "From the analytic sample, what percentage of students reported food insecurity? Reply with only the numeric value rounded to one decimal place, nothing else.": 12.4,
+        "Based on the results, what is the percentage increase in total units taken (including summer bridge) caused by attendance at the in-person version of the SB Program, relative to the control group baseline? Reply with only the numeric value rounded to the nearest integer, nothing else.": 13,
+	"Based on the replication results, does a Kolmogorov-Smirnov test show that the distribution of summer grades differs significantly from school year grades at P < 0.001? Reply with only Yes or No.": "Yes"
+      },
+      {
+        "From the analytic sample, what percentage of students reported food insecurity? Reply with only the numeric value rounded to one decimal place, nothing else.": 12.4,
+        "Based on the results, what is the percentage increase in total units taken (including summer bridge) caused by attendance at the in-person version of the SB Program, relative to the control group baseline? Reply with only the numeric value rounded to the nearest integer, nothing else.": 14,
+	"Based on the replication results, does a Kolmogorov-Smirnov test show that the distribution of summer grades differs significantly from school year grades at P < 0.001? Reply with only Yes or No.": "Yes"
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Emotion regulation contagion drives reduction in negative intergroup emotions",
+    "Repo": "OSF",
+    "task_prompt": "Run all file in the 'Analysis and data file (main manuscript)' folder. Do Not replicate the semantic projection analysis which requires AlephBERT Hebrew language model embeddings.",
+    "results": [
+      {
+        "How many participants are in the dataset?": 2830,
+        "The paper reports N = 2,659 as the final sample after applying all dropout criteria. Can you find all analysis code required to reach to this number or some are missing? Only report Yes or No.": "No",
+	"What is the effect size for the effect of the reappraisal manipulation on negative emotions? Report only the number rounded to two decimal places.": -0.18
+      },
+      {
+        "How many participants are in the dataset?": 2830,
+        "The paper reports N = 2,659 as the final sample after applying all dropout criteria. Can you find all analysis code required to reach to this number or some are missing? Only report Yes or No.": "No",
+	"What is the effect size for the effect of the reappraisal manipulation on negative emotions? Report only the number rounded to two decimal places.": -0.18
+      },
+      {
+        "How many participants are in the dataset?": 2830,
+        "The paper reports N = 2,659 as the final sample after applying all dropout criteria. Can you find all analysis code required to reach to this number or some are missing? Only report Yes or No.": "No",
+	"What is the effect size for the effect of the reappraisal manipulation on negative emotions? Report only the number rounded to two decimal places.": -0.18
+      }
+    ]
+  },
+  {
+    "domain": "Public Opinion",
+    "language": "Python",
+    "paper_title": "The Effect of Prediction Error on Belief Update Across the Political Spectrum",
+    "Repo": "OSF",
+    "task_prompt": "Run all ipython files",
+    "results": [
+      {
+        "Based on replication materials, what is the sample size of Study 1 (the main study). Only report the number.": 704,
+        "From the replication results of Figure 1, what is the unstandardized regression coefficient for prediction-error size predicting rational belief update in the OLS regression? Report only the number rounded to two decimal places.": 2.87,
+	"From the replication results of Figure 1, what is the mean rational belief update for items in the large-prediction-error bin? Report only the number rounded to two decimal places.": 22.00,
+	"From the replication results of the linear mixed-effects model predicting rational belief update from prediction error, participant ideology, and their interaction (controlling for prior belief interval) in Study 2, what is the unstandardized regression coefficient for the interaction between prediction error and participant ideology? Report only the number rounded to two decimal places.": -0.57
+      },
+      {
+        "Based on replication materials, what is the sample size of Study 1 (the main study). Only report the number.": 704,
+        "From the replication results of Figure 1, what is the unstandardized regression coefficient for prediction-error size predicting rational belief update in the OLS regression? Report only the number rounded to two decimal places.": 2.87,
+	"From the replication results of Figure 1, what is the mean rational belief update for items in the large-prediction-error bin? Report only the number rounded to two decimal places.": 22.00,
+	"From the replication results of the linear mixed-effects model predicting rational belief update from prediction error, participant ideology, and their interaction (controlling for prior belief interval) in Study 2, what is the unstandardized regression coefficient for the interaction between prediction error and participant ideology? Report only the number rounded to two decimal places.": -0.57
+      },
+      {
+        "Based on replication materials, what is the sample size of Study 1 (the main study). Only report the number.": 704,
+        "From the replication results of Figure 1, what is the unstandardized regression coefficient for prediction-error size predicting rational belief update in the OLS regression? Report only the number rounded to two decimal places.": 2.87,
+	"From the replication results of Figure 1, what is the mean rational belief update for items in the large-prediction-error bin? Report only the number rounded to two decimal places.": 22.00,
+	"From the replication results of the linear mixed-effects model predicting rational belief update from prediction error, participant ideology, and their interaction (controlling for prior belief interval) in Study 2, what is the unstandardized regression coefficient for the interaction between prediction error and participant ideology? Report only the number rounded to two decimal places.": -0.57
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Affective Prediction Errors in Persistence and Escalation of Aggression",
+    "Repo": "OSF",
+    "task_prompt": "Run all Rmd files in the Analysis folder",
+    "results": [
+      {
+        "From replication results, what is the total number of participants in all studies? Report only the number.": 4607,
+        "From Experiment 1 results, what is the mean outgroup identification? Report only the number rounded to one decimal place.": 22.56,
+	"From Experiment 1 results,, what is the p-value for the effect of policy choice (steal vs. earn) on affective prediction errors? Report only the number rounded to three decimal places.": 0.325,
+	"From experiment 3 results, is it true that increases in the chosen amount within stealing from t -1 to t is not significantly associated with affective PEs at t -1 (P<0.001)? Report only Yes or No": "No"
+      },
+      {
+        "From replication results, what is the total number of participants in all studies? Report only the number.": 4607,
+        "From Experiment 1 results, what is the mean outgroup identification? Report only the number rounded to one decimal place.": 22.56,
+	"From Experiment 1 results,, what is the p-value for the effect of policy choice (steal vs. earn) on affective prediction errors? Report only the number rounded to three decimal places.": 0.325,
+	"From experiment 3 results, is it true that increases in the chosen amount within stealing from t -1 to t is not significantly associated with affective PEs at t -1 (P<0.001)? Report only Yes or No": "No"
+      },
+      {
+        "From replication results, what is the total number of participants in all studies? Report only the number.": 4607,
+        "From Experiment 1 results, what is the mean outgroup identification? Report only the number rounded to one decimal place.": 22.56,
+	"From Experiment 1 results,, what is the p-value for the effect of policy choice (steal vs. earn) on affective prediction errors? Report only the number rounded to three decimal places.": 0.325,
+	"From experiment 3 results, is it true that increases in the chosen amount within stealing from t -1 to t is not significantly associated with affective PEs at t -1 (P<0.001)? Report only Yes or No": "No"
+      }
+    ]
+  },
+  {
+    "domain": "Hate Speech",
+    "language": "R",
+    "paper_title": "Empathy-based counterspeech can reduce racist hate speech in a social media field experiment",
+    "Repo": "Dataverse",
+    "task_prompt": "Run all R files in the code folder",
+    "results": [
+      {
+        "Based on replication results, how many non-attrited users are in the main analysis sample? Only report the number.": 1350,
+        "What is the effect size of empathy-based counterspeech on the volume of xenophobic tweets? Only report the number in SD units rounded to two decimal places.": 0.10,
+	"What is the p-value for the effect of empathy-based counterspeech on the propensity to delete the original xenophobic tweet? Only report the number rounded to three decimal places.": 0.009 
+      },
+      {
+        "Based on replication results, how many non-attrited users are in the main analysis sample? Only report the number.": 1350,
+        "What is the effect size of empathy-based counterspeech on the volume of xenophobic tweets? Only report the number in SD units rounded to two decimal places.": 0.10,
+	"What is the p-value for the effect of empathy-based counterspeech on the propensity to delete the original xenophobic tweet? Only report the number rounded to three decimal places.": 0.009
+      },
+      {
+        "Based on replication results, how many non-attrited users are in the main analysis sample? Only report the number.": 1350,
+        "What is the effect size of empathy-based counterspeech on the volume of xenophobic tweets? Only report the number in SD units rounded to two decimal places.": 0.10,
+	"What is the p-value for the effect of empathy-based counterspeech on the propensity to delete the original xenophobic tweet? Only report the number rounded to three decimal places.": 0.009
+      }
+    ]
+  },
+  {
+    "domain": "Hate Speech",
+    "language": "R",
+    "paper_title": "Moralized language predicts hate speech on social media",
+    "Repo": "OSF",
+    "task_prompt": "From the 'R Scripts' folder, run Main.Rmd. Do NOT run the Supplements.Rmd file",
+    "results": [
+      {
+        "Based on the replication results, what is the total sample size of the twitter dataset (Politicians+Newspeople+Activists)? Report only the number.": 691234,
+        "From Figure2_coefficient_plot.pdf plot results, what is the coefficient of moral words on hate speech for the politicians dataset? Only report the number rounded to three decimal places.": 0.102,
+	"From Figure2_coefficient_plot.pdf plot results, what is the odds ratio of moral-emotional words on hate speech for the activists dataset? Only report the number rounded to three decimal places.": "1.206",
+	"From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians significant at the p < 0.01 level? Report only Yes or No.": "Yes",
+	"From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians substantially smaller than moral words? Report only Yes or No.": "Yes",
+	"From replication results, how many times larger is the coefficient of moral words compared to emotional words for politicians? Report only the ratio rounded to the nearest integer number.": 6
+      },
+      {
+        "Based on the replication results, what is the total sample size of the twitter dataset (Politicians+Newspeople+Activists)? Report only the number.": 691234,
+        "From Figure2_coefficient_plot.pdf plot results, what is the coefficient of moral words on hate speech for the politicians dataset? Only report the number rounded to three decimal places.": 0.102,
+	"From Figure2_coefficient_plot.pdf plot results, what is the odds ratio of moral-emotional words on hate speech for the activists dataset? Only report the number rounded to three decimal places.": "1.206",
+	"From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians significant at the p < 0.01 level? Report only Yes or No.": "Yes",
+	"From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians substantially smaller than moral words? Report only Yes or No.": "Yes",
+	"From replication results, how many times larger is the coefficient of moral words compared to emotional words for politicians? Report only the ratio rounded to the nearest integer number.": 6
+      },
+      {
+        "Based on the replication results, what is the total sample size of the twitter dataset (Politicians+Newspeople+Activists)? Report only the number.": 691234,
+        "From Figure2_coefficient_plot.pdf plot results, what is the coefficient of moral words on hate speech for the politicians dataset? Only report the number rounded to three decimal places.": 0.102,
+	"From Figure2_coefficient_plot.pdf plot results, what is the odds ratio of moral-emotional words on hate speech for the activists dataset? Only report the number rounded to three decimal places.": "1.206",
+	"From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians significant at the p < 0.01 level? Report only Yes or No.": "Yes",
+	"From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians substantially smaller than moral words? Report only Yes or No.": "Yes",
+	"From replication results, how many times larger is the coefficient of moral words compared to emotional words for politicians? Report only the ratio rounded to the nearest integer number.": 6
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Disentangling participation in online political discussions with a collective field experiment",
+    "Repo": "Github",
+    "task_prompt": "Only run scripts to replicate RQ1, and RQ2 (i.e. Run 01-sample-descriptives.Rmd, 02-RQ1-participation.Rmd, and 03-RQ2-experiment.Rmd). Do not run the Part Two section scripts.",
+    "results": [
+      {
+        "Based on replication results, how many participants joined the experimental subreddits?": 520,
+        "In the zero-hurdle component of the participation model (Figure 2A), were gender, age, and education significant predictors of overcoming the participation threshold at p < 0.05 level? Report only Yes or No": "No",
+	"From Figure 2 results, what is the coefficient for perceived discussion toxicity in the zero-hurdle component predicting whether lurkers become active participants? Report only the number rounded to three decimal places.": -0.750,
+	"From Figure 3 results (RQ2: experimental treatment effects), what is the Gini coefficient of participation inequality in the incentives condition? Report only the number rounded to three decimal places.": 0.651
+      },
+      {
+        "Based on replication results, how many participants joined the experimental subreddits?": 520,
+        "In the zero-hurdle component of the participation model (Figure 2A), were gender, age, and education significant predictors of overcoming the participation threshold at p < 0.05 level? Report only Yes or No": "No",
+	"From Figure 2 results, what is the coefficient for perceived discussion toxicity in the zero-hurdle component predicting whether lurkers become active participants? Report only the number rounded to three decimal places.": -0.750,
+	"From Figure 3 results (RQ2: experimental treatment effects), what is the Gini coefficient of participation inequality in the incentives condition? Report only the number rounded to three decimal places.": 0.651
+      },
+      {
+        "Based on replication results, how many participants joined the experimental subreddits?": 520,
+        "In the zero-hurdle component of the participation model (Figure 2A), were gender, age, and education significant predictors of overcoming the participation threshold at p < 0.05 level? Report only Yes or No": "No",
+	"From Figure 2 results, what is the coefficient for perceived discussion toxicity in the zero-hurdle component predicting whether lurkers become active participants? Report only the number rounded to three decimal places.": -0.750,
+	"From Figure 3 results (RQ2: experimental treatment effects), what is the Gini coefficient of participation inequality in the incentives condition? Report only the number rounded to three decimal places.": 0.651
+      }
+    ]
+  },
+  {
+    "domain": "Partisanship",
+    "language": "R",
+    "paper_title": "Partisan conflict over content moderation is more than disagreement about facts",
+    "Repo": "Dataverse",
+    "task_prompt": "Run all files in the 'code' folder",
+    "results": [
+      {
+        "Based on replication results of descriptive statistics, what proportion of Democrats say a false headline should be removed? Only report the number rounded to two decimal places.": 0.69,
+        "From the replication results for all respondents (coefficient_barplot_anysubgroup.png plot), what is the misaligned preference gap for intent to remove headline? Only report the number rounded to two decimal places.": 0.41,
+	"From the replication results for the inaccurate subset (coefficient_barplot_inaccsubgroup.png plot), what is the ratio of Democrats' to Republicans' probability of intent to remove a misaligned headline? Only report the number rounded to two decimal places.": 1.96,
+	"From the replication results for the inaccurate subset, is it true that for misaligned headlines, Republicans are half as likely as Democrats to perceive removal as censorship? Report only Yes or No.": "No"
+      },
+      {
+        "Based on replication results of descriptive statistics, what proportion of Democrats say a false headline should be removed? Only report the number rounded to two decimal places.": 0.69,
+        "From the replication results for all respondents (coefficient_barplot_anysubgroup.png plot), what is the misaligned preference gap for intent to remove headline? Only report the number rounded to two decimal places.": 0.41,
+	"From the replication results for the inaccurate subset (coefficient_barplot_inaccsubgroup.png plot), what is the ratio of Democrats' to Republicans' probability of intent to remove a misaligned headline? Only report the number rounded to two decimal places.": 1.96,
+	"From the replication results for the inaccurate subset, is it true that for misaligned headlines, Republicans are half as likely as Democrats to perceive removal as censorship? Report only Yes or No.": "No"
+      },
+      {
+        "Based on replication results of descriptive statistics, what proportion of Democrats say a false headline should be removed? Only report the number rounded to two decimal places.": 0.69,
+        "From the replication results for all respondents (coefficient_barplot_anysubgroup.png plot), what is the misaligned preference gap for intent to remove headline? Only report the number rounded to two decimal places.": 0.41,
+	"From the replication results for the inaccurate subset (coefficient_barplot_inaccsubgroup.png plot), what is the ratio of Democrats' to Republicans' probability of intent to remove a misaligned headline? Only report the number rounded to two decimal places.": 1.96,
+	"From the replication results for the inaccurate subset, is it true that for misaligned headlines, Republicans are half as likely as Democrats to perceive removal as censorship? Report only Yes or No.": "No"
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R",
+    "paper_title": "Reranking partisan animosity in algorithmic social media feeds alters affective polarization",
+    "Repo": "Dryad",
+    "task_prompt": "Run all R scripts except 01_attrition.R, 02_balance.R, and 08a_pate_raking.R",
+    "results": [
+      {
+        "Based on replication materials and results, how many participants are in the main analytic sample? Report only the number.": 1090,
+        "From the main polarization plot (Figure 2), what is the post-experiment treatment effect estimate for the reduced exposure experiment? Report only the number rounded to two decimal places.": 2.11,
+	"From the main polarization plot (Figure 2), what is the lower bound of the 95% confidence interval for the post-experiment treatment effect in the increased exposure experiment? Report only the number rounded to two decimal places.": -4.79
+      },
+      {
+        "Based on replication materials and results, how many participants are in the main analytic sample? Report only the number.": 1090,
+        "From the main polarization plot (Figure 2), what is the post-experiment treatment effect estimate for the reduced exposure experiment? Report only the number rounded to two decimal places.": 2.11,
+	"From the main polarization plot (Figure 2), what is the lower bound of the 95% confidence interval for the post-experiment treatment effect in the increased exposure experiment? Report only the number rounded to two decimal places.": -4.79
+      },
+      {
+        "Based on replication materials and results, how many participants are in the main analytic sample? Report only the number.": 1090,
+        "From the main polarization plot (Figure 2), what is the post-experiment treatment effect estimate for the reduced exposure experiment? Report only the number rounded to two decimal places.": 2.11,
+	"From the main polarization plot (Figure 2), what is the lower bound of the 95% confidence interval for the post-experiment treatment effect in the increased exposure experiment? Report only the number rounded to two decimal places.": -4.79
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "Stata",
+    "paper_title": "Prebunking and credible source corrections increase election credibility: Evidence from the US and Brazil",
+    "Repo": "Dataverse",
+    "task_prompt": "Convert all .do files into R scripts and run them",
+    "results": [
+      {
+        "What is the final sample size for Study 2 (Brazil) after excluding respondents who did not reach randomization and removing duplicate responses? Report only the number.": 2949,
+        "In Study 1 Wave 1, based solely on the magnitude of the point estimates, did the prebunking treatment reduce beliefs about the prevalence of voter fraud in the 2020 election more than the credible source correction? Report only say or no.": "Yes",
+	"In Study 2, based on statistical significance at the 0.05 level, is it true that the credible source correction significantly change beliefs about the prevalence of voter fraud in either the 2022 or 2026 election? Report only Yes or No.": "No"
+      },
+      {
+        "What is the final sample size for Study 2 (Brazil) after excluding respondents who did not reach randomization and removing duplicate responses? Report only the number.": 2949,
+        "In Study 1 Wave 1, based solely on the magnitude of the point estimates, did the prebunking treatment reduce beliefs about the prevalence of voter fraud in the 2020 election more than the credible source correction? Report only say or no.": "Yes",
+	"In Study 2, based on statistical significance at the 0.05 level, is it true that the credible source correction significantly change beliefs about the prevalence of voter fraud in either the 2022 or 2026 election? Report only Yes or No.": "No"
+      },
+      {
+        "What is the final sample size for Study 2 (Brazil) after excluding respondents who did not reach randomization and removing duplicate responses? Report only the number.": 2949,
+        "In Study 1 Wave 1, based solely on the magnitude of the point estimates, did the prebunking treatment reduce beliefs about the prevalence of voter fraud in the 2020 election more than the credible source correction? Report only say or no.": "Yes",
+	"In Study 2, based on statistical significance at the 0.05 level, is it true that the credible source correction significantly change beliefs about the prevalence of voter fraud in either the 2022 or 2026 election? Report only Yes or No.": "No"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "The small effects of political advertising are small regardless of context, message, sender, or receiver: Evidence from 59 real-time randomized experiments",
+    "Repo": "Dataverse",
+    "task_prompt": "Run all R scripts",
+    "results": [
+      {
+        "Across all 59 experiments, what is the p-value for the test that the variability in advertising effects on favorability is no greater than what would be expected from sampling variability? Only report the number rounded to three decimal places.": 0.092,
+        "From Table 1 results (meta-regression), in how many of the four specifications is the slope of advertising effects with respect to the timing of the advertisement negative? Only report the number.": 3,
+	"From Table 1 results (meta-regression), is it true that the slope with respect to the timing of the advertisement is statistically distinct from zero in only two of four specifications?": "No",
+	"From Table 1 results (meta-regression), what is the effect size of the time on Vote Choice in the broad model (column 3)? Report only the number rounded to three decimal places.": -0.009,
+      },
+      {
+        "Across all 59 experiments, what is the p-value for the test that the variability in advertising effects on favorability is no greater than what would be expected from sampling variability? Only report the number rounded to three decimal places.": 0.092,
+        "From Table 1 results (meta-regression), in how many of the four specifications is the slope of advertising effects with respect to the timing of the advertisement negative? Only report the number.": 3,
+	"From Table 1 results (meta-regression), is it true that the slope with respect to the timing of the advertisement is statistically distinct from zero in only two of four specifications?": "No",
+	"From Table 1 results (meta-regression), what is the effect size of the time on Vote Choice in the broad model (column 3)? Report only the number rounded to three decimal places.": -0.009,
+      },
+      {
+        "Across all 59 experiments, what is the p-value for the test that the variability in advertising effects on favorability is no greater than what would be expected from sampling variability? Only report the number rounded to three decimal places.": 0.092,
+        "From Table 1 results (meta-regression), in how many of the four specifications is the slope of advertising effects with respect to the timing of the advertisement negative? Only report the number.": 3,
+	"From Table 1 results (meta-regression), is it true that the slope with respect to the timing of the advertisement is statistically distinct from zero in only two of four specifications?": "No",
+	"From Table 1 results (meta-regression), what is the effect size of the time on Vote Choice in the broad model (column 3)? Report only the number rounded to three decimal places.": -0.009,
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "Listen for a change? A longitudinal field experiment on listening’s potential to enhance persuasion",
+    "Repo": "OSF",
+    "task_prompt": "Run all R scripts in the 'code' folder",
+    "results": [
+      {
+        "From Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.": 0.33,
+        "From Table 2 results, what is the estimated effect of the Persuasive Appeal Only condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.": 0.26,
+	"From Figure 1 and Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on policy attitudes immediately post-conversation? Report only the number rounded to three decimal places.": 0.066,
+	"Is the effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on prejudice toward undocumented immigrants statistically significant at p < 0.05 at the 5-week follow-up? Report only Yes or No.": "No"
+      },
+      {
+        "From Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.": 0.33,
+        "From Table 2 results, what is the estimated effect of the Persuasive Appeal Only condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.": 0.26,
+	"From Figure 1 and Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on policy attitudes immediately post-conversation? Report only the number rounded to three decimal places.": 0.066,
+	"Is the effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on prejudice toward undocumented immigrants statistically significant at p < 0.05 at the 5-week follow-up? Report only Yes or No.": "No"
+      },
+      {
+        "From Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.": 0.33,
+        "From Table 2 results, what is the estimated effect of the Persuasive Appeal Only condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.": 0.26,
+	"From Figure 1 and Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on policy attitudes immediately post-conversation? Report only the number rounded to three decimal places.": 0.066,
+	"Is the effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on prejudice toward undocumented immigrants statistically significant at p < 0.05 at the 5-week follow-up? Report only Yes or No.": "No"
+      }
+    ]
+  },
+  {
+    "domain": "Collective Action",
+    "language": "R",
+    "paper_title": "Information-sharing and cooperation in networked collective action groups",
+    "Repo": "OSF",
+    "task_prompt": "Run all R scripts files. Skip any computationally expensive simulations (e.g., powerSim, bootstrapping).",
+    "results": [
+      {
+        "From Study 1 results (Model 1 - Figure 1a), what is the effect of round in the phase on contributions to the public good? Only report the number rounded to two decimal places.": -0.53,
+        "From Study 1 results (Model 2), what is the standard error for the effect of information-sharing on t2 contributions after controlling for group cooperation at t1? Only report the number rounded to two decimal places.": 0.27,
+	"From Study 2 results (Model 1 - Figure 3b), what is the coefficient for full information networks compared to sparse networks without information-sharing? Only report the number rounded to two decimal places.": 1.69,
+	"From Study 2 results (Model 1), is it true that the difference between information-sharing with evaluative content and the full information phase is significant at p < 0.05? Report only Yes or No": "No" 
+      },
+      {
+        "From Study 1 results (Model 1 - Figure 1a), what is the effect of round in the phase on contributions to the public good? Only report the number rounded to two decimal places.": -0.53,
+        "From Study 1 results (Model 2), what is the standard error for the effect of information-sharing on t2 contributions after controlling for group cooperation at t1? Only report the number rounded to two decimal places.": 0.27,
+	"From Study 2 results (Model 1 - Figure 3b), what is the coefficient for full information networks compared to sparse networks without information-sharing? Only report the number rounded to two decimal places.": 1.69,
+	"From Study 2 results (Model 1), is it true that the difference between information-sharing with evaluative content and the full information phase is significant at p < 0.05? Report only Yes or No": "No" 
+      },
+      {
+        "From Study 1 results (Model 1 - Figure 1a), what is the effect of round in the phase on contributions to the public good? Only report the number rounded to two decimal places.": -0.53,
+        "From Study 1 results (Model 2), what is the standard error for the effect of information-sharing on t2 contributions after controlling for group cooperation at t1? Only report the number rounded to two decimal places.": 0.27,
+	"From Study 2 results (Model 1 - Figure 3b), what is the coefficient for full information networks compared to sparse networks without information-sharing? Only report the number rounded to two decimal places.": 1.69,
+	"From Study 2 results (Model 1), is it true that the difference between information-sharing with evaluative content and the full information phase is significant at p < 0.05? Report only Yes or No": "No" 
+      }
+    ]
+  },
+{
+    "domain": "Science Communication",
+    "language": "Stata",
+    "paper_title": "Model uncertainty, political contestation, and public trust in science: Evidence from the COVID-19 pandemic",
+    "Repo": "Dataverse",
+    "task_prompt": "Convert all .do files into Python/R and run them",
+    "results": [
+      {
+        "From Study 1 results, what is the total sample size? Report only the number": 2038,
+        "In Study 1 (Figure 1), by how many percentage points did bipartisan criticism reduce strong support for relying on COVID-19 models in the full sample? Report only the number rounded to one decimal place.": 6.1,
+	"In Study 2 (Figure 2), by how many percentage points did the Cuomo treatment decrease support for using models to guide reopening policies among all subjects? Report only the number rounded to one decimal place.": 13.0 
+      },
+      {
+        "From Study 1 results, what is the total sample size? Report only the number": 2038,
+        "In Study 1 (Figure 1), by how many percentage points did bipartisan criticism reduce strong support for relying on COVID-19 models in the full sample? Report only the number rounded to one decimal place.": 6.1,
+	"In Study 2 (Figure 2), by how many percentage points did the Cuomo treatment decrease support for using models to guide reopening policies among all subjects? Report only the number rounded to one decimal place.": 13.0  
+      },
+      {
+        "From Study 1 results, what is the total sample size? Report only the number": 2038,
+        "In Study 1 (Figure 1), by how many percentage points did bipartisan criticism reduce strong support for relying on COVID-19 models in the full sample? Report only the number rounded to one decimal place.": 6.1,
+	"In Study 2 (Figure 2), by how many percentage points did the Cuomo treatment decrease support for using models to guide reopening policies among all subjects? Report only the number rounded to one decimal place.": 13.0 
+      }
+    ]
+  },
+{
+    "domain": "Science Communication",
+    "language": "Python",
+    "paper_title": "Selective and deceptive citation in the construction of dueling consensuses",
+    "Repo": "Zenodo",
+    "task_prompt": "Run all python scripts",
+    "results": [
+      {
+        "From the replication results, what is the sample size of the papers in the web of science study? Report only the number.": 80,
+        "From the replication results, what percentage of WOS citations were coded as critical/negative? Report only the number rounded to one decimal place.": 1.3,
+	"From the replication results, what is the overall negative citation ratio in the Twitter network? Report only the number rounded to two decimal places.": 5.95,
+	"From replication results, what is the negative citation ratio for anti-mask websites in the Twitter network? Report only the number rounded to the nearest integer number.": 9 
+      },
+      {
+        "From the replication results, what is the sample size of the papers in the web of science study? Report only the number.": 80,
+        "From the replication results, what percentage of WOS citations were coded as critical/negative? Report only the number rounded to one decimal place.": 1.3,
+	"From the replication results, what is the overall negative citation ratio in the Twitter network? Report only the number rounded to two decimal places.": 5.95,
+	"From replication results, what is the negative citation ratio for anti-mask websites in the Twitter network? Report only the number rounded to the nearest integer number.": 9 
+      },
+      {
+        "From the replication results, what is the sample size of the papers in the web of science study? Report only the number.": 80,
+        "From the replication results, what percentage of WOS citations were coded as critical/negative? Report only the number rounded to one decimal place.": 1.3,
+	"From the replication results, what is the overall negative citation ratio in the Twitter network? Report only the number rounded to two decimal places.": 5.95,
+	"From replication results, what is the negative citation ratio for anti-mask websites in the Twitter network? Report only the number rounded to the nearest integer number.": 9 
+      }
+    ]
+  },
+{
+    "domain": "Science Communication",
+    "language": "R",
+    "paper_title": "Public Communication about Science in 68 Countries: Global Evidence on How People Encounter and Engage with Information about Science",
+    "Repo": "OSF",
+    "task_prompt": "Run all R scripts in the 01_code folder",
+    "results": [
+      {
+        "From the replication results in ggdumbbell_SCIXPO.pdf plot, what is the weighted M for exposure to science information on social media platforms (Facebook, YouTube, TikTok, Instagram) across the 68-country sample? Report only the number rounded to two decimal places.": 3.81,
+        "From replication results in Table_BayesReg_SCIXPO.html table, what is the Bayesian regression coefficient (b) for GDP per capita predicting exposure to science information on social media? Report only the number rounded to two decimal places.": -0.28,
+	"From replication results in Table_BayesReg_SCIXPO.html table, what is the median partial eta-squared for GDP per capita predicting exposure to science information in the news?? Report only the number rounded to two decimal places.": 0.08
+      },
+      {
+        "From the replication results in ggdumbbell_SCIXPO.pdf plot, what is the weighted M for exposure to science information on social media platforms (Facebook, YouTube, TikTok, Instagram) across the 68-country sample? Report only the number rounded to two decimal places.": 3.81,
+        "From replication results in Table_BayesReg_SCIXPO.html table, what is the Bayesian regression coefficient (b) for GDP per capita predicting exposure to science information on social media? Report only the number rounded to two decimal places.": -0.28,
+	"From replication results in Table_BayesReg_SCIXPO.html table, what is the median partial eta-squared for GDP per capita predicting exposure to science information in the news?? Report only the number rounded to two decimal places.": 0.08 
+      },
+      {
+        "From the replication results in ggdumbbell_SCIXPO.pdf plot, what is the weighted M for exposure to science information on social media platforms (Facebook, YouTube, TikTok, Instagram) across the 68-country sample? Report only the number rounded to two decimal places.": 3.81,
+        "From replication results in Table_BayesReg_SCIXPO.html table, what is the Bayesian regression coefficient (b) for GDP per capita predicting exposure to science information on social media? Report only the number rounded to two decimal places.": -0.28,
+	"From replication results in Table_BayesReg_SCIXPO.html table, what is the median partial eta-squared for GDP per capita predicting exposure to science information in the news?? Report only the number rounded to two decimal places.": 0.08
+      }
+    ]
+  }
+]

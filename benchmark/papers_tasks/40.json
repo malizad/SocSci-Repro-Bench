@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all file in the 'Analysis and data file (main manuscript)' folder. Do Not replicate the semantic projection analysis which requires AlephBERT Hebrew language model embeddings.",
+  "tasks": [
+    "How many participants are in the dataset?",
+    "The paper reports N = 2,659 as the final sample after applying all dropout criteria. Can you find all analysis code required to reach to this number or some are missing? Only report Yes or No.",
+    "What is the effect size for the effect of the reappraisal manipulation on negative emotions? Report only the number rounded to two decimal places."
+  ]
+}

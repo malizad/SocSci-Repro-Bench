@@ -1,0 +1,12 @@
+{
+  "task_prompt": "Convert all .do files to R or Python (your choice) and run them",
+  "tasks": [
+    "Based on results in Study 1 (Figure 1), what is the percentage point difference in accuracy ratings between true and false headlines in the accuracy condition? Report only the number rounding to one decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.",
+    "Based on Study 1 (Figure 1), what is the simple effect of political concordance on ratings in the sharing condition? Report in percentage points rounded to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'.",
+    "Based on results in Study 3 (Figure 2), what is the regression coefficient for the condition × veracity interaction on sharing intentions (among social media sharers)? Report to three decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.",
+    "Based on results in Study 5 (Figure 3), what is the headline-level correlation between treatment effect on sharing and pre-tested perceived accuracy? Report only the r value rounded to two decimal places. If it cannot be computed due to data not in repository, only report 'No Data'.",
+    "Based on the replication of Study 2, how many participants were in the sample? Report only the number.",
+    "Based on the replication of Study 4, is the headline-level correlation between treatment effect on sharing and perceived accuracy significant at p < 0.05? Answer yes or no. If it cannot be computed due to data not in repository, only report 'No Data'.",
+    "Based on Study 7 (the Twitter field experiment), what is the percentage change in the quality of news shared by users in the treatment group compared to the control group? Report to one decimal place. If it cannot be computed due to data not in repository, only report 'No Data'."
+  ]
+}

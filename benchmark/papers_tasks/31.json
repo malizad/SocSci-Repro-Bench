@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run analysis.Rmd file in the analysis data_and_code/code/folder",
+  "tasks": [
+    "Based on Model 1 (the no-decoy target similarity model), what is the estimated regression coefficient for the solo condition relative to the no-bot reference group? Return only the number rounded to two decimal places.",
+    "From the bot answer analysis model, what is the posterior mean of the interaction coefficient between the least-similar bot condition and the no-decoy landscape? Return only the number rounded to two decimal places.",
+    "What is the estimated coefficient for βSolo in the semantic alignment model where the no-bot condition is the reference? Return only the number rounded to two decimal places.",
+    "In the semantic alignment model, what is the reference category for the bot condition variable? Choose one from Most, Least, Random, Solo, and No Bot and report it."
+  ]
+}

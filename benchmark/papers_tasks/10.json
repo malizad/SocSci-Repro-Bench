@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run main_paper_replication.R",
+  "tasks": [
+    "From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Ranking for the Mislabeled Woman condition. Only report the number rounded to three decimal places.",
+    "From the figure2_gap_means_and_stars.png regression results, in the Correctly Labeled condition, are men more influential than women on all metrics? Report only Yes or No.",
+    "From the figure2_gap_means_and_stars.png regression results, what is the point estimate of Gap in Influence on Partner's Thermometer for the Mislabeled Man condition. Only report the number rounded to three decimal places.",
+    "From the figure3_convergence_twopanel.png results, what is the point estimate of Thermometer Rating Gap (relative to control) for Mislabeling the Man's Gender condition? Only report the number rounded to three decimal places."
+  ]
+}

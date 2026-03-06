@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Read the -README.md file and run the codes accordingly",
+  "tasks": [
+    "Based on Figure 2 results, what is the average treatment effect (ATT) from the hate crime matrix completion analysis? Report only the number rounded to three decimal places.",
+    "From the Twitter analysis replication, what is the average treatment effect on anti-Muslim tweets for Liverpool fans after Salah joined? Return only the number rounded to three decimal places.",
+    "From the survey experiment replication, what is the treatment effect of the religion condition on the principal component outcome? Return only the number rounded to two decimal places.",
+    "From the hate crime placebo analysis using Sadio Mane's arrival, what is the two-sided p-value for the average treatment effect? Return only the number.",
+    "From the crime placebo analysis, how many different crime categories were compared against hate crimes? Return only the number."
+  ]
+}

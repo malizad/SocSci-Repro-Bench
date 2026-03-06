@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Run the OSF_Short.R file in the Syntax folder",
+  "tasks": [
+    "From Figure 1 results, what is the intercept coefficient (b) from the intercept-only regression model predicting the stress difference score T1-T2? Report only the number rounded to two decimal places.",
+    "From the full model (Model 5) of the campaign effect stress regression (Table 1), what is the coefficient for the LGBT group variable? Report only the number rounded to two decimal places.",
+    "What is the intercept coefficient from the intercept-only model predicting the cortisol difference score T1-T2 (winsorized)? Report only the number rounded to two decimal places.",
+    "Is the LGBT group coefficient significant at p < .05 in the model predicting cortisol difference T1-T2 from LGBT group only? Report only yes or no.",
+    "What is the p-value for the NCE × LGBT interaction in the full cortisol campaign effect model (Figure 3, T1-T2)? Report only the number rounded to two decimal places."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run elite_cues_analysis_code.R",
+  "tasks": [
+    "What is the analytic sample size after applying the exclusion criteria? Only report the number.",
+    "Based on results in Figure 2, what is the p-value for the effect of the Republican endorse condition on vaccination intentions among unvaccinated participants, compared to the Democratic endorse condition? Report only the number rounded to three decimal places",
+    "Based on results in Figure 2, what is the regression coefficient for the effect of the Democratic endorse condition on willingness to encourage others to vaccinate (all Republicans), compared to the Republican endorse condition? Report only the number rounded to three decimal places.",
+    "Among unvaccinated Republicans, is the effect of the Democratic endorse condition on encouragement intentions significantly different from the neutral control condition at p < .05? Report only Yes or No."
+  ]
+}

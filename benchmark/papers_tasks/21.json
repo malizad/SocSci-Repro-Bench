@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Run all R files in the 'scripts' folder.",
+  "tasks": [
+    "Based on overall results, what is the Pearson correlation between perceived offensiveness and hatefulness for the German sample? Report only the number rounding to two decimal places.",
+    "What is the AMCE point estimate (in scale points) for 'Violence (extreme)' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.",
+    "What is the AMCE point estimate (in scale points) for 'Muslim immigrants' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.",
+    "What is the AMCE point estimate (in scale points) for 'Women' on hatefulness score from the pooled model in Figure 4? Report only the number rounding to two decimal places.",
+    "What is the AMCE point estimate (in scale points) for 'Female Muslim' on hatefulness score from the United States sample model in Figure 4? Report only the number rounding to two decimal places."
+  ]
+}

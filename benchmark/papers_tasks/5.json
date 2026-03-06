@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run Data_Clean_Variable_Creation.R, then Analysis_MainText.R, then Analysis_Appendix.R, then main.py in PythonScripts.",
+  "tasks": [
+    "From the Figure2.pdf plot results, report the 'politeness package feature' with highest 'Marginal Effects of GPT-3 Rephrasings'. Report only the name.",
+    "From the Figure3_topic_proportions.pdf plot results, report the topic name with largest gap between 'Untreated messages' and 'Treated messages after rephrasing'.",
+    "From the Figure4.pdf plot results, report the percentage-point effect of receiving one or more AI rephrasings on partners’ Conversation Quality Index. Report only the number rounded to one decimal place.",
+    "From Figure4.pdf results, report whether the effect of receiving AI rephrasings on the Democratic Reciprocity Index is larger for recipients than for their partners. Report only Yes or No."
+  ]
+}

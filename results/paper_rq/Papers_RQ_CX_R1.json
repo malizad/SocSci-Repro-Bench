@@ -1,0 +1,560 @@
+[
+  {
+    "id": 10,
+    "RQ": [
+      {
+        "RQ1": "How does gender mislabeling affect influence in paired deliberation tasks?",
+        "RQ2": "Do correctly labeled men and women differ in influence outcomes across ranking and thermometer measures?",
+        "RQ3": "Does mislabeling participant gender shift convergence dynamics relative to control?"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "RQ": [
+      {
+        "RQ1": "Do LLM fact-check interventions improve discernment for belief and sharing outcomes?",
+        "RQ2": "How do forced, optional, and human fact-check conditions compare for true and false headlines?",
+        "RQ3": "How do ChatGPT annotation categories (true/false/unsure) mediate treatment effects?",
+        "RQ4": "How do opt-in versus opt-out participants differ in endorsement behavior?"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "RQ": [
+      {
+        "RQ1": "How does partisan control of institutions relate to US science and research appropriations over time?",
+        "RQ2": "Which branches of partisan control are most strongly associated with funding levels?",
+        "RQ3": "How do contracts and assistance distributions compare across recipient types?",
+        "RQ4": "How does grant allocation across fields vary under different partisan control regimes?"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "RQ": [
+      {
+        "RQ1": "How has science citation in congressional and think tank policy documents changed over time?",
+        "RQ2": "Does party control predict differences in the likelihood of citing science?",
+        "RQ3": "How similar or divergent are left- and right-leaning policy documents in cited science?",
+        "RQ4": "Do embedding and clustering analyses reveal ideological structure in cited science corpora?",
+        "RQ5": "How do supplementary mechanisms (trust, witnesses, grandstanding) relate to science citation patterns?"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "RQ": [
+      {
+        "RQ1": "How has AI-related scientific impact evolved across disciplines over time?",
+        "RQ2": "How is direct AI use associated with education, collaboration, and disciplinary capability profiles?",
+        "RQ3": "How are gender and racial composition across disciplines associated with AI adoption and impact?"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "RQ": [
+      {
+        "RQ1": "What share of search results comes from reliable versus unreliable sources across samples?",
+        "RQ2": "How does information quality vary by search result rank?",
+        "RQ3": "How do navigational searches differ from non-navigational searches in exposure and engagement outcomes?"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "RQ": [
+      {
+        "RQ1": "What share of political news sharing in the panel is linked to fake news, and when does it peak?",
+        "RQ2": "How do supersharers differ from reference groups in demographic composition?",
+        "RQ3": "To what extent do supersharers display automated or bot-like behavior patterns?"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "RQ": [
+      {
+        "RQ1": "How do public and personal threat treatments affect prevention intentions across studies?",
+        "RQ2": "Do treatment effects vary by survey ordering and baseline characteristics?",
+        "RQ3": "What are the standardized treatment effects in multivariate models with controls?",
+        "RQ4": "Are observed treatment effects robust across the multi-study design?"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "RQ": [
+      {
+        "RQ1": "How do recommendation algorithms shift policy attitudes in gun-control and minimum-wage experiments?",
+        "RQ2": "Do treatment effects differ by ideology and seed-video assignment?",
+        "RQ3": "How consistent are effects across MTurk, Qualtrics, and YouGov study variants?",
+        "RQ4": "What post-treatment behavioral and attitudinal patterns emerge across combined studies?"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "RQ": [
+      {
+        "RQ1": "How are the political leaning and quality of news shared related across major social media platforms?",
+        "RQ2": "How does controlling for news quality change the relationship between political lean and engagement?",
+        "RQ3": "How do engagement-lean and engagement-quality associations vary by platform?",
+        "RQ4": "Is there an overall cross-platform association between political lean and engagement?"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "RQ": [
+      {
+        "RQ1": "Does shared partisanship increase follow-back behavior toward political bots?",
+        "RQ2": "Does bot ideological strength moderate the effect of shared partisanship on follow-back?",
+        "RQ3": "Are interaction effects robust under finite-sample randomization inference?"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "RQ": [
+      {
+        "RQ1": "How do hate-speech content attributes affect perceived hatefulness and desired sanctions?",
+        "RQ2": "How do target-group and sender identities influence hatefulness judgments?",
+        "RQ3": "Do effects differ between German and US respondents?",
+        "RQ4": "How are offensiveness and hatefulness judgments related?",
+        "RQ5": "How do framing manipulations affect reactions to hate speech?",
+        "RQ6": "Which respondent characteristics predict sanction preferences?"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "RQ": [
+      {
+        "RQ1": "What proportion of respondents engage in cheating on political knowledge survey items?",
+        "RQ2": "How do respondent and item characteristics predict response-level cheating?",
+        "RQ3": "How does item type affect cheating incidence?",
+        "RQ4": "How does habitual survey-taking relate to cheating behavior?",
+        "RQ5": "How does cheating bias observed political knowledge measures?"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "RQ": [
+      {
+        "RQ1": "To what extent does same-race host matching exceed random booking patterns?",
+        "RQ2": "How do same-race endorsement signals change booking choices relative to chance?",
+        "RQ3": "Is the endorsement-signal effect smaller than direct same-race host effects?"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "RQ": [
+      {
+        "RQ1": "What is the pooled effect of accuracy prompts on sharing discernment across experiments?",
+        "RQ2": "How do accuracy prompts affect sharing intentions for false versus true news?",
+        "RQ3": "Are effects heterogeneous across treatment variants and study contexts?",
+        "RQ4": "How large are evaluation-treatment effects relative to baseline discernment?"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "RQ": [
+      {
+        "RQ1": "How do Democrats and Republicans differ in trust toward mainstream, hyper-partisan, and fake-news sources?",
+        "RQ2": "How closely do layperson source-trust ratings align with professional fact-checker assessments?",
+        "RQ3": "How do cognitive reflection and ideology relate to media discernment?"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "RQ": [
+      {
+        "RQ1": "How does prompting accuracy versus sharing goals affect belief and sharing of true/false headlines across studies?",
+        "RQ2": "How does political concordance shape perceived accuracy and sharing intentions under different conditions?",
+        "RQ3": "Do intervention effects replicate in survey and field settings, including Twitter behavior?"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "RQ": [
+      {
+        "RQ1": "Do Republican versus Democratic elite endorsements change vaccination intentions among Republicans?",
+        "RQ2": "Which mediators explain endorsement effects?",
+        "RQ3": "Do endorsement effects differ between vaccinated and unvaccinated Republicans?"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "RQ": [
+      {
+        "RQ1": "How does embedding regression estimate bias vary with sample size and group imbalance in simulations?",
+        "RQ2": "Do norm-deflation or correction methods reduce bias in embedding regression under constant-ratio simulations?",
+        "RQ3": "How do corrected and uncorrected embedding regression norms differ for Twitter data containing the word \"people\"?",
+        "RQ4": "How do uncertainty estimates from bootstrap/jackknife compare for embedding regression in simulated and real data?"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "RQ": [
+      {
+        "RQ1": "How strongly do layperson ratings correlate with professional fact-checker ratings across articles and sources?",
+        "RQ2": "Do crowd subgroups (party affiliation, CRT level, PK level) differ in correlation or AUC when predicting fact-checker judgments?",
+        "RQ3": "How do classification accuracy and AUC vary with different cutoff thresholds and unanimity levels among fact-checkers?"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "RQ": [
+      {
+        "RQ1": "What is the average treatment effect of exposure to vaccine misinformation on vaccination intentions in Study 1 and Study 2?",
+        "RQ2": "How do misinformation content characteristics (e.g., harmful-to-health ratings) relate to treatment effects on vaccination intentions?",
+        "RQ3": "What is the distribution of Facebook views across fact-checking categories and misinformation clusters?"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "RQ": [
+      {
+        "RQ1": "How does perceived accuracy differ between true and false headlines across countries?",
+        "RQ2": "Which individual difference measures most strongly moderate the effect of headline veracity on perceived accuracy?",
+        "RQ3": "How do accuracy prompts or tips interventions affect discernment and its disconnect from sharing across countries?"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "RQ": [
+      {
+        "RQ1": "How do GPT-3 rephrasings affect politeness features of messages?",
+        "RQ2": "How do topic proportions differ between untreated messages and AI-rephrased treated messages?",
+        "RQ3": "What is the effect of receiving AI rephrasings on conversation quality and democratic reciprocity outcomes?"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "RQ": [
+      {
+        "RQ1": "How do textual features predict readability in the best Bradley-Terry model?",
+        "RQ2": "How does the rescaled best BT model relate to Flesch Reading Ease across snippets?",
+        "RQ3": "Are spoken SOTU addresses easier than written versions across specific years and presidents?"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "RQ": [
+      {
+        "RQ1": "How do correction timing conditions (Before/During/After) affect belief in false headlines?",
+        "RQ2": "How do correction timing conditions affect discernment between true and false headlines one week later?",
+        "RQ3": "Which correction timing yields the largest improvement in discernment across studies?"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "RQ": [
+      {
+        "RQ1": "How does multimodal labeling affect labeling time and valid response rates?",
+        "RQ2": "Does multimodal labeling improve inter-rater reliability compared to text-only labeling?",
+        "RQ3": "Does multimodal labeling improve classifier predictive power versus text-only?"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "RQ": [
+      {
+        "RQ1": "What is the effect of cross-party interaction on depolarization and related indices?",
+        "RQ2": "How do label conditions (correct/incorrect/none) affect issue and affect indices?",
+        "RQ3": "Do depolarization effects differ by party, and are affect effects significant for Democrats?"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "RQ": [
+      {
+        "RQ1": "How do autonomous driving assistance features affect cooperative turning behavior and crash outcomes in dyadic driving tasks?",
+        "RQ2": "Does in-vehicle messaging change reciprocity and unilateral-vs-bilateral turning dynamics?",
+        "RQ3": "How do driving behaviors and automation features relate to satisfaction with counterpart interaction?"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "RQ": [
+      {
+        "RQ1": "How did exposure to 2020 Black Lives Matter protests affect prejudice-related attitudes and behaviors?",
+        "RQ2": "Do protest effects differ by political ideology and baseline partisanship?",
+        "RQ3": "Are protest effects consistent across survey, CCES, and Project Implicit-based samples?"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "RQ": [
+      {
+        "RQ1": "Can exposure to a high-profile Muslim celebrity reduce anti-Muslim prejudice and hate incidents?",
+        "RQ2": "Do local hate crime trends and anti-Muslim social media attitudes shift after celebrity exposure?",
+        "RQ3": "Are observed effects corroborated in survey experimental evidence on attitudes toward Muslims?"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "RQ": [
+      {
+        "RQ1": "How do bot-presence and decoy landscape structure influence target selection behavior?",
+        "RQ2": "Does bot similarity (most/least/random) interact with landscape design in shaping choices?",
+        "RQ3": "How does solo versus no-bot context affect semantic alignment in participant responses?"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "RQ": [
+      {
+        "RQ1": "How do state-level protective behaviors co-vary with COVID-19 disease severity and mortality over time?",
+        "RQ2": "Do behavior-mortality relationships vary by lag structure and across U.S. states?",
+        "RQ3": "Are trend slopes in protective behaviors different across political-state groupings including swing states?",
+        "RQ4": "How robust are behavior-disease relationships to alternative aggregation and sensitivity checks?",
+        "RQ5": "Can state-level behavioral dynamics help explain heterogeneous pandemic outcomes?"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "RQ": [
+      {
+        "RQ1": "Are people more likely to share moral-emotional political messages than neutral political messages?",
+        "RQ2": "How do partisan identity strength and party affiliation moderate moral-emotional message sharing?",
+        "RQ3": "Do threat and affirmation manipulations alter partisan selective sharing patterns?"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "RQ": [
+      {
+        "RQ1": "Does exposure to verbal sexism affect facial emotional synchrony in dyadic interactions?",
+        "RQ2": "Which emotion channels show stronger lag-averaged cross-correlation across task stages?",
+        "RQ3": "Does sexism moderate the synchrony-performance relationship in team tasks?"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "RQ": [
+      {
+        "RQ1": "What are global and cross-country levels of trust in scientists?",
+        "RQ2": "Do trust-in-science and related constructs show reliable and invariant measurement across countries?",
+        "RQ3": "How are trust-in-science attitudes associated with populist and dominance-oriented dispositions?",
+        "RQ4": "How do demographic and ideological factors relate to trust in scientists in multilevel settings?"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "RQ": [
+      {
+        "RQ1": "Do social preferences cluster within school classes and friendship cliques beyond permutation-based null expectations?",
+        "RQ2": "How does relationship strength in social networks map onto dyadic similarity in social preferences?",
+        "RQ3": "Do stable cooperative/defective dispositions predict friendship strengthening through partner-choice dynamics?"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "RQ": [
+      {
+        "RQ1": "How does a campaign intervention change self-reported stress over time?",
+        "RQ2": "Do campaign effects on stress differ between LGBT and non-LGBT participants?",
+        "RQ3": "How does the campaign affect biological stress markers such as cortisol change?",
+        "RQ4": "Does negative campaign exposure interact with LGBT identity in predicting stress outcomes?"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "RQ": [
+      {
+        "RQ1": "How do familiarity and warmth/value judgments shape emergent trait inferences?",
+        "RQ2": "Do effects replicate consistently across pretests and multiple studies?",
+        "RQ3": "How does target novelty alter estimated emergent trait means and interactions?"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "RQ": [
+      {
+        "RQ1": "What is the prevalence of food insecurity in the analytic student sample?",
+        "RQ2": "What is the causal effect of in-person summer bridge attendance on academic outcomes?",
+        "RQ3": "Do outcome distributions differ between summer and school-year performance?"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "RQ": [
+      {
+        "RQ1": "What is the final participant sample after applying dropout criteria?",
+        "RQ2": "How does a reappraisal manipulation affect negative emotional responses?",
+        "RQ3": "Are all analysis steps for the reported final sample reproducibly documented in code?"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "RQ": [
+      {
+        "RQ1": "How strongly do prediction errors drive rational belief updating?",
+        "RQ2": "Does participant ideology moderate prediction-error-based belief updating?",
+        "RQ3": "Do mixed-effects models replicate interaction effects between ideology and prediction error?"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "RQ": [
+      {
+        "RQ1": "How do affective prediction errors influence policy choices across experiments?",
+        "RQ2": "Is outgroup identification associated with key experimental outcomes?",
+        "RQ3": "Are changes in chosen stealing amounts linked to prior affective prediction errors?"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "RQ": [
+      {
+        "RQ1": "How many non-attrited users are retained in the main analysis sample?",
+        "RQ2": "What is the effect of empathy-based counterspeech on xenophobic tweet volume?"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "RQ": [
+      {
+        "RQ1": "How do moral and emotional words predict hate-speech responses on social media?",
+        "RQ2": "Do effects differ across politicians, newspeople, and activists?",
+        "RQ3": "Is moral-emotional language associated with larger hate-speech effects than purely emotional language?"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "RQ": [
+      {
+        "RQ1": "How many users joined experimental discussion subreddits?",
+        "RQ2": "Which baseline traits predict crossing the participation threshold?",
+        "RQ3": "How does perceived discussion toxicity affect lurker-to-participant conversion?",
+        "RQ4": "How unequal is participation in the incentives condition?",
+        "RQ5": "Do moderation or incentives interventions change participation intensity?",
+        "RQ6": "How do interventions affect the distribution of engagement over time?",
+        "RQ7": "How do participation and toxicity outcomes differ across treatment conditions?"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "RQ": [
+      {
+        "RQ1": "Do Democrats and Republicans differ in support for removing headlines depending on partisan alignment?",
+        "RQ2": "Are misaligned false headlines more likely to be judged for removal and harm than aligned headlines?",
+        "RQ3": "Do partisans differ in perceiving headline removal as censorship, especially for inaccurate content?"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "RQ": [
+      {
+        "RQ1": "How does reducing versus increasing political content exposure affect affective polarization?",
+        "RQ2": "Do social media feed interventions change emotional and political attitude outcomes?",
+        "RQ3": "Are treatment effects robust in weighted population-average analyses?"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "RQ": [
+      {
+        "RQ1": "Do prebunking and credible-source corrections reduce beliefs in election fraud in U.S. samples?",
+        "RQ2": "Do these interventions similarly affect election-fraud beliefs in Brazil across election horizons?"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "RQ": [
+      {
+        "RQ1": "How large are average effects of political advertising on favorability and vote choice?",
+        "RQ2": "How much do ad effects vary across experiments beyond sampling variability?",
+        "RQ3": "Which ad and context characteristics explain heterogeneity in effects over time?"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "RQ": [
+      {
+        "RQ1": "Does a listening-plus-persuasion conversation increase pro-immigrant policy attitudes versus placebo?",
+        "RQ2": "How does listening-plus-persuasion compare with persuasion-only conversations?",
+        "RQ3": "Are any prejudice effects durable at follow-up?"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "RQ": [
+      {
+        "RQ1": "How does information-sharing structure affect cooperation in repeated public-goods games?",
+        "RQ2": "Do network density and evaluative content change contribution dynamics across rounds?"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "RQ": [
+      {
+        "RQ1": "How does partisan elite rhetoric about COVID-19 models influence public support for relying on models?",
+        "RQ2": "Do bipartisan versus single-party endorsements or criticisms produce asymmetric effects?",
+        "RQ3": "Are effects heterogeneous by respondents' partisan identity?"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "RQ": [
+      {
+        "RQ1": "What is the polarity distribution of citations in the WOS literature about mask science?",
+        "RQ2": "What is the structure of positive versus negative citation links in the Twitter information network?",
+        "RQ3": "Do anti-mask sources exhibit higher negative citation rates than the overall network?"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "RQ": [
+      {
+        "RQ1": "How frequently do people in different countries encounter science information across media environments?",
+        "RQ2": "Which country-level indicators predict cross-national differences in science information exposure?"
+      }
+    ]
+  }
+]

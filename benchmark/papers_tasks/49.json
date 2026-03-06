@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all R scripts",
+  "tasks": [
+    "Across all 59 experiments, what is the p-value for the test that the variability in advertising effects on favorability is no greater than what would be expected from sampling variability? Only report the number rounded to three decimal places.",
+    "From Table 1 results (meta-regression), in how many of the four specifications is the slope of advertising effects with respect to the timing of the advertisement negative? Only report the number.",
+    "From Table 1 results (meta-regression), is it true that the slope with respect to the timing of the advertisement is statistically distinct from zero in only two of four specifications?",
+    "From Table 1 results (meta-regression), what is the effect size of the time on Vote Choice in the broad model (column 3)? Report only the number rounded to three decimal places."
+  ]
+}

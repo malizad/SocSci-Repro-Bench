@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all files in the 'code' folder",
+  "tasks": [
+    "Based on replication results of descriptive statistics, what proportion of Democrats say a false headline should be removed? Only report the number rounded to two decimal places.",
+    "From the replication results for all respondents (coefficient_barplot_anysubgroup.png plot), what is the misaligned preference gap for intent to remove headline? Only report the number rounded to two decimal places.",
+    "From the replication results for the inaccurate subset (coefficient_barplot_inaccsubgroup.png plot), what is the ratio of Democrats' to Republicans' probability of intent to remove a misaligned headline? Only report the number rounded to two decimal places.",
+    "From the replication results for the inaccurate subset, is it true that for misaligned headlines, Republicans are half as likely as Democrats to perceive removal as censorship? Report only Yes or No."
+  ]
+}

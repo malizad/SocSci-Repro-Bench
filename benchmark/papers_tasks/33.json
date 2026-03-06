@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Run all R scripts in the 'Analysis Scripts' folder",
+  "tasks": [
+    "What is the total of number experiments in this paper? Only report the number.",
+    "What is the sample size of Study 2? Only report the number.",
+    "From Study 1 results, what is the odds ratio for choosing to share a moral-emotional political message over a neutral political message across all trials (intercept-only model)? Only report the number rounded to two decimal places.",
+    "From Study 2 results, what is the p-value for the interaction between political identity strength and political party on moral-emotional message selection? Only report the number rounded to two decimal places.",
+    "From Study 3 results, what is the intercept odds ratio for choosing a moral-emotional message from the model that includes PID strength, affirmation, threat, and their interactions with PID? Only report the number rounded to two decimal places."
+  ]
+}

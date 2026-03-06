@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run the run.sh file.",
+  "tasks": [
+    "What is the average percentage of reliable sites across Sample 1 and Sample 2 from the total_info plots? Report only the number rounded to one decimal place.",
+    "From total_info_sample_1.pdf plot, what is the y-axis label?",
+    "From the lq_ranks_sample_1.pdf plot, which rank has the highest percentage of unreliable sites? Return only the rank number.",
+    "From the nav_values_NG.tex table, what is the average '% Engagement from Nav.' across both samples? Return only the percentage number (without percentage sign) rounded to two decimal places."
+  ]
+}

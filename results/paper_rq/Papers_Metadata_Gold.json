@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "title": "Measuring Distances in High Dimensional Spaces: Why Average Group Vector Comparisons Exhibit Bias, And What to Do about It",
+    "authors": "Breanna Green, William Hobbs, Sofia Avila, Pedro L. Rodriguez, Arthur Spirling, Brandon M. Stewart",
+    "journal": "Political Analysis",
+    "year": "2025",
+    "month": "1"
+  },
+  {
+    "id": 2,
+    "title": "Scaling up fact-checking using the wisdom of crowds",
+    "authors": "Jennifer Allen, Antonio A. Arechar, Gordon Pennycook, David G. Rand",
+    "journal": "Science Advances",
+    "year": "2021",
+    "month": "9"
+  },
+  {
+    "id": 3,
+    "title": "Quantifying the impact of misinformation and vaccine-skeptical content on Facebook",
+    "authors": "Jennifer Allen, Duncan J. Watts, David G. Rand",
+    "journal": "Science",
+    "year": "2024",
+    "month": "5"
+  },
+  {
+    "id": 4,
+    "title": "Understanding and combatting misinformation across 16 countries on six continents",
+    "authors": "Antonio A. Arechar, Jennifer Allen, Adam J. Berinsky, Rocky Cole, Ziv Epstein, Kiran Garimella, Andrew Gully, Jackson G. Lu, Robert M. Ross, Michael N. Stagnaro, Yunhao Zhang, Gordon Pennycook, David G. Rand",
+    "journal": "Nature Human Behaviour",
+    "year": "2023",
+    "month": "6"
+  },
+  {
+    "id": 5,
+    "title": "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale",
+    "authors": "Lisa P. Argyle, Christopher A. Bail, Ethan C. Busby, Joshua R. Gubler, Thomas Howe, Christopher Rytting, Taylor Sorensen, David Wingate",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2023",
+    "month": "10"
+  },
+  {
+    "id": 6,
+    "title": "Measuring and Explaining Political Sophistication through Textual Complexity",
+    "authors": "Kenneth Benoit, Kevin Munger, Arthur Spirling",
+    "journal": "American Journal of Political Science",
+    "year": "2019",
+    "month": "3"
+  },
+  {
+    "id": 7,
+    "title": "Timing matters when correcting fake news",
+    "authors": "Nadia M. Brashier, Gordon Pennycook, Adam J. Berinsky, David G. Rand",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2021",
+    "month": "1"
+  },
+  {
+    "id": 8,
+    "title": "Labeling social media posts: does showing coders multimodal content produce better human annotation, and a better machine classifier?",
+    "authors": "Haohan Chen, James Bisbee, Joshua A. Tucker, Jonathan Nagler",
+    "journal": "Political Science Research and Methods",
+    "year": "2025",
+    "month": "7"
+  },
+  {
+    "id": 9,
+    "title": "Reducing political polarization in the United States with a mobile chat platform",
+    "authors": "Aidan Combs, Graham Tierney, Brian Guay, Friedolin Merhout, Christopher A. Bail, D. Sunshine Hillygus, Alexander Volfovsky",
+    "journal": "Nature Human Behaviour",
+    "year": "2023",
+    "month": "8"
+  },
+  {
+    "id": 10,
+    "title": "Perceived gender and political persuasion: a social media field experiment during the 2020 US Democratic presidential primary election",
+    "authors": "Aidan Combs, Graham Tierney, Fatima Alqabandi, Devin Cornell, Gabriel Varela, Andrés Castro Araújo, Lisa P. Argyle, Christopher A. Bail, Alexander Volfovsky",
+    "journal": "Scientific Reports",
+    "year": "2023",
+    "month": "8"
+  },
+  {
+    "id": 11,
+    "title": "Fact-checking information from large language models can decrease headline discernment",
+    "authors": "Matthew R. DeVerna, Harry Yaojun Yan, Kai-Cheng Yang, Filippo Menczer",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2024",
+    "month": "12"
+  },
+  {
+    "id": 12,
+    "title": "Partisan disparities in the funding of science in the United States",
+    "authors": "Alexander C. Furnas, Nic Fishman, Leah Rosenstiel, Dashun Wang",
+    "journal": "Science",
+    "year": "2025",
+    "month": "9"
+  },
+  {
+    "id": 13,
+    "title": "Partisan disparities in the use of science in policy",
+    "authors": "Alexander C. Furnas, Timothy M. LaPira, Dashun Wang",
+    "journal": "Science",
+    "year": "2025",
+    "month": "4"
+  },
+  {
+    "id": 14,
+    "title": "Quantifying the use and potential benefits of artificial intelligence in scientific research",
+    "authors": "Jian Gao, Dashun Wang",
+    "journal": "Nature Human Behaviour",
+    "year": "2024",
+    "month": "10"
+  },
+  {
+    "id": 15,
+    "title": "Current engagement with unreliable sites from web search driven by navigational search",
+    "authors": "Kevin T. Greene, Nilima Pisharody, Lucas Augusto Meyer, Mayana Pereira, Rahul Dodhia, Juan Lavista Ferres, Jacob N. Shapiro",
+    "journal": "Science Advances",
+    "year": "2024",
+    "month": "10"
+  },
+  {
+    "id": 16,
+    "title": "Supersharers of fake news on Twitter",
+    "authors": "Sahar Baribi-Bartov, Briony Swire-Thompson, Nir Grinberg",
+    "journal": "Science",
+    "year": "2024",
+    "month": "5"
+  },
+  {
+    "id": 17,
+    "title": "Don't get it or don't spread it: comparing self-interested versus prosocial motivations for COVID-19 prevention behaviors",
+    "authors": "Jillian J. Jordan, Erez Yoeli, David G. Rand",
+    "journal": "Scientific Reports",
+    "year": "2021",
+    "month": "10"
+  },
+  {
+    "id": 18,
+    "title": "Short-term exposure to filter-bubble recommendation systems has limited polarization effects: Naturalistic experiments on YouTube",
+    "authors": "Naijia Liu, Xinlan Emily Hu, Yasemin Savas, Matthew A. Baum, Adam J. Berinsky, Allison J. B. Chaney, Christopher Lucas, Rei Mariman, Justin de Benedictis-Kessner, Andrew M. Guess, Dean Knox, Brandon M. Stewart",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2025",
+    "month": "2"
+  },
+  {
+    "id": 19,
+    "title": "Divergent patterns of engagement with partisan and low-quality news across seven social media platforms",
+    "authors": "Mohsen Mosleh, Jennifer Allen, David G. Rand",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2025",
+    "month": "10"
+  },
+  {
+    "id": 20,
+    "title": "Shared partisanship dramatically increases social tie formation in a Twitter field experiment",
+    "authors": "Mohsen Mosleh, Cameron Martel, Dean Eckles, David G. Rand",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2021",
+    "month": "2"
+  },
+  {
+    "id": 21,
+    "title": "Citizen preferences for online hate speech regulation",
+    "authors": "Simon Munzert, Richard Traunmuller, Pablo Barbera, Andrew Guess, JungHwan Yang",
+    "journal": "PNAS Nexus",
+    "year": "2025",
+    "month": "2"
+  },
+  {
+    "id": 22,
+    "title": "Who's cheating on your survey? A detection approach with digital trace data",
+    "authors": "Simon Munzert, Sebastian Ramirez-Ruiz, Pablo Barbera, Andrew M. Guess, JungHwan Yang",
+    "journal": "Political Science Research and Methods",
+    "year": "2024",
+    "month": "4"
+  },
+  {
+    "id": 23,
+    "title": "Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb",
+    "authors": "Minsu Park, Chao Yu, Michael Macy",
+    "journal": "Science Advances",
+    "year": "2023",
+    "month": "2"
+  },
+  {
+    "id": 24,
+    "title": "Accuracy prompts are a replicable and generalizable approach for reducing the spread of misinformation",
+    "authors": "Gordon Pennycook, David G. Rand",
+    "journal": "Nature Communications",
+    "year": "2022",
+    "month": "4"
+  },
+  {
+    "id": 25,
+    "title": "Fighting misinformation on social media using crowdsourced judgments of news source quality",
+    "authors": "Gordon Pennycook, David G. Rand",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2019",
+    "month": "1"
+  },
+  {
+    "id": 26,
+    "title": "Shifting attention to accuracy can reduce misinformation online",
+    "authors": "Gordon Pennycook, Ziv Epstein, Mohsen Mosleh, Antonio A. Arechar, Dean Eckles, David G. Rand",
+    "journal": "Nature",
+    "year": "2021",
+    "month": "3"
+  },
+  {
+    "id": 27,
+    "title": "Elite party cues increase vaccination intentions among Republicans",
+    "authors": "Sophia L. Pink, James Chu, James N. Druckman, David G. Rand, Robb Willer",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2021",
+    "month": "8"
+  },
+  {
+    "id": 28,
+    "title": "Emergence and collapse of reciprocity in semiautomatic driving coordination experiments with humans and machines",
+    "authors": "Hirokazu Shirado, Gari A. Alabede, Nicholas A. Christakis",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2023",
+    "month": "12"
+  },
+  {
+    "id": 29,
+    "title": "Protest movements involving limited violence can sometimes be effective: Evidence from the 2020 BlackLivesMatter protests",
+    "authors": "Eric Shuman, Saghi Ghassim, Siwar Hasan-Aslih, Eran Halperin",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2022",
+    "month": "3"
+  },
+  {
+    "id": 30,
+    "title": "Can Exposure to Celebrities Reduce Prejudice? The Effect of Mohamed Salah on Islamophobic Behaviors and Attitudes",
+    "authors": "Ala' Alrababa'h, William Marble, Salma Mousa, Alexandra A. Siegel",
+    "journal": "American Political Science Review",
+    "year": "2021",
+    "month": "6"
+  },
+  {
+    "id": 31,
+    "title": "Simple autonomous agents can enhance creative semantic discovery by human groups",
+    "authors": "Aiko Ueshima, Hirofumi Takesue, Kunihiro Kimura, Tatsuya Kameda",
+    "journal": "Nature Communications",
+    "year": "2024",
+    "month": "6"
+  },
+  {
+    "id": 32,
+    "title": "Characterizing Population-level Changes in Human Behavior during the COVID-19 Pandemic in the United States",
+    "authors": "Urmi Parekh, Junming Huang, Brennan Klein, Sagar Kumar, Shengjia Zhang, Benjamin D. Horne, Gourab Ghoshal, Johan Bollen",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2025",
+    "month": "9"
+  },
+  {
+    "id": 33,
+    "title": "Social identity shapes antecedents and functional outcomes of moral emotion expression",
+    "authors": "William J. Brady, Jay J. Van Bavel",
+    "journal": "Journal of Experimental Psychology: General",
+    "year": "2025",
+    "month": "4"
+  },
+  {
+    "id": 34,
+    "title": "Sexism in Teams: Exposure to Sexist Comments Increases Emotional Synchrony but Eliminates Its Benefits",
+    "authors": "Christopher G. Burns, Hila Riemer, Lu Liu, Arik Cheshin",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2025",
+    "month": "4"
+  },
+  {
+    "id": 35,
+    "title": "Trust in scientists and their role in society across 68 countries",
+    "authors": "Viktoria Cologna, Niels G. Mede, Livio Berger, Sarahanne M. Field, Ala M. Hamed, Arko Olesk, Michael Pareschi, Basil Schmid, Niels Mede, Mike S. Schäfer",
+    "journal": "Nature Human Behaviour",
+    "year": "2025",
+    "month": "1"
+  },
+  {
+    "id": 36,
+    "title": "Human social preferences cluster and spread in the field",
+    "authors": "Alexander Ehlert, Robert Böhm, Özgür Gürerk, Hannes Rusch",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2020",
+    "month": "9"
+  },
+  {
+    "id": 37,
+    "title": "The Impact of Marriage Equality Campaigns on Stress: Did a Swiss Public Vote Get Under the Skin?",
+    "authors": "Léïla Eisner, Tabea Hässler, Sabine Oreiller, Emilie Mainaud, Élodie Lopes, Davide Morselli",
+    "journal": "Social Psychological and Personality Science",
+    "year": "2024",
+    "month": "7"
+  },
+  {
+    "id": 38,
+    "title": "Valence Biases and Emergence in the Stereotype Content of Intersecting Social Categories",
+    "authors": "Susan T. Fiske, Federica Pasin, Carina Moreira Farias, Theresa Gasser",
+    "journal": "Social Cognition",
+    "year": "2023",
+    "month": "4"
+  },
+  {
+    "id": 39,
+    "title": "A Summer Bridge Program for First-Generation Low-Income Students Stretches Academic Ambitions With Lasting Effects on GPA",
+    "authors": "Hazel Rose Markus, MarYam G. Hamedani, Alyssa S. Fu, Sarah S. M. Townsend, Dorainne J. Green, Daron S. Williams, Robert S. Montoya, Mesmin Destin, Nicole M. Stephens, Thomas S. Dee, Ned Johnson",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2024",
+    "month": "12"
+  },
+  {
+    "id": 40,
+    "title": "Emotion regulation contagion drives reduction in negative intergroup emotions",
+    "authors": "Omer Pinus, Yajun Cao1, Eran Halperin, Alin Coman, James J. Gross, Amit Goldenberg",
+    "journal": "Nature Communications",
+    "year": "2025",
+    "month": "2"
+  },
+  {
+    "id": 41,
+    "title": "The Effect of Prediction Error on Belief Update Across the Political Spectrum",
+    "authors": "Madalina Vlasceanu, Michael J. Morais, Alin Coman",
+    "journal": "Psychological Science",
+    "year": "2021",
+    "month": "6"
+  },
+  {
+    "id": 42,
+    "title": "Affective Prediction Errors in Persistence and Escalation of Aggression",
+    "authors": "Marius C. Vollberg, Mina Cikara",
+    "journal": "Journal of Experimental Psychology: General",
+    "year": "2024",
+    "month": "5"
+  },
+  {
+    "id": 43,
+    "title": "Empathy-Based Counterspeech Can Reduce Racist Hate Speech in a Social Media Field Experiment",
+    "authors": "Dominik Hangartner, Gloria Gennaro, Sary Alasiri, Nicholas Bahrich, Alexandra Bornhoft, Joseph Bouber, Buket Buse Demirci, Lainey Doenber, Renee Dyber, Sakina Hansen, Marlene Hessberger, Samuel Höhne, Aya Kachi, Amalia Kämpfer, Nils Krumm, Blazenka Kucera, Julia Linek, Leila Mack, Madeline Mahler, Dilan Marc, Ahmet Mehmedovic, Céline Odermatt, Moritz Pail, Franziska Perle, Mara Petermichl, Daria Petrovic, Amira Preininger, Anna Rau, Mirjam Rauscher, Lea Reker, Mia Ristic, Sarah Schnyder, Selina Schröter, Dylan Scott, Yeliz Seren, Franziska Spielberger, Peter Swillus, Victoria da Torre, Anouk Tso, Yana Volkova, Yiran Wang, Hannah Widmaier, Jenny-Marie Winkler, Salome Wolf, Yin Yao",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2021",
+    "month": "12"
+  },
+  {
+    "id": 44,
+    "title": "Moral Universalism and the Structure of Ideology",
+    "authors": "Kirill Solovev, Nicolas Pröllochs",
+    "journal": "PNAS Nexus",
+    "year": "2023",
+    "month": "1"
+  },
+  {
+    "id": 45,
+    "title": "Disentangling participation in online political discussions with a collective field experiment",
+    "authors": "Andrew Oswald, Carl Sherwood, Jon Woon",
+    "journal": "Science Advances",
+    "year": "2025",
+    "month": "12"
+  },
+  {
+    "id": 46,
+    "title": "Partisan conflict over content moderation is more than disagreement about facts",
+    "authors": "Ruth E. Appel, Jennifer Pan, Margaret E. Roberts",
+    "journal": "Science Advances",
+    "year": "2023",
+    "month": "11"
+  },
+  {
+    "id": 47,
+    "title": "Reranking partisan animosity in algorithmic social media feeds alters affective polarization",
+    "authors": "Tiziano Piccardi, Martin Saveski, Chenyan Jia, Jeffrey Hancock, Jeanne L. Tsai, Michael S. Bernstein",
+    "journal": "Science",
+    "year": "2025",
+    "month": "11"
+  },
+  {
+    "id": 48,
+    "title": "Prebunking and credible source corrections increase election credibility: Evidence from the US and Brazil",
+    "authors": "John M. Carey, Brian Fogarty, Marília Gehrke, Brendan Nyhan, Jason Reifler",
+    "journal": "Science Advances",
+    "year": "2025",
+    "month": "8"
+  },
+  {
+    "id": 49,
+    "title": "The small effects of political advertising are small regardless of context, message, sender, or receiver: Evidence from 59 real-time randomized experiments",
+    "authors": "Alexander Coppock, Seth J. Hill, Lynn Vavreck",
+    "journal": "Science Advances",
+    "year": "2020",
+    "month": "9"
+  },
+  {
+    "id": 50,
+    "title": "Listen for a change? A longitudinal field experiment on listening's potential to enhance persuasion",
+    "authors": "Erik Santoro, David E. Broockman, Joshua L. Kalla, Roni Porat",
+    "journal": "Proceedings of the National Academy of Sciences",
+    "year": "2025",
+    "month": "2"
+  },
+  {
+    "id": 51,
+    "title": "Information-sharing and cooperation in networked collective action groups",
+    "authors": "Ashley Harrell, Tom Wolff",
+    "journal": "PNAS Nexus",
+    "year": "2023",
+    "month": "12"
+  },
+  {
+    "id": 52,
+    "title": "Model uncertainty, political contestation, and public trust in science: Evidence from the COVID-19 pandemic",
+    "authors": "S. E. Kreps, D. L. Kriner",
+    "journal": "Science Advances",
+    "year": "2020",
+    "month": "9"
+  },
+  {
+    "id": 53,
+    "title": "Selective and deceptive citation in the construction of dueling consensuses",
+    "authors": "Andrew Beers, Sarah Nguyễn, Kate Starbird, Jevin D. West, Emma S. Spiro",
+    "journal": "Science Advances",
+    "year": "2023",
+    "month": "9"
+  },
+  {
+    "id": 54,
+    "title": "Public Communication about Science in 68 Countries: Global Evidence on How People Encounter and Engage with Information about Science",
+    "authors": "Niels G. Mede, Viktoria Cologna, Sebastian Berger, John C. Besley, Cameron Brick, Marina Joubert, Edward W. Maibach, Sabina Mihelj, Naomi Oreskes, Mike S. Schäfer, Sander van der Linden",
+    "journal": "Science Communication",
+    "year": "2025",
+    "month": "10"
+  }
+]

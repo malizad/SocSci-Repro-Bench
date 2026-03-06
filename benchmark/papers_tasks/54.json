@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all R scripts in the 01_code folder",
+  "tasks": [
+    "From the replication results in ggdumbbell_SCIXPO.pdf plot, what is the weighted M for exposure to science information on social media platforms (Facebook, YouTube, TikTok, Instagram) across the 68-country sample? Report only the number rounded to two decimal places.",
+    "From replication results in Table_BayesReg_SCIXPO.html table, what is the Bayesian regression coefficient (b) for GDP per capita predicting exposure to science information on social media? Report only the number rounded to two decimal places.",
+    "From replication results in Table_BayesReg_SCIXPO.html table, what is the median partial eta-squared for GDP per capita predicting exposure to science information in the news?? Report only the number rounded to two decimal places."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all R scripts in the Code folder.",
+  "tasks": [
+    "From the Fig1B.pdf plot results, what is the y-axis label?",
+    "From the fixed-effects logistic regression results in TableS9, what is the odds ratio for Democrat vs. Republican committee control on science citation? Report only the number rounded to three decimal places.",
+    "From the permutation null model results in Fig2A (Congress), what is the expected bipartisan share of all papers with policy citations? Report as a proportion and only the number rounded to three decimal places."
+  ]
+}

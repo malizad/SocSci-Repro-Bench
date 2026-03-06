@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Run all python files in the figs_main folder",
+  "tasks": [
+    "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with White hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.",
+    "From the Figure 1 permutation test, by how many percentage points are White guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to three decimal places.",
+    "From the Figure 1 permutation test, by how many percentage points are Black guests more likely to book with Black hosts compared to what would be expected by chance? Report only the number rounding to two decimal places.",
+    "Based on all results, is the impact of same-race endorsements smaller than the impact of same-race host? Answer only Yes or No.",
+    "From the Figure 2a permutation test, by how many percentage points are Asian guests more likely to book with racially ambiguous hosts when all 5 front-page reviews are from same-race guests, compared to what would be expected by chance? Report only the number rounding to two decimal places."
+  ]
+}

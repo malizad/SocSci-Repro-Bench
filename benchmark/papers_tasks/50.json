@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all R scripts in the 'code' folder",
+  "tasks": [
+    "From Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.",
+    "From Table 2 results, what is the estimated effect of the Persuasive Appeal Only condition relative to placebo on policy attitudes toward undocumented immigrants at T1 (immediately post-conversation)? Report only the number rounded to two decimal places.",
+    "From Figure 1 and Table 2 results, what is the estimated effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on policy attitudes immediately post-conversation? Report only the number rounded to three decimal places.",
+    "Is the effect of the Listening + Persuasion condition relative to the Persuasive Appeal Only condition on prejudice toward undocumented immigrants statistically significant at p < 0.05 at the 5-week follow-up? Report only Yes or No."
+  ]
+}

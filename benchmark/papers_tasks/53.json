@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all python scripts",
+  "tasks": [
+    "From the replication results, what is the sample size of the papers in the web of science study? Report only the number.",
+    "From the replication results, what percentage of WOS citations were coded as critical/negative? Report only the number rounded to one decimal place.",
+    "From the replication results, what is the overall negative citation ratio in the Twitter network? Report only the number rounded to two decimal places.",
+    "From replication results, what is the negative citation ratio for anti-mask websites in the Twitter network? Report only the number rounded to the nearest integer number."
+  ]
+}

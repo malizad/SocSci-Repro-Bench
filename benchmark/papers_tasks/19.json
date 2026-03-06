@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Read and Run the Analysis.Rmd file",
+  "tasks": [
+    "From the correlation test between average news quality and average political lean across the seven platforms fig1a.png results, report the P-value, truncated to 3 decimal places. Report only the number",
+    "From the top domains table results, what is the news quality score of breitbart.com?",
+    "Based on the forest plot results of engagement and political lean in fig2a.png, what is the point estimate for Gab after controlling for news quality? Report only the number rounding to three decimal places.",
+    "Based on overall results, is it true that there is no significant overall relationship between political lean and engagement? Report only Yes or No.",
+    "Based on the meta-analysis of engagement and political lean, what is the p-value of the overall effect after controlling for news quality? Report only the number rounding to three decimal places."
+  ]
+}

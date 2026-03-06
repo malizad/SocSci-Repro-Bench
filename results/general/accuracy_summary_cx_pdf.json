@@ -1,0 +1,32 @@
+{
+  "r1": {
+    "task_accuracy_percent": 84.1,
+    "task_incorrect_percent": 5.9,
+    "task_nodata_accuracy_percent": 80,
+    "task_nodata_incorrect_percent": 20,
+    "paper_accuracy_percent": 61.7,
+    "paper_incorrect_percent": 20.4,
+    "task_fail_percent": 0.0,
+    "paper_fail_percent": 0.0
+  },
+  "r2": {
+    "task_accuracy_percent": 82.8,
+    "task_incorrect_percent": 5.9,
+    "task_nodata_accuracy_percent": 80,
+    "task_nodata_incorrect_percent": 20,
+    "paper_accuracy_percent": 60.4,
+    "paper_incorrect_percent": 20.4,
+    "task_fail_percent": 0.0,
+    "paper_fail_percent": 0.0
+  },
+  "r3": {
+    "task_accuracy_percent": 83.3,
+    "task_incorrect_percent": 5.9,
+    "task_nodata_accuracy_percent": 80,
+    "task_nodata_incorrect_percent": 20,
+    "paper_accuracy_percent": 60.4,
+    "paper_incorrect_percent": 20.4,
+    "task_fail_percent": 0.0,
+    "paper_fail_percent": 0.0
+  }
+}

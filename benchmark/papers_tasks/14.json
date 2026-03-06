@@ -1,0 +1,12 @@
+{
+  "task_prompt": "Run the Main_Figures.ipynb file",
+  "tasks": [
+    "From Fig1E.pdf plot results, what is the mean value of the AI-to-non-AI citation hit rate ratio across all 19 disciplines? Report only the number rounded to two decimal places.",
+    "From the Fig1F.pdf plot results, what is the mean value of received citations for AI-to-non-AI papers across all 19 disciplines? Report only the number rounded to two decimal places.",
+    "From Fig2E.pdf plot results, what is the Pearson correlation coefficient between x-axis and y-axis? Report only the number rounded to three decimal places.",
+    "From Fig3AB.pdf plot results, what is the p-value of the Pearson correlation between direct AI use and AI education level, excluding the top three computational disciplines? Report only the number rounded to three decimal places.",
+    "From Fig3F.pdf plot results, what is the OLS slope of the engineering collaboration share trend from 1990 to 2019? Report only the number rounded to four decimal places.",
+    "From Fig4AC.pdf plot results, what is the lower bound of the 95% CI for the Pearson r between share of female scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places.",
+    "From Fig4EG.pdf plot results, what is the upper bound of the 95% CI for the Pearson r between share of URM scientists and direct AI use (log) across disciplines? Report only the number rounded to three decimal places."
+  ]
+}

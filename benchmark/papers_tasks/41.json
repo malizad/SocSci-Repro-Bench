@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all ipython files",
+  "tasks": [
+    "Based on replication materials, what is the sample size of Study 1 (the main study). Only report the number.",
+    "From the replication results of Figure 1, what is the unstandardized regression coefficient for prediction-error size predicting rational belief update in the OLS regression? Report only the number rounded to two decimal places.",
+    "From the replication results of Figure 1, what is the mean rational belief update for items in the large-prediction-error bin? Report only the number rounded to two decimal places.",
+    "From the replication results of the linear mixed-effects model predicting rational belief update from prediction error, participant ideology, and their interaction (controlling for prior belief interval) in Study 2, what is the unstandardized regression coefficient for the interaction between prediction error and participant ideology? Report only the number rounded to two decimal places."
+  ]
+}

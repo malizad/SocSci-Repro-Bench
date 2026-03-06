@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run '1. Cross correlation analysis.R', then run '2. Summary of ccf analyses.R' files",
+  "tasks": [
+    "Based on results from the effect of Sexism on Emotional Synchrony, what is the mean difference between facial expressive synchrony in the sexism condition than in the control condition? If it cannot be computed due to lack of data, only report 'No Data'.",
+    "What is the mean lag-averaged cross-correlation coefficient for Joy across all dyads and experimental stages? Only report the number rounded to three decimal places. If it cannot be computed due to lack of data, only report 'No Data'.",
+    "Based on results for the analysis of the effect of sexism on the relationship between emotional synchrony and team performance, what is the mean difference between those who exposed to verbal sexism and those in the control condition. Only report the absolute difference rounded to two decimal places. If it cannot be computed due to lack of data, say 'No Data'."
+  ]
+}

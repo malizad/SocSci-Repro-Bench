@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all Rmd files in the Analysis folder",
+  "tasks": [
+    "From replication results, what is the total number of participants in all studies? Report only the number.",
+    "From Experiment 1 results, what is the mean outgroup identification? Report only the number rounded to one decimal place.",
+    "From Experiment 1 results,, what is the p-value for the effect of policy choice (steal vs. earn) on affective prediction errors? Report only the number rounded to three decimal places.",
+    "From experiment 3 results, is it true that increases in the chosen amount within stealing from t -1 to t is not significantly associated with affective PEs at t -1 (P<0.001)? Report only Yes or No"
+  ]
+}

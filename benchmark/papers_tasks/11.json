@@ -1,0 +1,11 @@
+{
+  "task_prompt": "Run run_pipeline.sh. If RStudio was required, use R instead. Convert the results to HTML wherever required.",
+  "tasks": [
+    "From the main_effects.pdf plot results, is it true that neither the Forced nor the Optional LLM fact-check condition produced a statistically significant change in discernment relative to Control, in both the Belief and Share groups? Report only Yes or No.",
+    "From the main_effects.pdf plot results, what is the difference in overall mean sharing rate between the Forced and Control conditions in the Share group? Report only the number rounded to three decimal places.",
+    "From the five_way.pdf plot results, is it true that LLM fact-checks decreased belief in true headlines that ChatGPT incorrectly judged as false, in the Forced condition relative to Control? Report only Yes or No.",
+    "From the five_way.pdf plot results, what is the absolute difference in mean sharing rate between the Forced and Control conditions for false headlines where ChatGPT expressed uncertainty? Report only the number rounded to three decimal places.",
+    "From the opt-in_vs_opt-out_by_annotation.pdf plot results, what is the percentage point difference in mean endorsement rate of false headlines that ChatGPT judged as false, between opt-in and opt-out participants in the Belief group? Report only the number rounded to two decimal places.",
+    "From the opt-in_vs_opt-out_by_annotation.pdf plot results, was the difference in endorsement rate of true headlines that ChatGPT judged as unsure, between opt-in and opt-out participants in the Belief group, statistically significant after Bonferroni correction? Report only Yes or No."
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "task_prompt": "Run all ipython and R scripts in the code folder",
+  "tasks": [
+    "According to results from the temporal relationships between state-level behavior and national-level mortality (Table 1), which US state has the highest Correlation with Mortality at Lag 1?",
+    "From Table 2 results, what is the Avg. slope of risk-averting behaviors in swing states? Report only the number rounded to three decimal places."
+  ]
+}

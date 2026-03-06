@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run CreateDataForPlots.R to generate intermediate data, then Run Python OptimalCutoffs notebook, then Run RMarkdown files to generate final plots.",
+  "tasks": [
+    "From the turk_auc_source.png plot, report the y-axis label",
+    "From the comp_groups_points_corr.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the least mean correlation. Ignore the confidence interval",
+    "From the comp_groups_points_auc.png plot, report the crowd (Democrats only, High CRT, Low CRT, etc.) with the highest mean AUC. Ignore the confidence interval"
+  ]
+}

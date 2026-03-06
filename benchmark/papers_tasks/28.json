@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all R scripts in the 'code' folder",
+  "tasks": [
+    "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the effect of auto-braking assistance on unilateral turns relative to bilateral turns for the control group? Report only the number rounded to three decimal places.",
+    "From the replicated penalized multinomial logistic regression with 4 outcome categories (Figure 2), what is the p-value for the main effect of messaging on unilateral turns relative to bilateral turns? Report only the number rounded to four decimal places.",
+    "From the replicated OLS regression predicting satisfaction with the counterpart (Figure 5), what is the p-value for the effect of the number of times the counterpart went straight? Report only the number rounded to three decimal places."
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all Rmd files",
+  "tasks": [
+    "What is the combined total sample size across the two pretests and three main studies?",
+    "In Study 1, what is the exact p-value for the Warmth relative value × Familiarity interaction? Report only the number rounded to three decimal places.",
+    "In Study 2, what is the unstandardized coefficient (b) for the extremity predictor in the differential similarity model using general valence? Report only the number rounded to two decimal places.",
+    "In Study 3, what are the model-estimated means of emergent traits for Novel vs. Not Novel familiarity groups? Report only the number rounded to one decimal places."
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "task_prompt": "Read the README.md file and run the code files mentioned there",
+  "tasks": [
+    "How many participants are in the final sample? Report NA if you cannot get the results for data restriction.",
+    "In Study 2B, what is the simple slope coefficient for the effect of nonviolent protests (vs. no protests) on prejudice among conservatives? Report NA if you cannot get the results for data restriction."
+  ]
+}

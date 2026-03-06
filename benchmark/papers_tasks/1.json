@@ -1,0 +1,7 @@
+{
+  "task_prompt": "Run main_run_scripts.R",
+  "tasks": [
+    "From the fig_1_bottom_embedding_regression_estimates_constant_ratios_r_and_r.pdf plot, report the y-axis label.",
+    "From the fig_3_embedding_regression_tweets_containing_people.pdf plot, report only the 'N Users' with the largest gap between 'Corrected' and 'Uncorrected'. Report only the number."
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all R files in the code folder",
+  "tasks": [
+    "Based on replication results, how many non-attrited users are in the main analysis sample? Only report the number.",
+    "What is the effect size of empathy-based counterspeech on the volume of xenophobic tweets? Only report the number in SD units rounded to two decimal places.",
+    "What is the p-value for the effect of empathy-based counterspeech on the propensity to delete the original xenophobic tweet? Only report the number rounded to three decimal places."
+  ]
+}

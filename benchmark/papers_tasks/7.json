@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Translate the Code for Analyses.do file into R and run it",
+  "tasks": [
+    "From the descriptive statistics, what is the relative reduction in misclassification for the After condition compared to Control? Report only the number (not a percentage) rounded to three decimal places.",
+    "From the regression tables, what is the effect of the Before correction timing condition on belief in false headlines (both studies combined)? Report only the number rounded to three decimal places.",
+    "From the regression tables, what is the effect of the During correction timing condition on discernment (the differential accuracy for true vs. false headlines) one week later? Only report the number rounded to three decimal places.",
+    "Based on the regression results, which correction timing condition produced the largest improvement in discernment?"
+  ]
+}

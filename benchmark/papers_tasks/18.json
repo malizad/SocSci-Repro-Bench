@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Read the run file and run scripts accordingly. Do NOT run supplemental analyses.",
+  "tasks": [
+    "Based on coefplot_third1_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.",
+    "Based on coefplot_third1_basecontrol_3studies.pdf results, what is the point estimate for the effect of recommendation algorithm among liberal ideologues on Perceived Intelligence in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.",
+    "Based on coefplot_third3_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among conservative ideologues on the Policy Index outcome in the Minimum Wage (YouGOV) study? Report only the number rounding to three decimal places.",
+    "Based on coefplot_third2_pro_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned liberal seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places.",
+    "Based on coefplot_third2_anti_basecontrol_3studies_toptwo.pdf results, what is the point estimate for the effect of recommendation algorithm among moderates assigned conservative seed video on the Policy Index outcome in the Gun Control (MTurk) study? Report only the number rounding to three decimal places."
+  ]
+}

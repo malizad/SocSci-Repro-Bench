@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run all R scripts files. Skip any computationally expensive simulations (e.g., powerSim, bootstrapping).",
+  "tasks": [
+    "From Study 1 results (Model 1 - Figure 1a), what is the effect of round in the phase on contributions to the public good? Only report the number rounded to two decimal places.",
+    "From Study 1 results (Model 2), what is the standard error for the effect of information-sharing on t2 contributions after controlling for group cooperation at t1? Only report the number rounded to two decimal places.",
+    "From Study 2 results (Model 1 - Figure 3b), what is the coefficient for full information networks compared to sparse networks without information-sharing? Only report the number rounded to two decimal places.",
+    "From Study 2 results (Model 1), is it true that the difference between information-sharing with evaluative content and the full information phase is significant at p < 0.05? Report only Yes or No"
+  ]
+}

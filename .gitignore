@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Large files
+*.zip
+*.tar.gz
+
+# Prompts (private)
+*.rtf

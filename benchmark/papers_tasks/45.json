@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Only run scripts to replicate RQ1, and RQ2 (i.e. Run 01-sample-descriptives.Rmd, 02-RQ1-participation.Rmd, and 03-RQ2-experiment.Rmd). Do not run the Part Two section scripts.",
+  "tasks": [
+    "Based on replication results, how many participants joined the experimental subreddits?",
+    "In the zero-hurdle component of the participation model (Figure 2A), were gender, age, and education significant predictors of overcoming the participation threshold at p < 0.05 level? Report only Yes or No",
+    "From Figure 2 results, what is the coefficient for perceived discussion toxicity in the zero-hurdle component predicting whether lurkers become active participants? Report only the number rounded to three decimal places.",
+    "From Figure 3 results (RQ2: experimental treatment effects), what is the Gini coefficient of participation inequality in the incentives condition? Report only the number rounded to three decimal places."
+  ]
+}

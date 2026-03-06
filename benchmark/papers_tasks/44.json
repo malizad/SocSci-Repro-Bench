@@ -1,0 +1,11 @@
+{
+  "task_prompt": "From the 'R Scripts' folder, run Main.Rmd. Do NOT run the Supplements.Rmd file",
+  "tasks": [
+    "Based on the replication results, what is the total sample size of the twitter dataset (Politicians+Newspeople+Activists)? Report only the number.",
+    "From Figure2_coefficient_plot.pdf plot results, what is the coefficient of moral words on hate speech for the politicians dataset? Only report the number rounded to three decimal places.",
+    "From Figure2_coefficient_plot.pdf plot results, what is the odds ratio of moral-emotional words on hate speech for the activists dataset? Only report the number rounded to three decimal places.",
+    "From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians significant at the p < 0.01 level? Report only Yes or No.",
+    "From replication results, is the effect of purely emotional words on the likelihood of receiving hate for politicians substantially smaller than moral words? Report only Yes or No.",
+    "From replication results, how many times larger is the coefficient of moral words compared to emotional words for politicians? Report only the ratio rounded to the nearest integer number."
+  ]
+}

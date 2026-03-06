@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all R scripts",
+  "tasks": [
+    "From the analytic sample, what percentage of students reported food insecurity? Reply with only the numeric value rounded to one decimal place, nothing else.",
+    "Based on the results, what is the percentage increase in total units taken (including summer bridge) caused by attendance at the in-person version of the SB Program, relative to the control group baseline? Reply with only the numeric value rounded to the nearest integer, nothing else.",
+    "Based on the replication results, does a Kolmogorov-Smirnov test show that the distribution of summer grades differs significantly from school year grades at P < 0.001? Reply with only Yes or No."
+  ]
+}

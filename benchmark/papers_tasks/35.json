@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run all R scripts in the 01_code folder",
+  "tasks": [
+    "What is the weighted grand mean of trust in scientists across all countries? Report only the number rounded to two decimal places. If the data or code is not provided, only report 'No data or code'.",
+    "How many countries have trust in scientists below 3? Report only the number. If the data or code is not provided, only report 'No data or code'.",
+    "From the blockwise multilevel regression of trust in scientists on demographic, ideological, and attitudinal predictors with random intercepts by country, report the standardized estimate. Report only the number rounded to three decimal places. If the data or code is not provided, only report 'No data or code'."
+  ]
+}

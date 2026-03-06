@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run Analysis_pubs.R",
+  "tasks": [
+    "From Model 1 (Binary partisanship) results, what is the point estimate of shared partisanship on follow-back? Give only the number rounded to three decimal places.",
+    "From Model 1 results in Fig2.pdf, what is the p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places.",
+    "From Model 1 results in Fig2.pdf, what is the FIR p-value for the interaction between shared partisanship and bot strength? Give only the number rounded to three decimal places."
+  ]
+}

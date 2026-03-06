@@ -1,0 +1,9 @@
+{
+  "task_prompt": "Run run_analysis_generate_figs.sh",
+  "tasks": [
+    "From the figure1.pdf plot, report the y-axis label. If it was not reproducible due to lack of data, only report 'No Data'.",
+    "From the figure2.pdf plot, report the estimated 'Total Views' of 'Sent, but Not Rated' news. If it was not reproducible due to lack of data, report only 'No Data'.",
+    "From the figure2.pdf plot, report the news category with the least estimated 'Total Views'. Ignore the confidence interval. If it was not reproducible due to lack of data, report only 'No Data'.",
+    "From Study 1, report the main effect (ATE) of exposure to misinformation on vaccination intentions (Vaccination Index). Report only the number rounded to two decimal places. If it was not reproducible due to lack of data, only report 'No Data'."
+  ]
+}

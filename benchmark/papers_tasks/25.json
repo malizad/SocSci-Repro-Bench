@@ -1,0 +1,10 @@
+{
+  "task_prompt": "Convert Study 1.do and Study 2.do files to Python or R (your choice) and run them",
+  "tasks": [
+    "Based on results from Study 1, what is the coefficient on the Republican dummy in the main regression of trust on party × source type? Report only the number rounding to three decimal places.",
+    "Based on results from Study 1, how much less do Republicans trust mainstream news compared to Democrats? Report only the number rounding to three decimal places.",
+    "Based on results from Study 1, how much lower do Democrats rate fake news sources compared to mainstream news? Report only the number rounding to two decimal places.",
+    "Across the 60 sources in study 2, what is the correlations between the average trust ratings of fact-checkers and laypeople Democrats? Report only the number rounding to two decimal places.",
+    "In Study 1, what is the standardized beta coefficient for CRT predicting media discernment (Table S7, Model 1)? Report to two decimal places."
+  ]
+}

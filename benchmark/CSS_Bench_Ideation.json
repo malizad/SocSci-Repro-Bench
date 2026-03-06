@@ -1,0 +1,1155 @@
+[
+  {
+    "domain": "Method",
+    "language": "R",
+    "paper_title": "Measuring Distances in High Dimensional Spaces, Why Average Group Vector Comparisons Exhibit Bias, And What to Do about it",
+    "Repo": "CodeOcean",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Do standard distance measures between estimated high-dimensional vectors (e.g., Euclidean distance and cosine similarity) exhibit systematic statistical bias due to estimation uncertainty?",
+        "RQ2": "How large and consequential is this bias in applied social science settings, especially under unequal sample sizes or group imbalance?",
+        "RQ3": "Can this bias be corrected using variance information, and how well do corrected estimators perform?",
+	"RQ4": "What are the practical implications of bias correction for inference, confidence intervals, and applied research?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "R",
+    "paper_title": "Scaling up fact-checking using the wisdom of crowds",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Do aggregated lay ratings correlate with fact-checkers and accurately classify true vs. non-true articles?",
+        "RQ2": "How does performance vary with crowd size and rater characteristics (partisanship, political knowledge, cognitive reflection)?",
+        "RQ3": "Do simple design interventions (e.g., showing publisher/source) improve performance, and what does this imply for scalable platform implementation?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "R",
+    "paper_title": "Quantifying the impact of misinformation and vaccine-skeptical content on Facebook",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Does exposure to COVID-19 vaccine misinformation on Facebook causally reduce vaccination intentions, and to what extent does this effect depend on exposure and persuasive influence?",
+        "RQ2": "How does the overall impact of fact-checked misinformation compare with that of unflagged 'vaccine-skeptical' content?",
+        "RQ3": "Can experimental and observational data be combined to estimate the population-level impact of online vaccine-related content?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata/R",
+    "paper_title": "Understanding and combatting misinformation across 16 countries on six continents",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "What psychological and cultural factors predict belief in and sharing of misinformation across countries?",
+        "RQ2": "Can simple, scalable interventions improve the quality of information sharing globally?",
+        "RQ3": "Can the wisdom of crowds provide a reliable, scalable tool for identifying misinformation?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R/Python",
+    "paper_title": "Leveraging AI for democratic discourse: Chat interventions can improve online political conversations at scale",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Can AI-generated rephrasing improve conversational quality and democratic reciprocity in online political discussions?",
+        "RQ2": "Does AI assistance enhance tone and mutual understanding without influencing policy attitudes or content?",
+        "RQ3": "Can AI-mediated moderation scale effectively to large online platforms?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Method",
+    "language": "R",
+    "paper_title": "Measuring and Explaining Political Sophistication through Textual Complexity",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "How can political sophistication in texts be measured more accurately than with traditional readability indices?",
+        "RQ2": "Which linguistic features best capture textual sophistication in political discourse?",
+        "RQ3": "Can a crowdsourced, pairwise-comparison framework produce reliable and interpretable estimates of textual complexity?",
+	"RQ4": "How do improved measures change substantive conclusions about trends in political communication?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Timing matters when correcting fake news",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Does the timing of fact-checks affect their long-term effectiveness in reducing belief in fake news?",
+        "RQ2": "Which timing strategy most effectively improves discrimination between true and false headlines?",
+        "RQ3": "Do individual and contextual factors moderate the effects of correction timing?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Method",
+    "language": "R/Python",
+    "paper_title": "Labeling social media posts: does showing coders multimodal content produce better human annotation, and a better machine classifier?",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Does providing human coders with access to multimodal content, such as images, links, metadata, and embedded media, improve the quality of manual annotation compared to text-only labeling?",
+        "RQ2": "What are the costs associated with multimodal labeling relative to text-only labeling?",
+        "RQ3": "Do improvements in human annotation under multimodal labeling translate into better downstream performance of a text-based machine learning classifier?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R",
+    "paper_title": "Reducing political polarization in the United States with a mobile chat platform",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Can anonymous cross-party online conversations causally reduce political polarization?",
+        "RQ2": "How do platform design features and conversational dynamics shape the effectiveness of such interactions?",
+        "RQ3": "Can experimental social media platforms be used to study and mitigate polarization at scale?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "Perceived gender and political persuasion: a social media field experiment during the 2020 US Democratic presidential primary election",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "What explains gender gaps in political influence in online conversations: stereotypes, gendered performance, or their interaction?",
+        "RQ2": "How does perceived gender shape persuasion, resistance, and attitude convergence in political discussion?",
+        "RQ3": "What role does gendered language play in mediating these effects?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Python/R",
+    "paper_title": "Fact-checking information from large language models can decrease headline discernment",
+    "Repo": "Github",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Does fact-checking information generated by large language models improve people’s ability to distinguish between true and false political news headlines?",
+        "RQ2": "How does LLM-based fact-checking affect belief in and willingness to share true and false headlines?",
+        "RQ3": "Do the effects of LLM fact-checking depend on model accuracy and expressions of uncertainty?",
+	"RQ4": "How do user choices and attitudes toward AI shape the impact of LLM fact-checking?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Science of Science",
+    "language": "R",
+    "paper_title": "Partisan disparities in the funding of science in the United States",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "How does partisan control of US political institutions affect federal science and research funding over time?",
+        "RQ2": "At which stages of the appropriations process does partisan influence on science funding emerge?",
+        "RQ3": "Do partisan differences in funding vary across agencies and departments?",
+	"RQ4": "Do partisan shifts affect not only overall funding levels but also the distribution of funds across research fields?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Science of Science",
+    "language": "R",
+    "paper_title": "Partisan disparities in the use of science in policy",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Do Democratic- and Republican-aligned policy-makers differ systematically in how often they cite scientific research in policy documents??",
+        "RQ2": "Do partisan groups rely on the same scientific evidence when making policy, or do they cite different bodies of research?",
+        "RQ3": "Do Democrats and Republicans draw on different scientific topics even when addressing similar policy issues?",
+	"RQ4": "Are there partisan differences in the quality, impact, and recency of the science that is cited?",
+	"RQ5": "Do differences in trust in scientists and scientific institutions help explain partisan disparities in the use of science?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Science of Science",
+    "language": "Python",
+    "paper_title": "Quantifying the use and potential benefits of artificial intelligence in scientific research",
+    "Repo": "Github",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "How widely and in what ways is AI used in scientific research, and what benefits are associated with its adoption?",
+        "RQ2": "Is there a misalignment between AI education and research practice, and how does this affect scientific productivity?",
+        "RQ3": "Are the benefits of AI distributed equitably across researchers and disciplines, and what role does collaboration play?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "R",
+    "paper_title": "Current engagement with unreliable sites from web search driven by navigational search",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Do search engines systematically expose users to unreliable information, or is engagement primarily driven by user-initiated navigational searches?",
+        "RQ2": "How do user preferences, especially navigational queries, structure exposure to and engagement with unreliable sources?",
+        "RQ3": "Has the integration of LLMs into search meaningfully changed these dynamics?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Python/R",
+    "paper_title": "Supersharers of fake news on Twitter",
+    "Repo": "Dryad",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "How important are supersharers in the spread of fake news on Twitter?",
+        "RQ2": "Who are the supersharers?",
+        "RQ3": "What platform affordances enable supersharers to produce such high volumes of fake news?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "Stata",
+    "paper_title": "Don’t get it or don’t spread it: comparing self‑interested versus prosocial motivations for COVID‑19 prevention behaviors",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Which is more effective for motivating COVID-19 prevention behaviors: self-interested framing or prosocial framing?",
+        "RQ2": "Are prosocial motivations or self-interested motivations more strongly associated with prevention intentions?",
+        "RQ3": "Does combining self-interested and prosocial framing improve behavioral outcomes?",
+	"RQ4": "Do prior prosocial tendencies predict compliance with COVID-19 prevention behaviors?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R/Python",
+    "paper_title": "Short-term exposure to filter-bubble recommendation systems has limited polarization effects: Naturalistic experiments on YouTube",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Do YouTube-style recommendation systems causally increase political polarization in the short term?",
+        "RQ2": "Do filter bubbles and rabbit hole dynamics meaningfully shape users’ media consumption behavior?",
+        "RQ3": "Do changes in algorithmic content supply translate into downstream changes in political attitudes?",
+	"RQ4": "Are widely circulating claims about algorithmic radicalization empirically supported under realistic experimental conditions?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Partisanship",
+    "language": "R",
+    "paper_title": "Divergent patterns of engagement with partisan and low-quality news across seven social media platforms",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "How do political lean and news quality vary across major social media platforms?",
+        "RQ2": "How does the political orientation of news sources relate to user engagement on different platforms?",
+        "RQ3": "Is the relationship between news quality and engagement consistent across platforms?",
+	"RQ4": "Are differences in engagement driven mainly by algorithms or by user preferences?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Partisanship",
+    "language": "R",
+    "paper_title": "Shared partisanship dramatically increases social tie formation in a Twitter field experiment",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Does shared partisanship causally drive social tie formation on Twitter?",
+        "RQ2": "Is this effect symmetric across parties and moderated by partisan strength?",
+        "RQ3": "To what extent does partisan homophily reflect individual preferences rather than platform effects?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Hate Speech",
+    "language": "R",
+    "paper_title": "Citizen preferences for online hate speech regulation",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "What do citizens deem acceptable or unacceptable speech in online public discourse?",
+        "RQ2": "How do citizens want online speech, especially hateful speech, to be handled and regulated by platforms and authorities?",
+        "RQ3": "Which content-related, contextual, and individual-level factors shape citizens’ perceptions of hate speech and their preferences for sanctions?",
+	"RQ4": "How do national, cultural, and legal contexts (specifically the United States vs. Germany) influence preferences for hate speech regulation?",
+        "RQ5": "How do normative frames emphasizing free speech versus harm prevention affect evaluations of hateful content and support for regulation?",
+        "RQ6": "What are the short-term effects of exposure to hateful speech on tolerance for offensive opinions and support for censorship?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Method",
+    "language": "R",
+    "paper_title": "Who’s cheating on your survey? A detection approach with digital trace data",
+    "Repo": "Dataverse",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "How prevalent is cheating in online surveys of political knowledge when measured using direct digital trace evidence?",
+        "RQ2": "Can passive web tracking data provide a precise and unobtrusive method for detecting cheating at the item level?",
+        "RQ3": "What respondent- and item-level factors predict cheating behavior?",
+	"RQ4": "Do anti-cheating interventions, such as commitment pledges, reduce cheating prevalence?",
+        "RQ5": "Does cheating substantially distort substantive inferences about political knowledge?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "Python",
+    "paper_title": "Fighting bias with bias: How same-race endorsements reduce racial discrimination on Airbnb",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Do guests prefer same-race hosts and same-race endorsements on Airbnb?",
+        "RQ2": "Does responsiveness to same-race endorsements reinforce or mitigate racial discrimination?",
+        "RQ3": "Are these effects driven by review content or by the perceived race of reviewers?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Accuracy prompts are a replicable and generalizable approach for reducing the spread of misinformation",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Does prompting people to think about accuracy increase sharing discernment by reducing the sharing of false news relative to true news?",
+        "RQ2": "Are the effects of accuracy prompts replicable and generalizable across different prompt types, topics (politics vs COVID-19), samples, and experimental settings?",
+        "RQ3": "Do accuracy prompts primarily work by decreasing the sharing of false information rather than increasing the sharing of true information?",
+	"RQ4": "Are the effects of accuracy prompts moderated by individual characteristics such as political ideology, cognitive reflection, and attentiveness?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Fighting misinformation on social media using crowdsourced judgments of news source quality",
+    "Repo": "OSF",
+    "task_prompt": "",
+    "RQ": [
+      {
+        "RQ1": "Can politically balanced crowds accurately and reliably evaluate the trustworthiness of news sources?",
+        "RQ2": "How do partisan differences and individual traits affect these judgments?",
+        "RQ3": "Can crowd-based source ratings be used to reduce the spread of misinformation on social media?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Misinformation",
+    "language": "Stata",
+    "paper_title": "Shifting attention to accuracy can reduce misinformation online",
+    "Repo": "OSF",
+    "task_prompt": "Convert all .do files to R or Python (your choice) and run them",
+    "RQ": [
+      {
+        "RQ1": "Is the difference between false and true news (discernment) larger for perceived accuracy than it is for social media sharing (among individuals with a willingness to share political news on social media)?",
+        "RQ2": "Does prompting people to think about accuracy decrease the likelihood that they will be willing to share fake news on Facebook?",
+        "RQ3": "Does sending Twitter users a direct message asking them to rate the accuracy of a single non-partisan headline improve the quality of the news content they subsequently share on Twitter?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "Elite party cues increase vaccination intentions among Republicans",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Whether framing the COVID-19 vaccine development and distribution as a Republican achievement improves attitudes toward the COVID-19 vaccine and/or intentions to get a COVID-19 vaccine among Republicans",
+        "RQ2": "string",
+        "RQ3": "string"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Emergence and collapse of reciprocity in semiautomatic driving coordination experiments with humans",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "How do different forms of driving automation affect the emergence or collapse of reciprocity in human coordination?",
+        "RQ2": "Does communication moderate the impact of automation on cooperative and reciprocal behavior?",
+        "RQ3": "Do automation-induced changes in coordination norms persist after assistance is removed, and do they alter social preferences?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Collective Action",
+    "language": "R",
+    "paper_title": "Protest movements involving limited violence can sometimes be effective: Evidence from the 2020 BlackLivesMatter protests",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "How does exposure to nonviolent versus mixed violent–nonviolent protests affect public support for BLM’s policy goals?",
+        "RQ2": "How does exposure to different protest tactics affect racial prejudice toward Black Americans?",
+        "RQ3": "Do the effects of protest tactics on policy support and prejudice vary by political ideology and local political context?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "R",
+    "paper_title": "Can Exposure to Celebrities Reduce Prejudice? The Effect of Mohamed Salah on Islamophobic Behaviors and Attitudes",
+    "task_prompt": "",
+    "Repo": "Dataverse",
+    "RQ": [
+      {
+        "RQ1": "Does exposure to an out-group celebrity reduce prejudice toward that group?",
+        "RQ2": "Does such exposure lead to measurable changes in real-world behavior (hate crimes and online speech)?",
+        "RQ3": "Is prejudice reduction mediated by the salience of the celebrity’s minority-group identity (parasocial contact)?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Collective Action",
+    "language": "R",
+    "paper_title": "Simple autonomous agents can enhance creative semantic discovery by human groups",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Do social networks improve creative search compared to individual work?",
+        "RQ2": "Can simple AI agents enhance collective creativity, and how?",
+        "RQ3": "When do social and AI interventions work or fail?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Collective Action",
+    "language": "Python/R",
+    "paper_title": "Characterizing Population-level Changes in Human Behavior during the COVID-19 Pandemic in the United States",
+    "task_prompt": "",
+    "Repo": "",
+    "RQ": [
+      {
+        "RQ1": "Do risk-averting behaviors (e.g., avoiding contact, mask wearing) start high early in the pandemic and then decline steadily over time?",
+        "RQ2": "Do people increase preventive behaviors when COVID-19 mortality is high and engage more in risk-exposing behaviors when mortality is low?",
+        "RQ3": "Do increases in risk-exposing behaviors lead to subsequent increases in COVID-19 cases, hospitalizations, and deaths?",
+	"RQ4": "Do patterns in behavior change and their links to disease outcomes vary across states, especially by political leaning?",
+	"RQ5": "Do states with similar levels of government restrictions (as measured by the Oxford Stringency Index) nevertheless show substantial differences in how much people actually follow preventive behaviors?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Social identity shapes antecedents and functional outcomes of moral emotion expression",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Does moral-emotional language causally increase political message sharing on social media?",
+        "RQ2": "How does social identity shape who shares moral-emotional content and when?",
+        "RQ3": "What are the social consequences of sharing moral-emotional messages for intergroup relations?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Sexism in teams: Exposure to sexist comments increases emotional synchrony but eliminates its benefits for team performance",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Does exposure to sexist comments affect emotional synchrony within teams?",
+        "RQ2": "Does sexism undermine the performance benefits of emotional synchrony?",
+        "RQ3": "Does sexism shift teams from goal-oriented to socially oriented coordination?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Public Opinion",
+    "language": "R",
+    "paper_title": "Trust in scientists and their role in society across 68 countries",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "How much do people around the world trust scientists, and how does this vary across countries?",
+        "RQ2": "What individual-level and country-level factors explain variation in trust in scientists?",
+        "RQ3": "What do people think scientists’ role in society and policymaking should be?",
+	"RQ4": "What research priorities do people want scientists to pursue, and do they believe scientists are addressing those priorities?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Human social preferences cluster and spread in the field",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Do intrinsic social (prosocial) preferences cluster in real-world social networks?",
+        "RQ2": "How do cooperative clusters emerge in natural social settings?",
+        "RQ3": "Does being embedded in a cooperative environment increase individual prosociality?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "R",
+    "paper_title": "The impact of marriage equality campaigns on stress: Did a Swiss public vote get under the skin?",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Does a national marriage-equality campaign increase psychological and biological stress?",
+        "RQ2": "How does exposure to anti- and pro-equality campaigns shape stress responses?",
+        "RQ3": "Do engagement and group membership moderate these effects over time?",
+	"RQ4": "Do campaign effects persist after the vote?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Valence Biases and Emergence in the Stereotype Content of Intersecting Social Categories",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Do perceptions of category intersections reflect averaging or biased weighting of constituent stereotypes (negativity/extremity biases; possibly moderated by familiarity)?",
+        "RQ2": "Do category intersections elicit emergent stereotype attributes not present in constituents?",
+        "RQ3": "What predicts emergence (novelty, incongruence), and how does emergent content differ from constituent-shared content (valence; morality/idiosyncratic vs. competence/sociability, etc.)?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Inequality",
+    "language": "R",
+    "paper_title": "A summer bridge program for first generation low-income students stretches academic ambitions with no adverse impacts on first-year GPA",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Did the summer bridge program lead to higher academic performance in the first year of college, measured by first-year GPA (with and without summer grades)?",
+        "RQ2": "Did the program reduce indicators of academic difficulty in the first year, operationalized as outcomes such as nonvoluntary academic withdrawal/leave and having too few passing credit units?",
+        "RQ3": "Did the program increase academic ambition in the first year, measured via total units taken (with and without summer credits), proportion of nonintroductory courses, and proportion of courses taken for a grade (vs pass/fail)?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Emotion regulation contagion drives reduction in negative intergroup emotions",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Can emotion regulation training given to some group members spread to others and reduce negative intergroup emotions at the group level?",
+        "RQ2": "How does the proportion of trained individuals shape the magnitude and form of this contagion effect, and is there a critical threshold?",
+        "RQ3": "Through what mechanisms does this spread occur (social learning vs. compliance), and does it generalize to broader intergroup sentiments?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Public Opinion",
+    "language": "Python",
+    "paper_title": "The Effect of Prediction Error on Belief Update Across the Political Spectrum",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Does the magnitude of prediction error causally drive belief updating?",
+        "RQ2": "Is prediction-based feedback more effective than passive evidence in changing beliefs, especially when errors are large?",
+        "RQ3": "Is belief updating via prediction error moderated by political ideology, polarization, and resistance to change?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Intergroup Relations",
+    "language": "R",
+    "paper_title": "Affective Prediction Errors in Persistence and Escalation of Aggression",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Does feeling better than expected after an aggressive act increase the persistence and escalation of aggression?",
+        "RQ2": "Are affective prediction errors amplified or more influential for aggressive compared to neutral actions?",
+        "RQ3": "Does group identification and induced intergroup emotion shape how affective prediction errors translate into aggression?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Hate Speech",
+    "language": "R",
+    "paper_title": "Empathy-based counterspeech can reduce racist hate speech in a social media field experiment",
+    "task_prompt": "",
+    "Repo": "Dataverse",
+    "RQ": [
+      {
+        "RQ1": "What is the causal effect of different counterspeech strategies on subsequent hate-speech behavior on Twitter?",
+        "RQ2": "Is empathy-based counterspeech more effective than humor or warnings in reducing hate-speech creation and increasing deletion?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Hate Speech",
+    "language": "R",
+    "paper_title": "Moralized language predicts hate speech on social media",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Are posts that contain more moral words and moral-emotional words more likely to receive hate speech in the corresponding replies?",
+        "RQ2": "Does this relationship hold consistently across different elite speaker domains—politics, news media, and activism?",
+        "RQ3": "Does moralized language improve out-of-sample prediction of hate-speech prevalence beyond established content and author features?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Cooperation",
+    "language": "R",
+    "paper_title": "Disentangling participation in online political discussions with a collective field experiment",
+    "task_prompt": "",
+    "Repo": "Github",
+    "RQ": [
+      {
+        "RQ1": "How are active users different from silent users, and what factors predict participation in online political discussions?",
+        "RQ2": "Can monetary incentives or norm-based moderation reduce participation differentials, and with what consequences for discourse and attitudes?",
+        "RQ3": "How do active and passive users differ in political opinion change over time?",
+	"RQ4": "To what extent is participation predicted by users’ perceptions of the group environment (e.g., toxicity, polarization, respectfulness)?",
+	"RQ5": "Do participation interventions affect the quality and structure of online discourse?",
+	"RQ6": "Do participation-focused treatments affect political variables such as trust, polarization, and interest?",
+	"RQ7": "Are changes in political opinions mediated by discourse quality and structure?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Partisanship",
+    "language": "R",
+    "paper_title": "Partisan conflict over content moderation is more than disagreement about facts",
+    "task_prompt": "",
+    "Repo": "Dataverse",
+    "RQ": [
+      {
+        "RQ1": "To what extent is partisan conflict over content moderation explained by differences in beliefs about whether a headline is true vs. false (“misinformation”)?",
+        "RQ2": "Do partisans want misinformation to remain online when it benefits their own party and to be removed when it harms their party, regardless of whether they believe it is accurate?",
+        "RQ3": "Even when partisans agree content is false, do they still differ in their overall preference for removing misinformation—e.g., Republicans being less supportive of removal and more likely to view removal as censorship?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Polarization",
+    "language": "R",
+    "paper_title": "Reranking partisan animosity in algorithmic social media feeds alters affective polarization",
+    "task_prompt": "",
+    "Repo": "Dryad",
+    "RQ": [
+      {
+        "RQ1": "Does algorithmic ranking—specifically, exposure to content expressing antidemocratic attitudes and partisan animosity (AAPA)—causally change affective polarization?",
+        "RQ2": "Does changing exposure to AAPA content also affect users’ emotional experience while using the platform (e.g., anger/sadness vs. calm/excitement)?",
+        "RQ3": "Can researchers run platform-independent, naturalistic feed-ranking experiments at scale without platform cooperation (via a browser-extension reranking approach)?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "Stata",
+    "paper_title": "Prebunking and credible source corrections increase election credibility: Evidence from the US and Brazil",
+    "task_prompt": "",
+    "Repo": "",
+    "RQ": [
+      {
+        "RQ1": "Which approach—credible-source corrections or prebunking—more effectively increases election confidence and reduces fraud beliefs, and does this replicate across the US and Brazil?",
+        "RQ2": "What drives prebunking’s effects: the forewarning (inoculation) component or the factual election-security information, and how durable are the effects?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "The small effects of political advertising are small regardless of context, message, sender, or receiver: Evidence from 59 real-time randomized experiments",
+    "task_prompt": "",
+    "Repo": "Dataverse",
+    "RQ": [
+      {
+        "RQ1": "What are the average effects on favorability and vote intention?",
+        "RQ2": "How much heterogeneity exists across ads/experiments beyond sampling variability?",
+        "RQ3": "Is any heterogeneity explained by theory-relevant moderators (sender/receiver/message/context)?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+  {
+    "domain": "Persuasion",
+    "language": "R",
+    "paper_title": "Listen for a change? A longitudinal field experiment on listening’s potential to enhance persuasion",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Does adding high-quality, nonjudgmental listening to a persuasive appeal increase short-term and long-term attitude change compared to delivering the persuasive appeal alone?",
+        "RQ2": "Does listening alone (without a persuasive narrative) change policy attitudes or prejudice?",
+        "RQ3": "Through what mechanisms might listening enhance persuasion?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+{
+    "domain": "Collective Action",
+    "language": "R",
+    "paper_title": "Information-sharing and cooperation in networked collective action groups",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Does information-sharing in networked public goods groups increase cooperation?",
+        "RQ2": "If so, does it operate through coordination or reputational mechanisms, and what types of behaviors are shared?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+{
+    "domain": "Science Communication",
+    "language": "Stata",
+    "paper_title": "Model uncertainty, political contestation, and public trust in science: Evidence from the COVID-19 pandemic",
+    "task_prompt": "",
+    "Repo": "Dataverse",
+    "RQ": [
+      {
+        "RQ1": "What is the effect of partisan elite cues (who says it) endorsing vs. criticizing COVID-19 models on trust in science and support for model-guided reopening policy?",
+        "RQ2": "What is the effect of uncertainty communication frames (what is said) including point predictions vs. ranges, and reversals/updates in projections, on trust in science and policy support?",
+	"RQ3": "Do these effects vary by individuals’ scientific knowledge (i.e., who is most responsive to these cues/frames)?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+{
+    "domain": "Science Communication",
+    "language": "Python",
+    "paper_title": "Selective and deceptive citation in the construction of dueling consensuses",
+    "task_prompt": "",
+    "Repo": "Zenodo",
+    "RQ": [
+      {
+        "RQ1": "How do science communicators (including mainstream science journalists and conspiracy-oriented actors) transform the scientific literature into two dueling perceived consensuses about mask effectiveness (pro-mask vs. anti-mask) during COVID-19, as reflected in cross-medium citation practices?",
+        "RQ2": "Do science communicators cite the literature by stance (pro/anti) rather than by method/field, unlike scientists?",
+	"RQ3": "Are anti-mask communicators more likely to use negative citation and deceptive/selective quotation than pro-mask communicators?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  },
+{
+    "domain": "Science Communication",
+    "language": "R",
+    "paper_title": "Public Communication about Science in 68 Countries: Global Evidence on How People Encounter and Engage with Information about Science",
+    "task_prompt": "",
+    "Repo": "OSF",
+    "RQ": [
+      {
+        "RQ1": "Where do people across the world encounter information about science?",
+        "RQ2": "How do people across the world communicate about science with others?"
+      }
+    ],
+    "Theories": [
+      {
+        "Th1": "string",
+        "Th2": "string",
+        "Th3": "string"
+      }
+    ]
+  }
+]

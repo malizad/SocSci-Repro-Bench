@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Convert all .do files into R scripts and run them",
+  "tasks": [
+    "What is the final sample size for Study 2 (Brazil) after excluding respondents who did not reach randomization and removing duplicate responses? Report only the number.",
+    "In Study 1 Wave 1, based solely on the magnitude of the point estimates, did the prebunking treatment reduce beliefs about the prevalence of voter fraud in the 2020 election more than the credible source correction? Report only say or no.",
+    "In Study 2, based on statistical significance at the 0.05 level, is it true that the credible source correction significantly change beliefs about the prevalence of voter fraud in either the 2022 or 2026 election? Report only Yes or No."
+  ]
+}

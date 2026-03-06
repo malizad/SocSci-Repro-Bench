@@ -1,0 +1,11 @@
+{
+  "task_prompt": "Convert the meta_code.do file to R or Python (your choice) and run it",
+  "tasks": [
+    "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing discernment across all 20 experiments? Report only the number rounding to three decimal places.",
+    "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for false news across all 20 experiments? Report only the number rounding to three decimal places.",
+    "Based on the results in Figure 1, what is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments? Report only the number rounding to three decimal places.",
+    "Based on the results in Figure 1, is the pooled point estimate of the overall effect of accuracy prompts on sharing intentions for true news across all 20 experiments statistically significant at p < 0.05? Report only Yes or No.",
+    "Based on the results for the evaluation treatment only, what is the percentage increase in sharing discernment due to the treatment relative to baseline sharing discernment in the control condition? Report only the result rounding to one decimal place.",
+    "Based on the results for the evaluation treatment only, what is the z-value for the pooled effect of the treatment on sharing intentions for false news? Report only the number rounding to three decimal places."
+  ]
+}

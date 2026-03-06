@@ -1,0 +1,8 @@
+{
+  "task_prompt": "Run run_replication.R",
+  "tasks": [
+    "Report the coefficient estimate (to two decimal places) for the meanSentenceChars variable in the 'Best Model' setting from Table 2. Report only the number rounded to two decimal places.",
+    "From figure1.pdf plot, report the y-axis label.",
+    "From figure3.pdf plot results, report the SOTU Address name with the largest 'Probability That Spoken SOTU Was Easier Than Written'. Only report the name."
+  ]
+}
